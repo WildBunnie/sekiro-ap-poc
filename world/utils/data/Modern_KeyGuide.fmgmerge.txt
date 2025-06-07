@@ -1,0 +1,82 @@
+###ID 202
+
+###100000###100002###100012###100013
+OK
+
+###100001
+Confirm
+
+###100008
+Equip/Remove
+
+###100009###120500
+Record Remnant
+
+###100010###120600
+Record and overwrite
+
+###100011
+View Remnant
+
+###100015
+Next
+
+###100020
+<?kgiconKc@33?>: Next
+
+###100030
+<?kgiconKc@25?>:Next <?kgiconKc@26?>:Cancel
+
+###110000###110002###110003###110004###160010
+Back
+
+###110001
+Close
+
+###120000
+Remove
+
+###120200
+Unallocate
+
+###120300###400003
+Delete
+
+###120400###160020
+Praise
+
+###120501
+Update message
+
+###130000
+Swap Display
+
+###130050
+Return to Default
+
+###130100
+Open the Antique Map
+
+###130200
+Protect ON/OFF
+
+###130300###160021
+Scorn
+
+###130400
+Toggle selection on/off
+
+###130500
+Write message
+
+###130600
+Overwrite with new message
+
+###140100
+-10
+
+###140101
++10
+
+###200010
+Scroll

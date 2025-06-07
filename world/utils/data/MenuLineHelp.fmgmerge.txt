@@ -1,0 +1,238 @@
+###ID 80
+
+###10001
+Browse and use items
+
+###10002
+Change equipment
+
+###10003
+View status
+
+###10004
+Configure options or quit the game
+
+###11000
+Select an item to examine or use
+
+###11001
+Select an item to examine
+
+###11002
+Select an item to move
+
+###11003
+Select a new spot for selected item
+
+###11004
+Drop selected item
+
+###11005
+Rearrange item order
+
+###11006
+Reset item order
+
+###11007
+Use selected item
+
+###12000###12001
+Select item to equip
+
+###14000
+Check status
+
+###16000###16001
+Configure options
+
+###16003
+Apply changes
+
+###16004
+Apply changes and proceed
+
+###16005###16006
+Initialize settings
+
+###16010###16503
+Change brightness
+
+###16011
+Adjust brightness
+
+###16100
+List of your messages
+
+###16500
+Change options
+
+###16502
+Quit the game
+
+###16600
+Select gesture to use
+
+###16601
+Select gesture to assign
+
+###18000
+Select bonfire to warp to
+
+###18200###18300
+Most Wanted
+
+###18201
+Advanced data on Most Wanted
+
+###18210###18310
+Servants of Chaos
+
+###18211
+Advanced data on Servants of Chaos
+
+###18301
+Display player status information when cleared
+
+###20000###20001
+Select a parameter to boost
+
+###22010
+Select slots to attune magic
+
+###22011
+Select magic to attune
+
+###30000
+Select item to purchase
+
+###30100
+Select item to feed
+
+###31000
+Select weapon or armor to repair
+
+###32000
+Select weapon to reinforce
+
+###32001
+Select armor to reinforce
+
+###32002
+Change equipment stats
+
+###41000###41002
+Select data to load
+
+###41001
+Select data to delete
+
+###42100###42120
+Select sex
+
+###42101
+Enter name
+
+###42102###42122
+Select class
+
+###42103###42123
+Select gift
+
+###42104
+Select physique
+
+###42105###42125
+Select face
+
+###42106###42126
+Select hair
+
+###42107###42127###43012
+Select hair and eye color
+
+###42108
+Customize face
+
+###42109
+Confirm character
+
+###42124
+Select body type
+
+###43001
+Select general type
+
+###43002
+Generate random face based on general type
+
+###43003
+Restore edited face to default settings
+
+###43004
+Adjust age
+
+###43005
+Adjust femininity/masculinity
+
+###43006
+Customize face further
+
+###43007
+Generate random face similar to general type
+
+###43011
+Select a hairstyle
+
+###43013
+Adjust features
+
+###43101
+Configure overall balance and color tone
+
+###43102
+Configure forehead and brow line
+
+###43103
+Configure eyebrow areas
+
+###43104
+Configure pupils and eye area
+
+###43105
+Configure nose ridge and nostrils
+
+###43106
+Configure cheeks
+
+###43107
+Configure lips, mouth, and lipstick
+
+###43108
+Configure upper jaw, lower jaw, and beard
+
+###43109
+Customize hair color
+
+###43201###43202###43203###43204###43205###43206###43207###43208###43209###43210###43211###43212###43213###43214###43215###43216
+Select item to configure
+
+###43501
+Adjust values
+
+###43502
+Make a selection
+
+###43503
+Confirm changes and go back
+
+###44000
+Select text body
+
+###44001
+Select a word for the space
+
+###45000###45001
+Move items in and out of box
+
+###46000###46001
+Select parameter to sacrifice

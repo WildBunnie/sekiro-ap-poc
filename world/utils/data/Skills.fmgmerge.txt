@@ -1,0 +1,408 @@
+###ID 40
+
+###200000
+Acquires "Grappling Hook Attack" Shinobi Martial Art.
+
+Uses the Grappling Hook to launch oneself at an enemy, and use that momentum to perform a rolling sword attack.
+
+The Shinobi Prosthetic is the perfect tool
+for combining movement and attack into one, ensuring no movement is wasted.
+
+###200100
+Acquires Shinobi Martial Art 
+"Mid-air Deflection".
+Allows one to guard against or deflect enemy attacks in mid-air.
+Guns and other projectile weapons deal additional damage to airborne targets, and this technique can serve to prevent that damage.
+A shinobi is not shot down so easily.
+
+###200200
+Acquires Shinobi Martial Art
+"Mid-air Prosthetic Tool".
+Enables the use of Prosthetic Tools while in mid-air.
+The Shinobi Prosthetic is heavy as it is made from iron machinery.  Despite that, it can be used in the air thanks to the techniques of its creator Dogen, and the training of its owner.  
+
+###200300
+Acquires Shinobi Martial Art 
+"Mikiri Counter".
+Enables one to counter enemy thrust attacks by stomping down on an enemy's weapon, dealing a large amount of damage to Posture.
+
+It is nearly impossible to perceive the speed of a thrust, but not for sharp eyes of a Shinobi.  
+
+###200400
+Acquires the Shinobi Martial Art
+"Run and Slide".
+
+Allows one to slide into a crouched position while sprinting.
+
+Sprint through an area and slide into cover or otherwise out of view.
+
+This maneuver easily deceives an enemy's eyes.
+
+###200500
+Acquires the Shinobi Martial Art
+"Mid-air Combat Art".
+
+Allows one to perform Combat Arts while in mid-air.
+
+Allows one to use combat arts after jumping to close with an enemy, or immediately after jumping a sweep attack.
+
+###200600
+Acquires the Shinobi Martial Art 
+"Vault Over".
+
+A Shinobi Martial Art that allows one to leap over and behind a Posture-broken enemy.
+
+This Martial Arts technique allows the use of backstab Deathblows in the middle of battle, even without using stealth.
+
+###210000
+Acquires Combat Art "Whirlwind Slash".
+
+A spinning attack that can hit several enemies at once.  The sharp cut combined with the force of the spin can strike multiple foes, and deal damage even when guarded.
+
+When surrounded by enemies, this shinobi technique can cut open a path to victory.
+
+###211000
+Acquires the Combat Art "Shadowrush".
+The secret technique of the Shinobi style, 
+devised by the Great Shinobi himself.
+Unleash a long range, powerful thrust, then use the impaled opponent as a platform to vault into the skies.  
+
+Be as an owl on the hunt, and take to the skies after stabbing your prey.  
+Spirit Emblems are consumed when leaping.
+
+###301000
+Acquires Shinobi Martial Art 
+"Chasing Slice".  
+A Shinobi Martial Art that allows one to perform a forward-dashing sword slice after using certain Prosthetic Tools, allowing one to close distance on enemies instantly.
+Applicable Prosthetic Tools:
+<?acquiredWeaponNameId@70000?>, <?acquiredWeaponNameId@71000?>, <?acquiredWeaponNameId@78000?>
+
+###301100
+Acquires Shinobi Martial Art
+"Fang and Blade".
+After using certain Prosthetic Tools, this move allows one to attack with the Tool and sword simultaneously, or it provides a follow-up attack for the Tool.
+
+Applicable Prosthetic Tools:
+<?acquiredWeaponNameId@73000?>, <?acquiredWeaponNameId@78000?>, <?acquiredWeaponNameId@74000?>
+
+###301200
+Acquires Shinobi Martial Art
+"Projected Force".
+After using certain Prosthetic Tools, allows one to draw the power of that Tool into the sword and release it in a forward direction.
+The specific attack changes depending on the tool used.  
+Applicable Prosthetic Tools:
+<?acquiredWeaponNameId@76000?>, <?acquiredWeaponNameId@79000?>
+
+###301300
+Acquires Shinobi Martial Art "Living Force".
+Allows one to perform a follow-up attack with certain Tools that imbues the sword with the Tool's effect.  
+The Sculptor retired the Shinobi Prosthetic after developing this technique.  He'd gone too far, killed too many.  The flames of hatred had begun to manifest...
+Applicable Prosthetic Tools:
+<?acquiredWeaponNameId@72000?>, <?acquiredWeaponNameId@77000?>
+
+###310000
+Acquires the Combat Art "Nightjar Slash".
+A spinning leap attack that can quickly close or create distance from foes.  
+A technique of the Nightjar Clan, the Shinobi who serve Ashina.
+The Nightjar use the weight of their massive shuriken to add force to the blow.  The Shinobi Prosthetic is made of heavy steel and can be used in a similar capacity.
+<?kgiconKc@18?>+<?kgiconKc@16?>: Nightjar Slash
+
+###310100
+Acquires the Combat Art 
+"Nightjar Slash Reversal"
+Performs a spinning leap attack that can quickly close with or create distance from foes.  This technique allows one to decide which direction to rotate in when performing Nightjar Slash.  Making use of both directions makes this both an offensive and a defensive skill.
+
+###410000
+Acquires the Combat Art "Ichimonji".
+Ichimonji delivers a heavy, one-hit overhead sword strike.  Deals high posture damage and also recovers one's own posture with a strong forward step.
+
+Single-minded mastery of this technique is the heart of the Ashina style's strength.
+Once mastered, it can likely be improved.
+
+###410100
+Acquires Combat Art "Ichimonji: Double" 
+Adds a follow-up overhead sword strike to Ichimonji.  Deals high posture damage and also recovers one's own posture with a strong forward step.
+
+The follow-up attack is especially useful for preventing enemy counterattacks.
+Ashina's Ichimonji is perfected with this
+follow-up strike.
+
+###411000
+Acquires the Combat Art "Ashina Cross".
+From a sheathed stance, draw the blade at
+high speed.  Costs Spirit Emblems to use.
+Hold the stance to intercept at will.
+A secret technique of the Ashina style,
+devoted to the mastery of a swift kill.
+Draws a cruciform cut in the blink of an
+eye; so fast it could sever the arm of
+Shura, or so boasts Isshin Ashina.
+
+###510000
+Acquires the Combat Art "Praying Strikes".
+
+Using successive elbow and arm strikes, unleash a flurry of quick attacks that inflict damage while preventing counterattack.
+The strikes are both a martial art and a form of prayer.  
+
+"Without strength, one cannot defeat the enemies of Buddha..."
+
+###510100
+Acquires Combat Art 
+"Praying Strikes - Exorcism"
+Adds a finishing attack to Praying Strikes.
+Unleash a flurry of quick attacks, inflicting damage while preventing counterattack.  Then, use a heavier blow using one's entire body to complete the combination.
+The Senpou monks also used this technique as a way to purge themselves of worldly desires.  However...  
+
+###511000
+Acquires the "Senpou Leaping Kick" Combat Art, where repeated attacks begin with a leaping kick.  A combined anti-air counter and sweep attack counter, followed up with a combination of kicks.
+
+A technique refined by the recluses of Senpou.  According to their practices, mastery of the Leaping Kick proves one has attained true enlightenment.  
+
+###511100
+Acquires Combat Art "High Monk".
+The Secret Technique of the Senpou Style, this adds sword slashes and additional kicks to the Senpou Leaping Kick.  
+
+The technique has no form, and the attacks differ from person to person.  For Wolf, it's only natural that he'd rely on Kusabimaru when performing the technique.
+
+###610100
+Acquires Combat Art "Shadowfall".
+An evolution of Shadowrush, this is a Secret Technique of the Ashina Mushin Compound Style.  
+After leaping into the skies with Shadowrush, allows one to perform a spinning sword attack as they descend.
+Pierce, fly, and then dive back down.  Jumping off the enemy costs Spirit Emblems.
+
+###611100
+Acquires Combat Art 
+"Spiral Cloud Passage".
+A sword technique that unleashes powerful shockwaves.  Costs Spirit Emblems to use.
+Its namesake comes from a large eddy of
+distant cloud forming near the headwaters;
+the Fountainhead Spiral.
+Tomoe would watch her young master as
+he gazed longingly at the coiling clouds.
+The sight meant everything to her.
+
+###612100
+Acquires Combat Art 
+"Empowered Mortal Draw".
+A secret technique using the Mortal Blade.  Costs Spirit Emblems to use.
+By focusing one's mind before unsheathing the Mortal Blade, one can draw additional power, resulting in a longer-ranged, more powerful slash attack.  Draw the sword that cannot be drawn, and unleash its devastation.  
+
+###620000
+Acquires the Latent Skill "Suppress Presence".
+A Latent Skill that reduces an enemy's ability to perceive those who are in stealth.
+
+Removing one's presence is part of what defines a shinobi.
+
+###620100
+Acquires the Latent Skill "Suppress Sound".
+A Latent Skill that suppresses movement noise by inhibiting an enemy's ability to hear it.
+
+Moving in silence is part of what defines a shinobi.
+
+###630000
+Acquires the Latent Skill "Virtuous Deed".  
+Improves the amount of sen obtained from enemies and improves item drop rates.  
+
+In the words of the High Priest of Senpou Temple...
+
+"One should focus only on deeds of virtue and forego thoughts of attaining wealth."
+
+###630100
+Acquires the Latent Skill 
+"Most Virtuous Deed".
+Increases the amount of sen obtained from enemies and improves item drop rates.
+In the words of the High Priest of Senpou Temple...
+"One should focus only on continued deeds of virtue and forego any thoughts of attaining wealth."
+
+###640000
+Acquires the Latent Skill 
+"Emma's Medicine: Potency".
+Increases the healing effects of recovery items.
+Emma taught this technique to the Sculptor long ago.
+Memorizing the flavor will enhance its effects.  However, knowing this technique doesn't make the medicine taste any better.
+
+###640100
+Acquires the Latent Skill 
+"Emma's Medicine: Aroma".  
+Increases the healing effects of recovery items.
+
+Emma taught this technique to the Sculptor long ago.
+Savoring and memorizing the aroma will enhance its effects.  Be warned that the medicine still smells just as bad.
+
+###640200
+Acquires Latent Skill 
+"Shinobi Medicine: Rank 1".
+Increases the healing effect of recovery items.
+
+Medicinal knowledge is vital for a shinobi's survival.  Receiving wounds in battle is inevitable.  
+
+The only way to learn such techniques is to be gravely injured time and time again by worthy opponents.
+
+###640300
+Acquires Latent Skill 
+"Shinobi Medicine: Rank 2".  
+Increases the healing effect of recovery items.
+Sometimes a Shinobi can survive what is certain death for a lesser warrior.  As such, medicinal knowledge is vital.
+The only way to learn such techniques is to be gravely injured time and time again by worthy opponents.
+
+###640400
+Acquires Latent Skill 
+"Shinobi Medicine: Rank 3".  
+Increases the healing effect of recovery items.
+A Shinobi fights as a lone wolf, without the help of others.  As such, medicinal knowledge is vital.
+The only way to learn such techniques is to be gravely injured time and time again by worthy opponents.
+
+###650000
+Acquires the Latent Skill
+"A Shinobi's Karma: Body".
+Increases the maximum number of Spirit Emblems that can be held.
+
+Spirit Emblems are manifestations of regret.  Those regretful of their vile actions are haunted by many Spirit Emblems.
+Shinobi who have killed many must bear the physical toll of those sins.
+
+###650100
+Acquires the Latent Skill
+"A Shinobi's Karma: Mind".
+Increases the maximum number of 
+Spirit Emblems that can be held.
+
+Spirit Emblems are manifestations of regret.  Those regretful of their vile actions are haunted by many Spirit Emblems.
+Shinobi who have killed many must carry the burden of their sins in their hearts.
+
+###650200
+Acquires the Latent Skill
+"Sculptor's Karma: Blood".
+Increases the maximum number of 
+Spirit Emblems that can be held.
+
+Spirit Emblems are manifestations of regret.  Those regretful of their vile actions are haunted by many Spirit Emblems.
+Blood spattered upon the Prosthetic turns to a permanent rust, proof of the user's burden.
+
+###650300
+Acquires the Latent Skill
+"Sculptor's Karma: Scars".
+Increases the maximum number of 
+Spirit Emblems that can be held.
+
+Spirit Emblems are manifestations of regret.  Those regretful of their vile actions are haunted by many Spirit Emblems.
+The Prosthetic's many small cuts and scars are proof of the countless deaths it's caused. 
+
+###650400
+Acquires the Latent Skill 
+"A Beast's Karma".
+Increases the maximum amount of Spirit Emblems that can be held.
+Spirit Emblems are manifestations of regret.  Those regretful of their vile actions are haunted by many Spirit Emblems.
+Perhaps this innocent beast was burdened with the karma of man.  Inheriting a victim's karma is part of being a shinobi.
+
+###660000
+Acquires the Latent Skill 
+"Breath of Life - Light".
+Recovers Vitality upon performing a successful Deathblow.
+Deathblows provide shinobi with an opportunity to breathe.
+A shinobi can calm the body and mind through measured breathing, even while killing.  Doing so allows one to continue killing unabated.
+
+###660100
+Acquires Latent Skill 
+"Breath of Life - Shadow".
+Recovers Vitality upon performing a successful Deathblow.
+
+Deathblows provide shinobi with an opportunity to breathe.
+Experiencing battles with powerful opponents further deepens this moment of respite.
+
+###660200
+Acquires Latent Skill 
+"Breath of Nature - Light".
+Recovers Posture upon executing a successful Deathblow.
+The Ashina Style also has techniques designed for fighting when greatly outnumbered.  
+After killing an enemy, one must exhale, expelling both regret and reaffirming one's core to regain Posture.
+
+###660300
+Acquires Latent Skill 
+"Breath of Nature - Shadow".
+Recovers Posture upon performing a successful Deathblow.
+A Shinobi must be prepared for battles in which he is outnumbered.  After killing an enemy, one must exhale, expelling both regret and reaffirming one's core to regain Posture.  Experiencing battles with stronger opponents further deepens this moment of exhalation.
+
+###660400
+Acquires Latent Skill "Shinobi Eyes".
+Increases the damage inflicted to Posture upon executing a successful Mikiri counter.
+
+A Shinobi's eyes do not follow the blade without anticipating its movements.  Remaining composed even when fearful of its sharp edge is the key to victory.  
+
+###660500
+Acquires the Latent Skill "Devotion".
+Increases the amount of time a Buddhist candy is effective when used.
+
+Those who demonstrate devotion are blessed with the protection of the gods for an extended period.  
+
+###660600
+Acquires the Latent Skill "Ascending Carp".
+A Latent Skill that increases the damage inflicted to Posture upon performing a successful Deflection.
+
+The Ashina Style is deeply rooted in the flow of the Fountainhead waters.  They believe the act of successfully deflecting a blade is akin to a carp ascending a waterfall.
+
+###660700
+Acquires the Latent Skill 
+"Descending Carp".
+A Latent Skill that, for a few seconds after Deflection, increases damage to enemy posture from all sources.
+The Ashina Style is deeply rooted in the flow of the Fountainhead waters.  They believe the act of successfully deflecting a blade is akin to a carp descending a waterfall.
+
+###660800
+Acquires the Latent Skill "Flowing Water".
+
+Reduces the amount of damage to Posture when attacked by an enemy with a sword.
+
+Much like the flowing waters known by the Ashina Clan, strength should not be met with more force but instead redirected like the flowing of water.
+
+###670000
+Acquires the Combat Art "Mortal Draw".
+A sword technique that uses the Mortal Blade, Costs Spirit Emblems to use.
+With the flash of a sword, the Mortal Blade slashes through enemies, leaving a reddish-black, noxious mist.  The seeping mist extends the range of the blade.
+A technique using the blade that cannot be drawn is a feat only the oathbound of the Divine Heir could achieve.
+
+###671000
+Acquires Combat Art: "Dragon Flash".
+Combat Art that performs a high-speed
+cut from a sheathed stance.
+Charge to send out shockwaves.
+Costs Spirit Emblems to use.
+In his younger years, Isshin was a devil
+with the sword, spending his days in
+pursuit of life-or-death combat.
+He often ruminated on how a cut should
+be made, but his blade always moved first.
+
+###672000
+Acquires Combat Art "Floating Passage".
+Unleashes repeated attacks, overwhelming enemies with flowing, dance-like movements.
+While an Ashina Combat Art, it was
+taught by an outsider, and as such
+is considered heretical.
+The master of this technique crossed the
+Floating Passage and descended to Ashina.
+Her name was Tomoe.
+
+###673000
+Acquires Combat Art "One Mind".
+A Combat Art that unleashes a storm of attacks from the sheathed stance; so fast the blade is nigh invisible.  
+Costs Spirit Emblems to use.
+One must focus their soul on the release of the blade, nothing else.  Through that focus, the strikes achieve a god-like speed.
+Only one as honed as the aging Isshin Ashina could perform this technique.
+
+###680000
+Acquires Latent Skill 
+"Mibu Breathing Technique".
+Allows one to dive under water, as well as breathe underwater indefinitely.
+
+Developed by the founder of Mibu Village.
+"Those who seek to join the procession must master the Mibu Breathing Technique.  Without it, the Divine Dragon cannot be met."
+
+###681000
+Acquires Shinobi Martial Art 
+"Anti-air Deathblow".
+A technique designed to stop cold any enemies that leap high in the air.
+
+Allows one to exploit an enemy's vulnerability in the air by jumping toward them and performing a sudden Deathblow.
+The perfect skill for Shinobi looking to turn the tables on airborne enemies.  
+
+###690000###690100###690200###690300###690400###699000
+Information Locked

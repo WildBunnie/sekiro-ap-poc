@@ -1,0 +1,574 @@
+###ID 205
+
+###50
+<?kgiconKc@12?>:Lock on/Release Target
+<?kgControlCamera?>:while Locked on: Change Target
+
+The first step is always to face your enemy.
+Locking on to a target is crucial for success in battle.  
+
+By keeping your enemy in front of you,
+you'll find it easier to attack and guard/deflect.
+
+###51
+Hold <?kgiconKc@16?>: Thrust Attack
+
+Thrust Attacks cannot be Guarded, which makes them effective against opponents with a solid defense.
+
+However, there is a chance they will be Deflected by your enemy.
+
+###52
+<?kgiconKc@5?>:Step Dodge
+
+Enemy attacks can be evaded with a well-timed 
+Step Dodge.  Step dodging is effective when dodging attacks that can't be parried.
+
+For instance, when grabbed at by an enemy, it is better to avoid the attack than attempt to guard or deflect it.
+
+###53
+<?kgiconKc@1?>+<?kgiconKc@5?> the moment enemy attack lands: Mikiri Counter
+"Mikiri Counter" is an unlockable Shinobi Combat Style Skill that allows a shinobi to perceive incoming thrust attacks and counter them by stepping on the enemy blade.
+
+"Mikiri Counter" is a powerful technique that deals more Posture damage than a regular Deflect.
+
+###54
+<?kgToggleItems?>: Toggle Quick Items
+<?kgiconKc@21?>: Use Quick Item
+
+Use the Equipment Menu to equip or change Quick Items.
+Equipped quick items can be toggled with <?kgToggleItems?>, 
+and the currently selected one can be used with <?kgiconKc@21?>.
+
+Up to 5 Quick Items can be equipped at once.
+
+###55
+<?kgMove?>+<?kgiconKc@5?>+<?kgiconKc@6?>:Sprint Jump
+
+You can leap further by jumping mid-sprint.
+
+###56
+After jumping over a sweep attack, <?kgiconKc@6?>: Jump-kick Counter
+
+After jumping over an enemy's sweep attack, you can perform a Jump-kick Counter on them before you land, dealing a large amount of posture damage.
+
+###57
+<?kgiconKc@6?> on posture-broken enemy: Vault Over
+
+Vault Over is a Shinobi Martial Art that allows one to leap over and behind a Posture-broken enemy.
+This Shinobi Martial Arts technique allows the use of 
+Backstab Deathblows in the middle of battle,
+even without using stealth.
+It's only expected that Shinobi have some special tricks for up-close fighting as well.
+
+###58
+<?kgiconKc@22?>:Eavesdrop
+
+If a shinobi concentrates, he can hear others' voices, even if they're far away.
+
+Eavesdropping is one of a Shinobi's tools for acquiring information.
+
+###59
+<?kgMove?>+<?kgiconKc@5?>+<?kgiconKc@16?>:Sprint Attack
+
+A special sword lunge can be performed if one attacks while sprinting.
+This technique can be used to quickly close a gap with an out of reach enemy, and then deal damage the moment you reach him.
+
+###60
+While downed or posture-broken, <?kgiconKc@5?>: Safety Roll
+
+When staggered or downed by an enemy, you are very vulnerable to enemy attack.
+
+Use Safety Roll to get back to your feet and minimize your vulnerability.
+
+###61
+Lightning surges through the bodies of those with their
+feet on the ground, instantly paralyzing them.
+
+A secret technique exists to catch lightning in one's blade
+while in midair, and send it back. 
+This is known as a Lightning Reversal.
+
+When hit by a lightning attack in midair, 
+<?kgiconKc@16?> before landing on the ground: Lightning Reversal
+
+###70
+Hold <?kgiconKc@20?>: Acquire Loot
+
+Defeated enemies drop loot, such as items and money.  
+
+Loot can be acquired from some distance away, and
+multiple enemies can be looted at once.
+
+###100
+Give Gourd Seeds to Emma to increase the number of times the Healing Gourd can be used.
+
+###101
+Collecting 4 Prayer Beads will allow you to enhance your physical attributes at a Sculptor's Idol.
+
+Doing so will raise your maximum Vitality and Posture.  
+
+###102
+Offering your hard-earned battle memories
+to a Sculptor's Idol will allow you to enhance 
+your Attack Power.
+
+Enhanced Attack Power means dealing more damage to an enemy's Vitality and Posture.
+
+###103
+Enemies will have a harder time detecting you
+while you are crouching, ledge hanging, or hugging walls.
+
+Crouching in tall grass will make you even harder to detect.
+
+###104
+The more Vitality one loses, the slower their Posture will recover.
+
+If you find an enemy's Posture recovering practically the moment you lower it, you may want to focus on reducing their Vitality first.
+
+###105
+Being hit by too many fire-based attacks will eventually apply the Burn status abnormality.
+Guarding fire attacks does not prevent the Burn gauge from rising.
+
+While burning, flames are visible on your body, you'll stop regenerating Posture and will gradually lose Vitality for the duration.
+
+###106
+You can tell if an enemy has been alerted to your presence based on the color of the alert indicator above their head.
+If yellow, they are cautious or searching.
+If red, they are alerted to your presence.
+Yellow means that the enemy doesn't know exactly where you are at the moment, so they can still be taken by surprise with a Stealth Deathblow.
+
+###107
+Sculptor's Idols have a wide variety of functions available, including the ability to Rest.
+
+Resting completely restores Vitality, replenishes Healing Gourd uses, and automatically moves consumable items from storage to your inventory.
+
+However, resting also brings previously defeated enemies back into the world, with some exceptions.
+
+###108
+Wolf has an ability known as "Night Eye", which allows him to see unusually well in the dark.
+This ability is innate, and takes effect automatically whenever he is in dark places.
+
+###109
+One cannot Resurrect without sufficient Resurrective Power.  Killing enemies will gradually restore Resurrective Power.
+
+However, Wolf's first node of Resurrective Power can only be restored by resting at a Sculptor's Idol.
+
+###110
+Repeatedly getting hit by poison-based attacks 
+will apply the "Poison" status abnormality.  
+
+Guarding such attacks does not prevent Poison from accumulating.
+
+Poison affects the body and mind when it
+enters the body, gradually reducing Vitality over time.
+
+###111
+Taking damage from apparition-type enemies will fill the
+mind and body with Terror.
+
+Guarding such attacks does not prevent Terror from accumulating.
+
+Those overcome with Terror are known to die.
+
+###112
+If standing on the ground while struck by a lightning attack, the status abnormality "Shock" is inflicted.  This occurs regardless of whether the attack was guarded or not.
+
+Shock causes electricity to run through one's body, dealing huge damage to Vitality and also stunning them briefly.
+
+###113
+Defeat enemies to earn Skill Experience.
+Once enough Skill Experience is obtained, a Skill Point is earned.
+
+Esoteric Texts provide access to various skills, which can be acquired by spending Skill Points in the 
+"Acquire Skills" menu at a Sculptor's Idol.
+
+###114
+"Shinobi Combat Style" skills are techniques used by shinobi in combat.
+
+Such moves could never be practiced by samurai, and include techniques such as attacks performed in the air and hiding one's body to avoid detection.
+
+These are the innermost secrets of the shinobi arts.
+ 
+
+###115
+"Prosthetic Combat Style" skills are a variety of techniques for use with Shinobi Prosthetic.
+
+It's less a formal style of combat and more a collection of secret moves that can only be used by one who wields the shinobi prosthetic.
+
+###116
+Ashina Combat Style techniques are the learnings
+of Isshin Ashina's long history of battles.  
+
+When he was younger, Isshin fought desperately time and time again, polishing his technique in the blood of his enemies.
+
+###117
+Senpou Temple Combat Style is a style of fighting strongly focused on martial arts.
+
+Those of the Senpou Temple mastered martial arts in the pursuit of virtue.  They believed one's fists combined with strict discipline were essential for defeating Buddha's enemies.
+
+###118
+Upgrade materials such as "Scrap Iron" and "Gunpowder" 
+can be given to the Sculptor to create new, upgraded versions
+of your Prosthetic Tools.
+
+Such materials can be looted from enemies and also found throughout the world.
+
+###119
+If you obtain items that you can't carry any more of, they are automatically sent to storage.
+
+Upon resting at a Sculptor's Idol, any items that are not already at maximum holdable number are automatically replenished out of storage.
+
+Buddha's storage space is vast, and the fact that he grants use of it is something to be thankful for.
+
+###120
+The evening hours are perilous.
+
+As the darkness of night approaches and the sun begins to wane, powerful vengeful spirits visit the land seeking revenge.
+
+###121
+Abilities such as Prosthetic Tools cost Spirit Emblems to be used.
+
+Spirit Emblems can be obtained by defeating enemies, finding them in the world, or purchasing them at Sculptor's Idols.
+
+###122
+Enemies that crawl on the ground, such as lizards, 
+are vulnerable to Deathblows whenever you
+jump toward them.  
+
+This Deathblow can be performed even if they are aware of you.
+
+###123
+Some rare, very powerful enemies require an additional "Finisher Deathblow" in order to be defeated.
+
+This Finisher Deathblow can only be performed once all of the enemy's Deathblow markers are gone.
+
+###124
+Resurrection cannot be performed repeatedly over a short period of time, but obtaining Resurrective Power allows it to be used once again.
+
+Resurrective Power can be obtained by killing enemies or through performing a Deathblow.
+
+###125
+You lose skill experience points and Sen when you die, but
+there is a way to avoid this on rare occasions by divine
+protection known as Unseen Aid.
+
+The rate at which Unseen Aid occurs
+can be found in the Pause Menu.
+
+<?kgiconKc@27?>: Open Pause Menu
+
+###126
+Rot Essence is an item that tells you who is afflicted with Dragonrot.
+
+The more Rot Essence you have, the lower your chances of Unseen Aid, which prevents losses upon death.
+
+###127
+A Dragon's Blood Droplet can be offered to a Sculptor's Idol to restore to health those afflicted with Dragonrot.
+
+One restoration will remove Dragonrot from all those afflicted, and all Rot Essence will also disappear, returning the chances of Unseen Aid to default levels.
+
+###128
+The more one with the power of the Dragon's Heritage dies, the more a sickness known as Dragonrot spreads through the world.
+
+The coughing and wheezing heard from all around is proof that one who has had dealings with the Wolf has come down with Dragonrot.
+
+###129
+Some Combat Arts cost Spirit Emblems to use.  
+
+If one does not have enough Spirit Emblems to pay the cost, a weaker version of the technique can still be performed.
+
+###130
+Thrust attacks cannot be blocked, but they can be deflected.
+
+Using the Mikiri Counter skill to negate a thrust attack
+will deal greater Posture damage than a normal deflect.
+
+###131
+Sweep attacks can be neither guarded nor deflected.
+However, you can jump to avoid them.
+
+Jump-kicking an enemy during their sweep attack will 
+deal a large amount of Posture damage, often leaving 
+them vulnerable to a Deathblow.
+
+###132
+Grab attacks can be neither guarded nor deflected.
+Once caught, damage cannot be avoided.
+
+Jumping or sprinting to a safe distance before the attack lands will keep you from an enemy's grasp.
+
+Some grabs can also be avoided with a well-timed Step Dodge.
+
+###133
+Deflecting one attack doesn't always mean an enemy will
+stop attacking.
+
+Consecutive attacks can be countered with Consecutive
+Deflections. Deflect every last attack, and you'll be able
+to inflict a great deal of Posture damage. 
+
+###134
+Outside the Dilapidated Temple, you'll find a warrior known
+as Hanbei the Undying who will volunteer to help you train.
+
+The Wolf can unlock new training options by completing
+training sessions with Hanbei and obtaining new Skills.
+
+When an enemy feels insurmountable, it may help to step
+back and spend some time training.  The basics he teaches form the foundation of all sword combat.
+
+###135
+Free Combat sessions outside the Dilapidated Temple with
+Hanbei the Undying are the perfect opportunity to test out
+new Prosthetic Tools and Skills.
+
+You'll be able to use them to your heart's content without
+expending a single Spirit Emblem.
+
+Free Combat can be unlocked by completing all of Hanbei's training sessions.
+
+###136
+Prosthetic Tools can be upgraded in a variety of ways,
+such as by adding an elemental effect to the tool,
+or allowing new techniques to be performed with it.
+
+Upgraded versions might be wreathed in flame, or perhaps tinged with poison, and such upgraded versions may have different uses or be effective against different enemies.
+Newly created Upgraded Prosthetic Tools must be equipped in the Equipment Menu to be used.
+
+###150
+A Shinobi aims to break an opponent's posture.  
+Attacking an enemy is one way to achieve this.
+
+When an enemy's posture breaks, 
+he is vulnerable to a "Shinobi Deathblow".
+
+<?kgiconKc@16?>: Attack
+<?kgiconKc@16?> on posture-broken enemy: Deathblow
+
+###151
+Sometimes relentless attack is not enough 
+to break an enemy's posture.
+
+Deflecting enemy attacks is another way
+to damage their posture.  A master shinobi 
+uses a combination of Deflect and attacks
+to achieve swift victory.
+
+<?kgiconKc@18?> the moment an attack lands: Deflect
+
+###152
+
+<?kgiconKc@18?> the moment enemy attack lands: Deflect
+<?kgiconKc@16?> after Deflecting: Counter-slash
+A "Counter-slash" is performed by attacking right after successfully Deflecting an enemy attack.
+
+By using a combination of Deflect and attacks to deal posture damage, one can greatly damage enemy Posture in a short time.
+
+###153
+If you've taken damage and your Vitality is low, it's best to create space between you and your enemy, and use a Healing Gourd to restore your Vitality.
+
+<?kgiconKc@21?>: Use Quick Item
+
+###154
+A Ledge Hang Deathblow is a type of Stealth Deathblow that can be performed on unaware enemies.
+
+While hanging from a cliff or ledge, shimmying just below the unaware enemy will make them vulnerable to this Deathblow.
+
+###155
+A Wall Hug Deathblow is a type of Stealth Deathblow that can be performed on unaware enemies.
+
+While undetected and hugging a wall, lie in wait for a passing enemy.  When the enemy draws close enough, he will be vulnerable to this Deathblow.
+
+###156
+There are many kinds of Prosthetic Tools, and the same strategy won't work on every opponent.
+
+The Sculptor says,
+
+"Thick shields? Break them into splinters...
+Swift foes? Bring them down from afar.
+Fitting more devices means more ways 
+to slay your enemies."
+
+###157
+Those with Red Eyes are dangerous and filled with rage, and attempting to defeat them in hand-to-hand combat seems unwise.
+
+Fire, however, is very effective against them.
+They are said to fear fire above all else.
+
+###158
+High perches or cliffs that seem too far away for the Grappling Hook to reach may become reachable if you jump toward them.
+
+###159
+Beasts are scared by loud noises.
+
+This makes the "Shinobi Firecracker" Prosthetic Tool quite effective against them.
+
+###160
+Wooden shields and hats can't be broken by regular sword attacks.
+
+The Loaded Axe Prosthetic Tool might do the trick, however.
+A weapon that heavy can cleave through a wooden shield like paper.
+
+###161
+Those of large build will occasionally force themselves into poorly-fitting armor.
+
+Such armor could be torn clean off with the Loaded Spear; a technique known as Gyoubu Armor Stripping. 
+
+###162
+Posture replenishes faster when Guarding.
+
+If Wolf's Posture is near breaking, recovering it can mean the difference between survival and death.
+
+Hold <?kgiconKc@18?>: Guard
+
+###163
+In wars of old, poisonous blue rust was said to have driven off the inhuman Okami warrior women.
+
+It would likely be effective on their descendants as well.
+
+###164
+Shuriken are effective against enemies that leap around or are especially fast.
+
+Shuriken are also useful for causing enemies to flinch, interrupting their actions.
+
+###165
+Buddhist sugars are items that increase one's stats for a period of time.
+
+By biting into a Buddhist candy and assuming the correct stance, one may receive its blessing.
+
+Such blessings can be beneficial when entering dangerous places or facing daunting foes.
+
+###166
+Combat Arts are learned through the Sculptor's Idol Acquire Skills Menu, or can be acquired immediately at no Skill Point cost by finding Skill Compendiums. Combat Arts can be chosen and equipped in the Equipment Menu.
+
+<?kgiconKc@18?> + <?kgiconKc@16?>: Use equipped Combat Art
+
+###167
+There are three types of Skills that can be learned: "Combat Arts", "Shinobi Martial Arts", 
+and "Latent Skills".
+"Combat Arts" are attack-based skills, equippable 
+in the Equipment Menu.
+"Shinobi Martial Arts" do not need to be equipped, they can always be performed in the correct conditions.
+"Latent Skills" are always in effect upon being learned, and multiple skills with the same benefit stack.
+
+###168
+<?kgiconKc@18?> at the moment an enemy attack lands: Deflect
+
+The button press must be timed carefully, as repeatedly pressing <?kgiconKc@18?> will make it harder for Deflects to succeed.
+
+The moment of opportunity for performing a Deflection is when the enemy's blade is but a hair's breadth away.  
+
+###169
+Those who live in poisonous areas have very high resistance to the "Poison" status abnormality.
+
+Some are even completely immune to it.
+
+###170
+Wolf can use his sword to deflect bullets and other projectiles.
+
+###171
+Leave an enemy alone, and their Posture will slowly recover.
+
+However, continuing to cross swords with them
+will prevent their posture from recovering.
+
+A core tenet of Shinobi combat is overwhelming 
+the enemy with relentless strikes and deflections, 
+never giving them a moment to rest.
+
+###172
+There are sword techniques that can be unleashed after using Prosthetic Tools.
+
+These "Follow-up Attacks" allow for a fighting style that further leverages the qualities of the Prosthetic Tools.
+
+Follow-up Attacks can be learned as "Prosthetic Arts" Skills.
+
+###173
+A Shinobi Martial Art that allows one to perform a forward-dashing sword slice after using certain Prosthetic Tools.
+
+A long range Prosthetic Tool attack combined with a Chasing Slice allows one to close distance on enemies instantly.
+
+Can be learned as "Prosthetic Arts" Skill.
+
+###300
+The Memorial Mob are merchants who sell their wares as offerings to the dead.
+
+Where you find the departed, you'll find the Memorial Mob.
+
+Whether it be along a recent battlefield, an abandoned dungeon...
+The Memorial Mob will make an appearance.
+If you seek them out, they'll surely present their wares.
+
+###301
+There is a warrior named Hanbei the Undying, or also Hanbei the Infested, who can be found just outside the Dilapidated Temple.
+
+"A warm body that can't die might prove useful to you.  I volunteer mine."
+
+If you're looking for someone to train with, he may be an ideal opponent.
+
+###302
+A Treasure Carp's scales shine and sparkle beautifully.
+To a casual observer, they're merely shiny fish scales.
+
+But there are some who prize them more highly than anything in the world.
+Collecting them could be very rewarding indeed.
+
+However, man-eating fish are known to accompany Treasure Carp, so it seems a good idea to hunt them very carefully.
+
+###303
+The Sculptor at the Dilapidated Temple specializes in Shinobi Prosthetic Tools.
+
+He can be of great help when it comes to fitting new tools to the Shinobi Prosthetic, or upgrading existing ones.
+
+If you find some Shinobi Tools or materials that seem like they could be useful,
+you might want to pay him a visit.  
+
+###304
+Esoteric Texts unlock new skill trees.
+
+Once a Skill Tree is unlocked, Skill Points can be spent to learn Combat Arts within that tree.
+
+###306
+Piercing Attacks damage both Vitality and Posture, 
+even if an enemy is guarding.
+
+This is what makes techniques performed 
+from a sheathed stance so effective.
+
+###307
+When using Quick Items, you can hold <?kgToggleItems?>
+to instantly jump to the Quick Item equipped in the first slot.
+
+Putting frequently used items such as the Healing Gourd in the first slot can be convenient in battle.
+
+###311
+Shinobi may leave behind shadows of past actions known as "Remnants".
+
+Remnants are left to discipline one's peers.
+Some are masters of the way ahead, while others provoke sporting rivalries.
+
+<?kgiconKc@44?>: Open Remnant Menu
+
+###312
+Extraordinary foes conquered in battle can be faced once more within memories.
+
+Access Reflection of Strength from the Sculptor's Idol Menu.
+
+###313
+Extraordinary foes conquered in battle can be faced one after the other within memories.
+
+Confronting memories of the past is akin to the discovery of new possibilities.
+
+The very ends of conflict may afford a new state of mind.
+
+###315
+Memories left behind by another.
+Often referred to as feelings of remorse, though also expressing an attachment to certain ideas.
+
+Harbouring these innermost thoughts at a Sculptor's Idol will allow the Wolf to alter his form, though doing so will have no bearing on his ability.
+
+Taking charge of another's regret is but a fleeting thing, after all.
+
+###316
+Holding <?kgiconKc@20?> while falling or jumping can make
+it easier to successfully grab a ledge.

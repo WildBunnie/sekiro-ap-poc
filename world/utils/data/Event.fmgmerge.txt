@@ -1,0 +1,3222 @@
+###ID 30
+
+###1
+WWWWWWWWWWWWWWWWWWWWwwwwwWWWWWwwwwwWWWWW
+
+###10
+WWWWWWWWWWWWWWWWWWWWwwwwwWWWWWwwwwwWWWWW
+WWWWWWWWWWWWWWWWWWWWAAAAABBBBBCCCCCDDDDDD
+WWWWWWWWWWWWWWWWWWWWAAAAABBBBBCCCCCDDDDDD
+WWWWWWWWWWWWWWWWWWWWAAAAABBBBBCCCCCDDDDDD
+
+###20
+<?kgiconKc@0?>:歩行シフト/低速水泳シフト
+
+###21
+<?kgiconKc@1?>:走行前/（水上・水中）水泳　前
+
+###22
+<?kgiconKc@2?>:走行前/（水上・水中）水泳　後
+
+###23
+<?kgiconKc@3?>:走行前/（水上・水中）水泳　左
+
+###24
+<?kgiconKc@4?>:走行前/（水上・水中）水泳　右
+
+###25
+<?kgiconKc@5?>:ダッシュ/裏回り/（水上・水中）潜る
+
+###26
+<?kgiconKc@6?>:ジャンプ/蹴り/（水中）浮上
+
+###27
+<?kgiconKc@7?>:しゃがみ/しゃがみ解除
+
+###28
+<?kgiconKc@8?>:カメラ上/ロック対象変更　上
+
+###29
+<?kgiconKc@9?>:カメラ下/ロック対象変更　下
+
+###30
+<?kgiconKc@10?>:カメラ左/ロック対象変更　左
+
+###31
+<?kgiconKc@11?>:カメラ右/ロック対象変更　右
+
+###32
+<?kgiconKc@12?>:カメラリセット/ロックオン
+
+###33
+<?kgiconKc@13?>:道具切替
+
+###34
+<?kgiconKc@14?>:道具切替（逆送り）
+
+###35
+<?kgiconKc@15?>:義手忍具切替
+
+###36
+<?kgiconKc@16?>:通常攻撃/忍殺
+
+###37
+<?kgiconKc@17?>:義手忍具アクション/（水中）急加速
+
+###38
+<?kgiconKc@18?>:ガード
+
+###39
+<?kgiconKc@19?>:ワイヤー
+
+###40
+<?kgiconKc@20?>:会話/調べる/壁張り付き/ぶら下がり/空中ぶら下がり掴み
+
+###41
+<?kgiconKc@21?>:道具使用/ドロップ引き寄せ
+
+###42
+<?kgiconKc@22?>:盗み聞き
+
+###43
+<?kgiconKc@16?>:復活の術発動
+
+###44
+<?kgiconKc@18?>:復活の術中断
+
+###45
+<?kgiconKc@25?>:会話送り
+
+###46
+<?kgiconKc@26?>:会話中断
+
+###47
+<?kgiconKc@27?>:メニュー開く
+
+###48
+<?kgiconKc@28?>:メニュー閉じる
+
+###49
+<?kgiconKc@29?>:カーソル移動　上
+
+###50
+<?kgiconKc@30?>:カーソル移動　下
+
+###51
+<?kgiconKc@31?>:カーソル移動　右
+
+###52
+<?kgiconKc@32?>:カーソル移動　左
+
+###53
+<?kgiconKc@33?>:決定
+
+###54
+<?kgiconKc@34?>:キャンセル
+
+###55
+<?kgiconKc@35?>:メニュータブの切り替え　左
+
+###56
+<?kgiconKc@36?>:メニュータブの切り替え　右
+
+###57
+<?kgiconKc@37?>:ページ送り　上
+
+###58
+<?kgiconKc@38?>:ページ送り　下
+
+###59
+<?kgiconKc@39?>:ウィンドウスクロール　上
+
+###60
+<?kgiconKc@40?>:ウィンドウスクロール　下
+
+###61
+<?kgiconKc@41?>:ソート
+
+###62
+<?kgiconKc@42?>:補助メニュー表示
+
+###70
+<?kgMove?>:移動タグ
+
+###71
+<?kgControlCamera?>:カメラ操作タグ
+
+###72
+<?kgToggleItems?>:道具切替タグ
+
+###80
+<?kgicon@2201?>
+
+###81
+<?kgicon@2202?>
+
+###82
+<?kgicon@2203?>
+
+###83
+<?kgicon@2205?>
+
+###2290
+<?kgicon@2290?>
+
+###2291
+<?kgicon@2291?>
+
+###2292
+<?kgicon@2292?>
+
+###2293
+<?kgicon@2293?>
+
+###2294
+<?kgicon@2294?>
+
+###2295
+<?kgicon@2295?>
+
+###2296
+<?kgicon@2296?>
+
+###2297
+<?kgicon@2297?>
+
+###2298
+<?kgicon@2298?>
+
+###2300
+<?kgicon@2300?>
+
+###2301
+<?kgicon@2301?>
+
+###2310
+<?kgicon@2310?>
+
+###2311
+<?kgicon@2311?>
+
+###2312
+<?kgicon@2312?>
+
+###2320
+<?kgicon@2320?>
+
+###2321
+<?kgicon@2321?>
+
+###2322
+<?kgicon@2322?>
+
+###2323
+<?kgicon@2323?>
+
+###2324
+<?kgicon@2324?>
+
+###2400
+<?kgicon@2400?>
+
+###2401
+<?kgicon@2401?>
+
+###2402
+<?kgicon@2402?>
+
+###2403
+<?kgicon@2403?>
+
+###2404
+<?kgicon@2404?>
+
+###2405
+<?kgicon@2405?>
+
+###2406
+<?kgicon@2406?>
+
+###2407
+<?kgicon@2407?>
+
+###2408
+<?kgicon@2408?>
+
+###2409
+<?kgicon@2409?>
+
+###2410
+<?kgicon@2410?>
+
+###2411
+<?kgicon@2411?>
+
+###2412
+<?kgicon@2412?>
+
+###2413
+<?kgicon@2413?>
+
+###2414
+<?kgicon@2414?>
+
+###2415
+<?kgicon@2415?>
+
+###2416
+<?kgicon@2416?>
+
+###2417
+<?kgicon@2417?>
+
+###2418
+<?kgicon@2418?>
+
+###2419
+<?kgicon@2419?>
+
+###2420
+<?kgicon@2420?>
+
+###2421
+<?kgicon@2421?>
+
+###2422
+<?kgicon@2422?>
+
+###2450
+<?kgicon@2450?>
+
+###2451
+<?kgicon@2451?>
+
+###2452
+<?kgicon@2452?>
+
+###2453
+<?kgicon@2453?>
+
+###2500
+<?kgicon@2500?>
+
+###2501
+<?kgicon@2501?>
+
+###2502
+<?kgicon@2502?>
+
+###2503
+<?kgicon@2503?>
+
+###2504
+<?kgicon@2504?>
+
+###2505
+<?kgicon@2505?>
+
+###2506
+<?kgicon@2506?>
+
+###2507
+<?kgicon@2507?>
+
+###2508
+<?kgicon@2508?>
+
+###2509
+<?kgicon@2509?>
+
+###2510
+<?kgicon@2510?>
+
+###2511
+<?kgicon@2511?>
+
+###2512
+<?kgicon@2512?>
+
+###2513
+<?kgicon@2513?>
+
+###2514
+<?kgicon@2514?>
+
+###2515
+<?kgicon@2515?>
+
+###2516
+<?kgicon@2516?>
+
+###2517
+<?kgicon@2517?>
+
+###2518
+<?kgicon@2518?>
+
+###2519
+<?kgicon@2519?>
+
+###2520
+<?kgicon@2520?>
+
+###2521
+<?kgicon@2521?>
+
+###2522
+<?kgicon@2522?>
+
+###2523
+<?kgicon@2523?>
+
+###2524
+<?kgicon@2524?>
+
+###2525
+<?kgicon@2525?>
+
+###2526
+<?kgicon@2526?>
+
+###2527
+<?kgicon@2527?>
+
+###2528
+<?kgicon@2528?>
+
+###2529
+<?kgicon@2529?>
+
+###2530
+<?kgicon@2530?>
+
+###2531
+<?kgicon@2531?>
+
+###2532
+<?kgicon@2532?>
+
+###2533
+<?kgicon@2533?>
+
+###2534
+<?kgicon@2534?>
+
+###2535
+<?kgicon@2535?>
+
+###2610
+<?kgicon@2610?>
+
+###2611
+<?kgicon@2611?>
+
+###2612
+<?kgicon@2612?>
+
+###2613
+<?kgicon@2613?>
+
+###2614
+<?kgicon@2614?>
+
+###2615
+<?kgicon@2615?>
+
+###2616
+<?kgicon@2616?>
+
+###2617
+<?kgicon@2617?>
+
+###2618
+<?kgicon@2618?>
+
+###2619
+<?kgicon@2619?>
+
+###2620
+<?kgicon@2620?>
+
+###2621
+<?kgicon@2621?>
+
+###2622
+<?kgicon@2622?>
+
+###2623
+<?kgicon@2623?>
+
+###2624
+<?kgicon@2624?>
+
+###2625
+<?kgicon@2625?>
+
+###70000
+Loaded Shuriken (after throwing)
+
+###71000
+Shinobi Firecrackers (after throwing)
+
+###78000
+Loaded Spear (after thrust/cleave)
+
+###83000
+Loaded Axe (after initial strike)
+
+###84000
+Mist Raven (after activating)
+
+###88000
+Loaded Spear (after dragging)
+
+###96000
+Loaded Umbrella (while guarding)
+The Loaded Umbrella stores energy by
+blocking enemy projectiles, then
+discharges it. 
+
+###99000
+Finger Whistle (after whistling)
+Causes a whistling sound at the target location.
+
+###102000
+Flame Vent (after initial blast)
+
+###107000
+Divine Abduction (after Gathering Vortex)
+
+###10010103###10010107
+Pick Up Item
+
+###10010110
+OK
+
+###10010120
+Inspect
+
+###10010121
+Inspect Offering Box
+
+###10010122
+Go to Halls of Illusion
+
+###10010123
+Leave Halls of Illusion
+
+###10010130###10010131###10010550###10010560
+Pray
+
+###10010140
+Read
+
+###10010150
+Gatehouse Key used
+
+###10010151
+Hidden Temple Key used
+
+###10010152
+Secret Passage Key used
+
+###10010153
+Gun Fort Shrine Key used
+
+###10010161
+Does not open from this side.
+
+###10010162
+Locked.
+
+###10010163
+The gate is firmly sealed shut.
+
+###10010164
+Device not currently operable.
+
+###10010182###10010183
+Commune with Sculptor's Idol
+
+###10010190
+Kneel before Divine Heir
+
+###10010191###50000210
+Touch Remnant
+
+###10010200###15000000
+Talk
+
+###10010250
+Eavesdrop
+
+###10010260
+Listen to Remnant
+
+###10010310
+<?kgiconKc@20?>: Hug wall
+
+###10010311
+<?kgiconKc@20?>: Stop hugging wall
+
+###10010320
+<?kgiconKc@20?>: Ledge Hang
+
+###10010321
+<?kgiconKc@20?>: Climb
+
+###10010322
+<?kgiconKc@5?>: Drop down
+
+###10010330
+<?kgiconKc@17?>: Dive
+
+###10010340
+<?kgiconKc@5?>: Underwater Dash
+
+###10010341###10010343
+<?kgiconKc@19?>: Swim Up
+
+###10010342
+<?kgiconKc@17?>: Swim Down
+
+###10010390
+<?kgiconKc@16?>: Resurrect
+
+###10010391
+<?kgiconKc@18?>: Die
+
+###10010400###80010400
+Open
+
+###10010410
+Shift Tatami Aside
+
+###10010420
+Open Chest
+
+###10010500###10010501
+Operate Mechanism
+
+###10010510###10010511
+Ring Bell
+
+###10010520
+Enter Palanquin
+
+###10010521
+Leave Palanquin
+
+###10010530
+Fly Kite
+
+###10010531
+Let Go
+
+###10010540###10010541
+Use Rotating Door
+
+###10010542
+Sealed from the other side
+
+###10010551
+Travel to Fountainhead Palace
+
+###10010552
+Don't Travel to Palace
+
+###10010561
+The shrine maiden sleeps soundly
+
+###10010570
+Offer the <?gdsparam@2503?>
+
+###10010571
+You have nothing to offer
+
+###10010580
+Examine incense burner
+
+###10010581
+Burn incense
+
+###10010590
+Stop Training
+
+###10010600
+<?kgiconKc@44?>: Stop Recording
+
+###10010700
+This appears to be the escape route.
+Call the Divine Heir with the reed whistle?
+
+###10010713
+Installation of this game is currently incomplete, 
+so you are unable to progress further.
+
+###10010720
+Select destination
+
+###10010768###15100000###15100005###15100006###15100010###15100011###15100500###15100501###15100502###15100503###15100510###15100520###15100521###15100810###15100811###15110000###15110001###15110002###15110003###15110300###15110301###15110302###15110900###15111010###15111011###15111012###15111013###15111014###15111015###15111016###15113002###15113003###15114000###15114001###15117000###15117001###15117002###15117003###15117004###15117005###15117006###15117007###15117008###15122000###15122001###15122002###15122003###15122004###15122005###15122006###15122007###15122008###15122009###15123000###15123001###15123002###15123003###15123004###15123005###15123006###15124000###15124001###15126000###15126001###15127000###15127001###15127002###15136000###15148000###15148001###15148002
+<?null?>
+
+###10010770
+Burn
+
+###10010771
+Poison
+
+###10010772
+Terror
+
+###10010776
+Enfeebled
+
+###10010777###10024780
+Shock
+
+###10010780
+You need to rest in order to select Recovery Tools.
+Do you want to rest?
+
+###10010790
+Danger
+
+###10010800
+The box is currently empty
+
+###10010900
+SHINOBI EXECUTION
+
+###10010901
+SCULPTOR'S IDOL FOUND
+
+###10010902
+DEATH
+
+###10010903
+IMMORTALITY SEVERED
+
+###10010950
+GRACIOUS GIFT OF TEARS
+
+###10010951
+SINISTER BURDEN
+
+###10010952
+BURDEN DISPELLED
+
+###10010953
+UNSEEN AID
+
+###10010954
+DRAGONROT HEALED
+
+###10010955
+INNER REFLECTION CONQUERED
+
+###10011951
+Dilapidated Temple Idol
+
+###10011952
+Last Communed Idol
+
+###10020000
+Shinobi Arm and Arm Tools
+
+###10020001
+The "Shinobi Arm" is an unusual
+prosthetic limb used by ninja.
+Press <?kgiconKc@27?> to open the equipment menu and equip "Arm Tools" to the Shinobi Arm.
+
+###10020010
+Underfloor Movement
+
+###10020011
+Wolf can slip into tight spaces such as 
+beneath floors when crouched.
+
+###10020020
+Mid-air Grappling Hook
+
+###10020021###10021250
+<?kgiconKc@6?>→<?kgiconKc@19?>: Mid-air Grappling Hook
+
+###10020030###10023040
+Sculptor's Idol
+
+###10020031
+<?kgiconKc@20?> in front of Sculptor's Idol:Pray
+
+Pray to Sculptor's Idol to rest.
+The last Sculptor's Idol you prayed at acts as a checkpoint.
+
+###10020040
+Wall Jump Ledge Hang
+
+###10020041
+<?kgiconKc@6?> in air near wall: Wall Jump
+<?kgiconKc@20?> in air near ledge: Ledge Hang
+
+###10020050
+Combat
+
+###10020051
+<?kgiconKc@12?>:Target lock/release
+<?kgiconKc@16?>:Attack
+<?kgiconKc@18?>:Guard
+<?kgiconKc@18?> in time with enemy attack:Deflect
+
+###10020060
+Consecutive Wall Jump
+
+###10020061
+<?kgiconKc@6?> on walls with footholds:
+Consecutive Wall Jump
+
+###10020080
+<?gdsparam@1010?>
+
+###10020081
+Using Ninsatsu Techniques consumes Red Katashiro.
+
+###10020090
+Jump Ledge Hang
+
+###10020091
+<?kgiconKc@6?>: Jump
+<?kgiconKc@20?> in air near ledge: Ledge Hang
+
+###10020120
+Mid-air Deathblow
+
+###10020121
+<?kgiconKc@6?> towards a leaping enemy: Jump
+<?kgiconKc@16?> when red symbol appears:
+Mid-air Deathblow
+
+###10020250
+Underwater Controls
+
+###10020251
+<?kgiconKc@17?>: Dive/Swim Down
+<?kgiconKc@19?>: Surface/Swim Up
+<?kgiconKc@5?> while moving with <?kgMove?>: Underwater Dash
+
+###10020260###10022060###10023110
+Plunging Deathblow
+
+###10020261
+<?kgiconKc@12?>: Lock-on to Target
+<?kgiconKc@6?>: Jump
+<?kgiconKc@16?> when red symbol appears: Plunging Deathblow
+
+###10020270###10024500
+Stealth
+
+###10020271
+You are currently unarmed.
+
+Use stealth to reach the Moon-view Tower without engaging the enemy.
+
+###10020280
+Countering Enemy Projectiles
+
+###10020281
+Bullets and other projectiles can be Deflected
+
+###10020290###10024620
+Lightning Reversal
+
+###10020291
+After being struck by a lightning attack in
+mid-air,  <?kgiconKc@16?> before landing:
+Lightning Reversal
+
+###10020300
+Rot Essence
+
+###10020301
+More victims of Dragonrot means
+you will accumulate "Rot Essence,"
+lowering chances of Unseen Aid.
+
+###10020310
+Resource use during Reflection
+
+###10020311
+Consumables used during Reflection 
+or Gauntlet of Strength are replenished upon returning to reality.
+
+As reflection is wholly within the mind, resources may be used freely.
+
+###10020840
+Swordplay Training (Elementary)
+
+###10020841
+Use what you've learned to defeat the enemy.
+
+###10021000
+<?kgControlCamera?>: Control Camera
+
+###10021010
+<?kgiconKc@6?>: Jump
+
+###10021020
+<?kgiconKc@6?> in air near wall: Wall Jump
+
+###10021030
+<?kgiconKc@20?>: Toggle Wall Hug
+
+###10021040
+<?kgMove?> during wall cling: Shimmy
+
+###10021050
+<?kgiconKc@7?>: Toggle Crouch
+
+###10021060
+<?kgiconKc@22?>: Eavesdrop
+
+###10021070
+<?kgiconKc@20?> near edge: Ledge Hang
+
+###10021080
+<?kgMove?> during ledge hang: Shimmy
+
+###10021090
+<?kgiconKc@20?>: Climb Up
+
+###10021100###10021170
+<?kgiconKc@5?>: Drop Down
+
+###10021110
+<?kgiconKc@27?>: Open Equipment Menu
+
+###10021120
+<?kgiconKc@12?>: Toggle Target Lock-on
+
+###10021130###11102000
+<?kgiconKc@16?>: Attack
+
+###10021140###11102020
+<?kgiconKc@16?> on posture-broken enemy: Deathblow
+
+###10021150
+<?kgiconKc@18?> the moment enemy attack lands:  Deflect
+
+###10021160
+<?kgControlCamera?> while targeting: Change Target
+
+###10021180
+<?kgiconKc@19?>: Use Grappling Hook
+
+###10021190
+<?kgiconKc@16?>:Regeneration Technique
+
+###10021200
+<?kgiconKc@17?>: Use Prosthetic Tool
+
+###10021210
+<?kgiconKc@15?>: Cycle equipped Prosthetic Tools
+
+###10021220
+<?kgiconKc@21?>:Use Items
+
+###10021230
+<?kgiconKc@16?> after Backstab Deathblow: Ninjutsu
+
+###10021240
+Hold <?kgiconKc@20?>: Collect enemy loot
+
+###10021260
+<?kgiconKc@18?>+<?kgiconKc@16?>: Use equipped Combat Art
+
+###10021270###10023050###11102060
+<?kgiconKc@5?>: Step Dodge
+
+###10021280
+<?kgMove?> toward edge while hugging wall: Peek
+
+###10021500
+<?kgiconKc@20?> on Sculptor's Idol: Commune
+
+###10021510
+<?kgiconKc@18?> just as enemy projectile lands: Deflect
+
+###10021520
+<?kgiconKc@16?>: Finisher Deathblow
+
+###10021530
+<?kgiconKc@6?>/<?kgiconKc@5?> when knocked down: Safety Roll
+
+###10021540
+<?kgiconKc@16?> after Deflecting: Counter-slash
+
+###10021550
+Hold <?kgiconKc@16?>: Thrust attack
+
+###10021560
+Hold <?kgiconKc@5?> + <?kgMove?>: Sprint
+
+###10021800
+<?kgiconKc@16?>:Attack
+
+###10021810
+<?kgiconKc@16?> on staggered enemy:Ninsatsu
+
+###10021820
+Press <?kgiconKc@18?> in time with an enemy's attack to deflect it.
+
+###10022000
+Posture
+
+###10022001
+When Wolf's or an enemy's posture gauge is maxed out, posture is broken.
+
+Enemy posture can be damaged by a 
+combination of deflecting and attacking.
+
+###10022010
+Resurrection Potential
+
+###10022011
+Check your current Resurrection Potential, required to use the Resurrection Technique.
+Resting at a Sculptor's Idol will always fill the gauge enough for one Resurrection.
+
+###10022020
+Plunge Ninsatsu
+
+###10022021
+<?kgiconKc@16?> while jumping over an enemy:Plunging Ninsatsu
+
+###10022030
+Detection marker
+
+###10022031
+Yellow:Suspicious
+Red:Hostile
+
+###10022040
+Perilous attacks
+
+###10022041
+The perilous attack marker signifies attacks that can't be guarded
+
+###10022050
+<?gdsparam@1000?>
+
+###10022051
+Using Arm Tools consumes <?gdsparam@1000?>
+
+###10022061
+<?kgiconKc@6?>: Jump 
+<?kgiconKc@16?>: when red marker appears: 
+Plunging Deathblow
+
+###10023000###11101000
+Sword Combat
+
+###10023001
+<?kgiconKc@16?>: Attack
+<?kgiconKc@18?> the moment enemy attack lands: Deflect
+
+###10023010
+Deflect Ninsatsu
+
+###10023011
+Press <?kgiconKc@18?> in time with an enemy's attack to deflect it.
+<?kgiconKc@16?>:Repel to trigger "Deflect Ninsatsu"
+
+###10023020
+<?kgiconKc@21?>: Use Quick Item
+
+###10023030
+Spirit Emblem
+
+###10023031
+Using Prosthetic Tools costs Spirit Emblems.
+
+###10023041
+Commune with a Sculptor's Idol to rest.
+The last Sculptor's Idol communed with acts as a checkpoint.
+
+###10023060
+Quick Items
+
+###10023061
+<?kgiconKc@21?>: Use Current Quick Item
+<?kgToggleItems?>: Cycle Quick Items
+
+###10023070
+Posture Recovery Speed
+
+###10023071
+Posture recovers over time.  
+
+The lower one's Vitality, the slower 
+posture recovers.
+
+###10023090###10024580
+Perilous Attacks
+
+###10023091###10024581
+Some enemies use unguardable 
+"Perilous Attacks", signified with a danger symbol.  
+When these occur, watch carefully and look to perform a specific response.
+
+<?kgiconKc@18?> as thrust lands: Deflect
+<?kgiconKc@6?> before sweep lands: Jump
+For grabs, Jump or Sprint out of their range or <?kgiconKc@5?>: Step Dodge
+
+###10023100
+<?kgiconKc@5?>:Get up
+
+###10023111
+Take down unaware enemies by
+pouncing on them from above.
+
+<?kgiconKc@12?>: Lock-on
+<?kgiconKc@6?>: Jump toward enemy
+<?kgiconKc@16?> when red marker appears: 
+Plunging Deathblow
+
+###10023120
+Posture System
+
+###10023121
+
+Combine attacks and deflects to break enemy posture.
+
+A posture-broken enemy is vulnerable to a Deathblow.
+
+<?kgiconKc@16?>: Attack
+<?kgiconKc@18?> as attack lands: Deflect 
+<?kgiconKc@16?> on posture-broken enemy: Deathblow
+
+###10023130
+Prosthetic Tools
+
+###10023131
+Prosthetic tools are hidden weapons loaded inside the Shinobi Prosthetic.
+
+There are a variety of Prosthetic Tools, each effective in different situations.
+
+<?kgiconKc@17?>: Use Prosthetic Tool
+<?kgiconKc@15?>: Cycle Prosthetic Tools
+
+###10023150###10024510
+Using Quick Items
+
+###10023151###10024511
+You can cycle through various
+Quick Items and use each 
+according to the situation.
+
+For instance, if you have taken 
+damage, you can recover Vitality 
+with the Healing Gourd.
+
+<?kgiconKc@21?>: Use Quick Item
+<?kgToggleItems?>: Cycle Quick Items
+
+###10023160###10024710
+Safety Roll
+
+###10023161
+When your Posture is broken,
+use Safety Roll to quickly recover.
+
+<?kgiconKc@6?> or <?kgiconKc@5?> when knocked down or posture-broken: Safety Roll
+
+###10023170
+<?kgToggleItems?>:Cycle items
+
+###10024501
+Advance without being seen by crouching in bushes or moving under floors.
+
+You do not have a sword at the moment. Use stealth to avoid enemies and head to the Moon-view Tower.
+
+If you're about to be seen, warning markers appear above enemies' heads.
+
+###10024520###11100020
+Counter-slash
+
+###10024521
+A Counter-slash can be performed immediately after deflecting an attack.
+
+This allows you to deal Posture damage without giving the enemy time to recover.
+
+<?kgiconKc@18?> the moment attack lands: Deflect
+<?kgiconKc@16?> after Deflecting: Counter-slash
+
+###10024530
+Deathblow Against Strong Enemies
+
+###10024531
+Some powerful opponents require
+multiple Deathblows to be killed.
+
+The number of Deathblows required to
+kill an enemy is shown by the 
+red circular markers above their vitality bars.  
+
+Each Deathblow removes one marker.
+
+###10024540
+Grappling Hook
+
+###10024541
+The Shinobi Prosthetic's Grappling Hook allows access to normally unreachable places, and a chance to take the high ground.
+
+Nearby grapple points are designated with a circular symbol.  When this symbol turns green, the grapple point is within reach.
+<?kgiconKc@19?>: Grappling Hook
+
+###10024550
+Stealth Deathblow
+
+###10024551
+You can perform "Stealth Deathblows"
+on opponents unaware of your presence.
+
+The "Plunging Deathblow" is one of these, performed when leaping at an unaware enemy from high ground.
+<?kgiconKc@12?>: Lock on to enemy
+<?kgiconKc@6?>: Jump 
+<?kgiconKc@16?>: Plunging Deathblow
+
+###10024560###10025090
+Fitting Prosthetic Tools
+
+###10024561
+Shinobi Tools can't be used on their own.  By giving them to the Sculptor, they can be fitted to the Shinobi Prosthetic.
+
+You can quickly return to the Sculptor via Travel from a Sculptor's Idol, or by using the Homeward Idol.
+
+###10024570
+Prosthetic Tool
+
+###10024571
+Prosthetic Tools are shinobi tools adapted for use with the Shinobi Prosthetic.
+
+They can be equipped in the Equipment Menu, and using them consumes Spirit Emblems.
+
+<?kgiconKc@27?>: Open Equipment Menu
+<?kgiconKc@17?>: Use Prosthetic Tool
+<?kgiconKc@15?>: Switch Prosthetic Tool
+
+###10024590###10025100
+Prosthetic Tool Upgrades
+
+###10024591
+By giving the Mechanical Barrel to the Sculptor, upgraded Prosthetic Tools can be created.
+
+You can quickly return to the Sculptor via the "Travel" option at a Sculptor's Idol, or by using the Homeward Idol Quick Item.
+
+###10024600
+Dragon's Blood Stagnation
+
+###10024601
+Dying without resurrecting results in 
+"Stagnation of the Dragon's Blood".
+When stagnation reaches its limits,
+it has a chance of "overflowing".
+Each successive death increases the chance of overflow.
+When this happens, some known to Wolf will becomes sick with "Dragonrot", and his Resurrective Power is reduced by 1.
+
+###10024610###10024830###10025240###15000250
+Dragonrot Restoration
+
+###10024611
+If someone afflicted with Dragonrot is not treated, they will die.
+
+However, Emma can create a medicine 
+called Dragonrot Pellet to cure them.
+
+Dragonrot Pellets require
+Resurrective Power to be created.
+
+###10024621
+If one is standing on the ground, lightning surges through them, making movement impossible.
+
+But if one is struck while in the air, the lightning can be dispelled from the body and sent at an enemy instead.
+
+<?kgiconKc@18?> when hit by lightning in air: Charge
+<?kgiconKc@16?> before landing: Lightning Reversal
+
+###10024630
+Skills
+
+###10024631
+Owning an "Esoteric Text" of a combat style will allow its skills to be acquired in the Sculptor's Idol Skill Menu.
+Each enemy defeated provides Skill Experience.  Skill Points are acquired once enough experience is gained, which can be spent to unlock Skills.  Some Skills can also be learned by obtaining items or defeating enemies.
+
+###10024640
+Combat Arts
+
+###10024641
+"Combat Arts" are special attack skills based on the strengths of the fighting style they belong to.
+They must be equipped in the 
+Equipment Menu to be used, and can be learned through the Skill Menu or found in special Esoteric Texts.
+
+<?kgiconKc@16?> while holding <?kgiconKc@18?>: 
+Perform equipped Combat Art
+
+###10024650
+Prosthetic Follow-up Attack
+
+###10024651
+Special sword attacks can be performed immediately after using Prosthetic Tools.
+
+<?kgiconKc@17?>: Use Prosthetic Tool
+<?kgiconKc@16?> right afterward: Follow-up Attack
+
+Controls for Follow-up Attacks
+can be viewed in the Equipment Menu.
+
+###10024660
+Ninjutsu Techniques
+
+###10024661
+Ninjutsu Techniques are powerful abilities that can only be used after performing a Backstab Deathblow.
+
+They must be equipped in the Equipment Menu, and cost Spirit Emblems to perform.
+
+<?kgiconKc@16?> after Backstab Deathblow: 
+Ninjutsu Technique
+
+###10024670
+Acquiring Enemy Loot
+
+###10024671
+Enemies drop loot such as items and money.  Multiple enemies can be looted at once, and from some distance away.
+
+Items found in the world are different than loot, in that they must be approached to be picked up.
+Press and hold <?kgiconKc@20?>: Acquire Loot
+Press <?kgiconKc@20?> near world item: Pick Up Item
+
+###10024680
+Resurrection
+
+###10024681
+The Divine Heir's blood grants the ability to return from the dead using "Resurrective Power".
+
+One charge is always restored by resting at a Sculptor's Idol, killing enemies restores additional charges.  
+Resurrection becomes unusable immediately after using it, but killing enemies will make it available again.
+
+###10024690
+Underwater Movement
+
+###10024691
+Mibu breathing technique grants the ability to breathe under water.
+With this power, one can remain under water indefinitely.
+
+<?kgiconKc@17?>: Dive
+<?kgiconKc@19?>: Surface
+<?kgiconKc@5?> while using <?kgMove?>: Underwater Dash
+
+###10024700
+Status Abnormalities
+
+###10024701
+"Status Abnormalities" have a variety of negative effects in battle.
+
+Before an abnormality is fully inflicted, a Resistance Gauge is shown.  When the Resistance Gauge is full, Wolf becomes afflicted.
+There are items which suppress the Resistance Gauge or outright cure these abnormalities.
+
+###10024711
+To stay down after being knocked to the ground surely means death.
+
+Safety roll can be use to quickly recover from being knocked down or posture-broken.
+
+When posture-broken or knocked down, <?kgiconKc@6?> or <?kgiconKc@5?>: Safety Roll
+
+###10024720
+Spirit Emblems
+
+###10024721
+Spirit Emblems are required to activate
+Prosthetic Tools, and are consumed each time these abilities are used.
+
+Spirit Emblems can be obtained from 
+defeated enemies, in the world, and purchased from Sculptor's Idols.
+
+If you pass near them, they will find their way to you.
+
+###10024740
+Offering Box
+
+###10024741
+Items that become unavailable elsewhere end up in the Offering Box.
+
+When the box is illuminated,
+it means an item has found its way inside.
+
+Items can be obtained by inspecting the box and offering money.
+
+###10024750
+Posture and Deathblows
+
+###10024751
+A Shinobi aims to break an opponent's posture.  Attacking an enemy is one way to achieve this.
+
+When an enemy's posture breaks, 
+he is vulnerable to a 
+"Shinobi Deathblow".
+<?kgiconKc@16?>: Attack
+<?kgiconKc@16?> after breaking posture: Deathblow
+
+###10024760
+Deflection
+
+###10024761
+Sometimes relentless attack is not enough to break an enemy's posture.
+
+Deflecting enemy attacks is another way to damage their posture.  A master shinobi uses a combination of Deflect and attacks to achieve swift victory.
+
+<?kgiconKc@18?> the moment an attack lands: Deflect
+
+###10024770
+Lock-on
+
+###10024771
+By locking on to your target
+and keeping your enemy in front of you,
+you'll find it much easier to attack, Deflect, and perform other combat actions.
+
+<?kgiconKc@12?>: Lock-on/Release Target
+<?kgControlCamera?> while locked on: Change Target
+
+###10024781
+"Shock" status abnormality occurs when one is standing on the ground when struck by lightning, dealing major Vitality damage and a stun.
+
+However,  a "Lightning Reversal" will absorb the lightning in mid-air and reflect it back at an enemy.
+<?kgiconKc@18?> when hit by lightning in air: Charge
+<?kgiconKc@16?> before landing: Lightning Reversal
+
+###10024790
+Grab Attacks
+
+###10024791
+Grab Attacks cannot be Deflected.
+There is no way to avoid taking serious damage once grabbed.
+
+But if one Jumps or Sprints away, grabs can be avoided.  Some grabs can also be avoided with a well-timed Step Dodge.
+<?kgiconKc@6?> + <?kgMove?>: Jump in desired direction
+Hold <?kgiconKc@5?> + <?kgMove?>: Sprint
+<?kgiconKc@5?>: Step Dodge
+
+###10024800
+Loss upon Death
+
+###10024801
+Experience toward the next skill point and current sen in hand are halved upon death.  Everything lost is gone for good.
+
+There are no known means to escape this loss.  
+
+However, through the grace of the gods or Buddha, it may not be impossible...
+
+###10024810
+Unseen Aid
+
+###10024811
+Half of Skill Experience and sen are lost upon death, but there is a way to avoid this on rare occasions.
+
+Through the Unseen Aid of gods and Buddha, one may be spared this loss.
+
+The chances of receiving Unseen Aid 
+can be seen in the Pause Menu.
+<?kgiconKc@27?>: Open Pause Menu
+
+###10024820
+Dragonrot
+
+###10024821
+The more one with the power of the Dragon's Heritage dies, the more a sickness known as Dragonrot spreads through the world.  
+Dragonrot is not caused by Resurrection,
+it has a chance to occur only when the Wolf truly dies, repeatedly.
+
+The more Rot Essence Wolf has, the lower the chances of receiving Unseen Aid.
+
+###10024831
+The Recovery Charm allows Dragonrot sufferers to be healed from a Sculptor's Idol.
+
+A Dragon's Blood Droplet can be consumed to heal Dragonrot from all those afflicted.  Doing so will cause all Rot Essence to disappear, returning the chances of receiving Unseen Aid to the default value.
+
+###10024840###11100040###15013024
+Vitality and Posture
+
+###10024841
+The lower one's Vitality, the slower their Posture recovers.  The Posture gauge's color gets redder as recovery rate slows.
+Vitality-damaging techniques such as Dodge Counterattack are ideal against enemies with fast Posture recovery.  Once enemy Vitality is low, Posture-damaging moves become effective.
+<?kgiconKc@5?>: Step Dodge
+<?kgiconKc@16?> after Dodge: Dodge Counterattack
+
+###10024850###11100050###15013025
+Countering Thrust Attacks
+
+###10024851
+Thrust attacks cannot be blocked, 
+but they can be deflected.
+
+The Mikiri Counter skill also counters Thrust attacks, and performing it successfully will deal greater Posture damage than a normal deflect.
+
+###10024880###10025340
+Remnants
+
+###10024881
+Shinobi can leave behind shadows of their past actions, known as "Remnants".
+
+Remnants are left to discipline one's peers. Some are masters of the way ahead, others provoke sporting rivalries.
+
+<?kgiconKc@44?>: Open Remnant Menu
+
+Note: A network connection is required to leave Remnants.
+
+###10024890###10025270###10025310###15000900
+Reflection of Strength
+
+###10024891
+You have defeated an extraordinary foe, who can now be faced once again in memory.
+
+Reflection of Strength can be accessed via the Sculptor's Idol menu.
+
+###10024900###10025280###10025320###15000901###15001000
+Gauntlet of Strength
+
+###10024901
+You have defeated many extraordinary foes, who can now be faced in memory as a series of consecutive battles.
+
+Gauntlet of Strength can be accessed via the Sculptor's Idol menu.
+
+Confronting memories of the past is akin to the discovery of new possibilities. 
+The very ends of conflict may afford a new state of mind.
+
+###10024910
+Reflection/Gauntlet of Strength
+
+###10024911
+Extraordinary foes you've defeated can now be faced again in memory, either one at a time or as a series of battles.
+
+Reflection and Gauntlet of Strength can be accessed via the Sculptor's idol menu.
+
+Confronting memories of the past is akin to the discovery of new possibilities. 
+The very ends of conflict may afford a new state of mind.
+
+###10024920
+Memories of Another
+
+###10024921
+Memories, regrets, or obsessions left by another.  
+
+Harbouring these innermost thoughts at a Sculptor's Idol will allow the Wolf to alter his form, though doing so will have no bearing on his ability.
+
+Taking charge of another's regret is but a fleeting thing, after all.
+
+###10024930
+Remnant Reputation
+
+###10024931
+You recover Vitality when someone 
+praises a Remnant you have left.
+
+A shinobi's reputation travels upon the wind.  
+Hearing the wind's whisper provides a precious moment of solace and comfort.
+
+*A network connection is required to gain the benefits of Remnant Reputation
+
+###10025000
+Equipment Menu: Quick Items
+
+###10025001
+The Equipment Menu allows you to change your 
+currently equipped Quick Items.
+
+There are 5 slots available to equip and 
+switch out Quick Items as needed.
+
+###10025010
+Equipment Menu - Prosthetic Tools
+
+###10025011
+
+Prosthetic Tool equipment slots have been unlocked.
+There are 3 slots available to equip and switch out Prosthetic Tools as needed.  
+
+On the equipment selection screen, the controls can be viewed through <?kgicon@2010?>.
+
+###10025020
+Skill Menu
+
+###10025021
+Acquired abilities can be viewed in the Skill menu.
+
+Categories can be selected through <?kgicon@2014?> and <?kgicon@2015?>.
+
+Combat Arts can be equipped through the Equipment Menu.
+
+###10025030
+Equipment Menu - Ninjutsu Techniques
+
+###10025031
+Ninjutsu Technique equipment slots have been unlocked.
+
+Only 1 slot is available for selecting a Ninjutsu Technique.
+
+###10025050
+Sculptor's Idol Travel
+
+###10025051
+You can now instantly Travel between Sculptor's Idols that have already been communed with.
+
+Travel can be accessed via the Sculptor's Idol Travel Menu.
+
+###10025070
+Physical Enhancement
+
+###10025071
+The "Enhance Physical Attributes" option has been unlocked in the Sculptor's Idol menu.
+
+Here you can spend four Prayer Beads to create a Prayer Necklace, which will permanently increase your maximum Vitality and Posture.
+
+###10025091
+Regular shinobi tools found in the world can be specially adapted 
+to the Shinobi Prosthetic via the "Fit Prosthetic Tools" menu.
+
+###10025101
+In the Prosthetic Tool Upgrade Menu, upgrade materials and sen can be spent to create upgraded versions of Prosthetic Tools.
+
+To upgrade, one must own the base tool and also complete any prerequisite upgrades.  
+
+Older versions of a tool can still be used after upgrading.
+
+###10025110###10025140
+Acquiring Skills
+
+###10025111
+New skills can be acquired by spending Skill Points in the Skill Menu.  New Combat Styles can be learned through obtaining Esoteric Texts for each style.
+There are 3 types of skills: "Combat Arts", "Shinobi Martial Arts", and "Latent Skills".
+"Combat Arts" must be equipped to be used, but "Shinobi Martial Arts" and "Latent Skills" are always in effect upon being acquired.
+
+###10025141
+The Acquire Skills menu has been unlocked in the Sculptor's Idol menu.
+
+New skills can be learned by spending Skill Points in this menu.
+
+###10025200
+Inventory Menu
+
+###10025201
+Items currently in possession can be viewed through the Inventory Menu.
+
+Categories can be selected through <?kgicon@2014?> and <?kgicon@2015?>.
+
+###10025210
+Equipment Menu - Combat Arts
+
+###10025211
+Combat Arts can now be equipped in the Equipment Menu.
+
+Only 1 Combat Art can be equipped at a time.
+
+###10025220
+Enhancing Attack Power
+
+###10025221
+The Enhance Attack Power option has been unlocked in the Sculptor's Idol menu.
+
+You can now consume Battle Memories to increase your attack power, causing you to deal more vitality and posture damage with your attacks.
+
+###10025230
+Sculptor's Idol Menu
+
+###10025231
+Sculptor's Idols serve as a checkpoint and can be found throughout Ashina.  Resting at a Sculptor's Idol will completely replenish Vitality and restore one use of Resurrection.  Additionally, Quick Items and Spirit Emblems in storage will be added to your current inventory.  
+
+With some exceptions, Resting will also revive defeated enemies.
+
+###10025241
+The Dragonrot Restoration menu is now unlocked in the Sculptor's Idol menu.
+
+Consuming a "Dragon's Blood Droplet" will
+restore to health all those afflicted with Dragonrot.
+
+###10025260
+Change Form 
+
+###10025261
+Change Wolf's appearance from the Change Form Menu.
+
+Regardless of his appearance, Wolf's abilities will be unaffected.
+
+Additional forms will become available by obtaining "Memories of Another".
+
+###10025271
+Reflect upon a previously defeated extraordinary foe to fight them once more within Wolf's memories.
+
+During reflection, Wolf's attack power is not tied to his strength in the real world, and any Quick Items and Spirit Emblems used in these battles are reverted to their original states upon returning to reality.
+
+###10025281
+By reflecting upon his memories, Wolf can perform a series of
+one-on-one battles with extraordinary foes he has defeated 
+in the past.  Defeat at any point will result in a failed attempt, 
+returning Wolf to reality.
+During reflection, Wolf's attack power is not tied to his strength
+in the real world, and Quick Items and Spirit Emblems used 
+will be replenished upon returning to reality.
+
+###10025300
+Changing Form
+
+###10025301
+The Change Form menu has been unlocked.
+
+The Change Form menu allows you to alter your appearance based on the "Memories of Another" in your possession.
+
+###10025311
+The Reflection of Strength menu has been unlocked.
+
+From this menu, you can relive battles against extraordinary foes that have been previously defeated.
+
+###10025321
+The Gauntlet of Strength menu has been unlocked.
+
+From this menu, you can relive battles against extraordinary foes that have been previously defeated, in a series of consecutive battles.
+
+###10025330
+Conquering the Gauntlet of Strength
+
+###10025331
+Reflect upon battle memories and fight all extraordinary foes in succession.
+
+There are no rewards to be gained upon completing this grueling life or death struggle.
+
+###10025341
+Shinobi can leave behind shadows of their past actions, known as "Remnants". 
+Vitality is replenished when one's Remnant is praised by another Shinobi.
+
+Remnants can be recorded via the "Recorded Remnants" tab.  
+Messages can be written to accompany Remnants.
+
+Select a slot and <?kgiconKc@33?>: Record Remnant
+
+###10025350
+Viewed Remnants
+
+###10025351
+A list of Remnants that you have viewed is displayed in the "Viewed Remnants" tab.
+
+Viewed remnants can also be praised or scorned here.
+
+###10025360
+Leaving Messages
+
+###10025361
+Messages can be written to accompany Remnants.
+
+Messages are written by selecting from predetermined templates and words.
+A second line can also be added by selecting "Message Length".
+
+Select "Record Remnant" to begin recording.
+
+###10025370###10025380###10025390
+New State of Mind Reached
+
+###10025371
+A new state of mind has been uncovered amidst memories of battle.
+
+The extraordinary foe "Inner Genichiro" can now be faced via Reflection of Strength.
+
+###10025381
+A new state of mind has been uncovered amidst memories of battle.
+
+The extraordinary foe "Inner Father" can now be faced via Reflection of Strength.
+
+###10025391
+A new state of mind has been uncovered amidst memories of battle.
+
+The extraordinary foe "Inner Isshin" can now be faced via Reflection of Strength.
+
+###10090000###10090040
+Equipment menu
+
+###10090001
+View equipped items and attach new equipment.
+
+From the Arm Tool equip menu, you can check a special attack list for each Arm Tool.
+
+###10090010
+Inventory menu
+
+###10090011
+View items in your possession.
+
+Select an item to learn more about it.
+
+###10090020
+Map Menu
+
+###10090021
+This menu displays a map of Ashina
+Use this to confirm your current location
+
+###10090030
+Options menu
+
+###10090031
+View and change various settings.
+
+Select "Quit Game" to save your progress and quit the game.
+
+###10090041
+Equip Use Items from the Equipment menu.
+
+Select slot then <?kgiconKc@33?>:Equip Use Items
+
+###10090050
+Abilities Menu
+
+###10090051
+Use this menu to consume Skill Points
+and learn new Taijutsu/Kenjutsu Skills
+
+###11000000
+YES
+
+###11000001
+NO
+
+###11000020
+Begin Combat Tutorial?
+
+###11010030
+A sturdy blade need not evade
+
+###11010031
+<?kgiconKc@6?> will not help you to avoid attacks
+Use <?kgiconKc@18?> to repel attacks
+rather than trying to evade
+Keep your blade up, and do not take
+to the air like a fool without thought
+
+###11010060
+Shuriken
+
+###11010061
+Shuriken are effective against
+nimble foes such as dogs
+Use Shuriken to fight off the dogs
+
+###11010070
+Spinning Back Kick
+
+###11010071
+Use this technique to close the distance
+Approach the enemy with <?kgiconKc@6?>
+and defeat them
+
+###11010080
+Critical Counter
+
+###11010081
+Avert thrust attacks with a well-timed kick
+Use <?kgiconKc@5?> to perform a
+Critical Counter and create a
+Ninsatsu opportunity
+
+###11010090
+Gale's Edge
+
+###11010091
+Use this technique after throwing Shuriken
+to chase down and cut into the enemy
+Use Gale's Edge to defeat the enemy
+
+###11100000
+Sword attacks
+
+###11100001
+A Shinobi aims to break an opponent's posture.  Attacking an enemy is one way to achieve this.
+
+An enemy with broken posture is vulnerable to a "Shinobi Deathblow".
+"Perform 3 Deathblows after breaking enemy posture"
+<?kgiconKc@16?>: Attack
+<?kgiconKc@16?> after breaking posture: Deathblow
+
+###11100010###15013021
+Deflect
+
+###11100011
+Sometimes relentless attack is not enough to break an enemy's posture.
+
+Deflecting an enemy's attacks also damages their posture, and a master shinobi will both deflect and attack.
+"Deflect enemy attacks and perform 3 Deathblows."
+<?kgiconKc@18?> the moment an attack lands: Deflect
+<?kgiconKc@16?> after breaking posture: Deathblow
+
+###11100021
+Attack immediately after Deflecting to perform a "Counter-slash".
+
+Doing so will damage enemy Posture without giving them a chance to recover.
+"Alternate between Deflecting and Attacking to perform 3 Deathblows."
+<?kgiconKc@18?> as enemy attack lands: Deflect.
+<?kgiconKc@16?> after Deflecting: Counter-slash
+
+###11100030###15013022
+Step Dodge
+
+###11100031
+Step Dodge allows one to avoid attacks.
+
+Dodging won't compromise enemy posture, but may help one avoid damage.
+"Evade enemy attacks, then attack and 
+perform 3 Deathblows."
+<?kgiconKc@5?>: Step Dodge
+After dodge, <?kgiconKc@16?>: Dodge Counterattack
+
+###11100041
+The lower one's Vitality, the slower their Posture recovers.  For enemies with seemingly unbreakable Posture, use techniques such as Dodge
+
+Counterattack reduces their Vitality, making their Posture easier to break.
+"Perform 3 Deathblows on the enemy."
+<?kgiconKc@5?>: Step Dodge
+ <?kgiconKc@16?> After Step Dodge: Counterattack
+
+###11100051
+Thrust attacks cannot be Guarded, but they can be countered by Deflecting or Step Dodging to the side of them.
+
+"Counter enemy attacks to perform 3 Deathblows."
+
+<?kgiconKc@18?> as enemy thrust attack lands: Deflect
+<?kgiconKc@5?>: Step Dodge
+
+###11100060###11101020###15013026
+Countering Sweep Attacks
+
+###11100061
+Sweep attacks cannot be Guarded or Deflected, they must be jumped over to be avoided.
+Jump Kicking an enemy during sweep attacks deals heavy posture damage, often leading directly to a Deathblow.
+"Counter sweep attacks to perform 3 Deathblows."
+<?kgiconKc@6?>: Jump
+<?kgiconKc@6?> in mid-air near enemy: Jump Kick
+
+###11100070###15013027
+Mikiri Counter
+
+###11100071
+A shinobi can perceive incoming thrust attacks and counter them by stepping on the enemy blade.
+
+Known as "Mikiri Counter", this is a powerful if risky move that deals more Posture damage than a regular Deflect.
+"Use Mikiri Counter to perform 3 Deathblows."
+
+###11100080###15013028
+Vault Over
+
+###11100081
+If an enemy's posture is broken in combat, "Vault Over" can be used to jump over and behind them to perform a Backstab Deathblow.
+
+"Use Vault Over to perform 3 Backstab Deathblows."
+
+<?kgiconKc@6?> after breaking posture: Vault Over
+
+###11100090###15013023
+Consecutive Deflections
+
+###11100091
+Deflecting once doesn't always mean 
+an enemy will stop attacking.
+Consecutive attacks can be countered with "Consecutive Deflections", which can greatly damage enemy Posture.
+
+"Deflect all enemy attacks and 
+perform 3 Deathblows."
+<?kgiconKc@18?> as attacks land:
+Consecutive Deflections
+
+###11101001
+<?kgiconKc@16?>: Attack
+<?kgiconKc@18?> at moment enemy attack lands: Deflect
+<?kgiconKc@16?> on posture-broken enemy: Deathblow
+
+###11101010
+Dodge Counterattack
+
+###11101011
+<?kgiconKc@5?>: Step Dodge
+<?kgiconKc@16?> after Dodge: Dodge Counterattack
+
+###11101021
+<?kgiconKc@6?>: Jump
+<?kgiconKc@6?> mid-air near enemy: Jump Kick
+<?kgiconKc@16?> in air on posture-broken enemy: Plunging Deathblow
+
+###11101030###15013010
+Free Combat (Fundamentals)
+
+###11101031
+Practice what you've learned so far.
+
+###11101040
+Free Combat (Application)
+
+###11101041
+Deal with a variety of attacks,
+using your training to win the fight.
+
+###11101050
+Vitality and Posture (Part 1)
+
+###11101051
+This enemy's Posture recovers quickly.
+Use Dodge Counterattack to reduce their Vitality.  
+
+###11101060
+Vitality and Posture (Part 2)
+
+###11101061
+Enemies with low vitality recover posture slowly.
+
+Now focus on breaking Posture and
+performing a Deathblow.
+
+###11101070
+Posture Recovery Speed when Guarding
+
+###11101071
+Holding one's Guard causes Posture
+to recover more quickly.
+
+Hold <?kgiconKc@18?>: Guard
+
+###11101080
+Powerful Foes in Old Memories
+
+###11101081
+Some foes contained in Wolf's old memories are extremely powerful.
+
+Should they seem insurmountable,
+it's an option to explore elsewhere,
+and revisit upon gaining strength.
+
+###11102010
+<?kgiconKc@18?> as enemy attack lands: Deflect
+
+###11102030
+<?kgiconKc@18?> as thrust lands: Deflect
+
+###11102040
+<?kgiconKc@5?> as thrust lands: Mikiri Counter
+
+###11102050
+<?kgiconKc@6?> on posture-broken enemy: Vault Over
+
+###11102070
+<?kgiconKc@16?> after Dodge: Dodge Counterattack
+
+###12000000
+Turn back if you value your life.
+You can't behead the headless.
+Our swords and pikes did nothing.
+
+###12000001
+Temple Posting
+
+###12000010
+Hanging Scroll of an Old Battle
+
+###12000011
+Ghosts once lurked the lands of Ashina.
+The ghosts' lightning was of the
+Fountainhead gods, unstoppable by
+normal means.
+Avoid ground, reverse the lightning.
+
+###12000020
+Crumbling Offering Tower
+
+###12000021
+Here lie the vassals of the Ashina Clan
+executed after the great rebellion.
+
+May their spirits rest.
+
+###12000030
+Sunken Valley Clan Document
+
+###12000031
+The Sunken Valley Clan worship the 
+Great Serpent, and shoot strangers 
+on sight.  The "Snake Eyes" are a feared,
+elite group of women snipers known for
+hitting targets at impossible distances.
+
+###12000230
+Emma,
+
+###12000231
+     I have business to attend to.
+     Everything is under control.
+
+###12000240
+Sekiro,
+
+###12000241
+At Sunken Valley entrance.
+Much activity near Great Serpent Shrine.
+The Tengu has rats to see to.
+
+###12000250
+Muddy Hall Note
+
+###12000251
+There is mud everywhere here.
+
+Mud splashes about when you walk.
+Mud will splash around, regardless as to
+who is walking.
+
+###12000252
+Muddy Hall Posting
+
+###12000253
+Mud!  Mud, everywhere.
+
+Doesn't matter who it is, they splash mud.
+Splash it everywhere.
+
+The seeing monkey splashes it, 
+so does the hearing monkey, the speaking
+monkey, and the                               too …
+
+###12000260###12000262
+Roaring Hall Posting
+
+###12000261
+The noise of the Roaring Waterfall 
+is deafening.
+Surely no one can hear anything else 
+in here.
+
+###12000263
+The roaring waterfall is deafening.
+
+Surely none could hear anything else 
+in here.
+
+###12000270###12000272
+Lamplit Hall Posting
+
+###12000271
+A flame in the wind.
+Snuff the flame, and this place is 
+dark as night.
+
+###12000273
+The dim light is snuffed out all too easily,
+much like a flame in the wind.
+
+When that happens, this place is 
+dark as night.
+The darkness begets fear and uncertainty,
+even for those with the sharpest of eyes.
+
+###12000274
+Light Hall Note
+
+###12000275
+A bare flame in the wind.
+When it goes out, the place 
+becomes dark as night.
+
+###12000280###12000282###12000284
+Abyss Hall Note
+
+###12000281###12000285
+Below is an abyss.  
+The bottom cannot be seen.
+
+Above is darkness.  
+Nothing can be seen.
+
+###12000283
+Below is an abyss.
+Above is darkness.
+
+Climbing up leads to the 
+blinding darkness.
+The darkness begets fear 
+and uncertainty, even for those 
+with the sharpest of eyes.
+
+###12000290
+Altar of the Shelter stone
+
+###12000291
+Shelter stones such as this 
+are an auspicious omen,
+sweetly scented for a bridal offering.
+
+The palanquin awaits with open arms.
+
+###12000300
+Tengu's Letter
+
+###12000301
+The rats chitter and multiply
+near the Great Serpent Shrine.
+The Tengu will see to these vermin.
+
+Sekiro, you're welcome to join me there.
+
+###12000310
+Divine Heir's Letter
+
+###12000311
+Wolf,
+
+Found something.
+I've opened the library.  Meet me there.
+
+                                                      Kuro
+
+###12000320
+Deafening Bell Note
+
+###12000321
+This bell is deafening.
+Ringing it recklessly will also 
+make your ears ring.
+
+###12000330
+Shinobi Path Note
+
+###12000331
+Shinobi Escape Route
+Leads to Demon Bell
+
+###12000340
+Bell Inscription
+
+###12000341
+Do not ring this bell.
+
+Inviting misfortune is an act of virtue, 
+but only the stoutest of heart should 
+ever consider it.
+
+###12001000
+Spend Skill Points to enhance Attack Power?
+
+###12001010
+Restore those afflicted with Dragonrot?
+
+###12001020
+Quit battle and return to original Sculptor's Idol?
+(No progress will be lost)
+
+###12001030
+Quit Gauntlet and return to Sculptor's Idol?
+(Gauntlet progress will be lost)
+
+###12001040
+Attack power is at maximum and cannot be upgraded further.
+Convert the battle Memory to a Remnant?
+
+###12010000
+Change costume
+
+###12010100
+Are you sure you want to take back the charm,
+and avoid the path of additional hardships? 
+(This decision cannot be undone for this playthrough.)
+
+###12011100
+Walk the path of additional hardships?
+
+###12014000
+Pay <?evntAcquittalPrice?> sen to purchase Dragon's Blood Droplet?
+
+###12017002
+Tell him what the Ashina Samurai need?
+
+###12017003
+Pay <?evntAcquittalPrice?> sen to purchase information?
+
+###12022000
+Give Scriptures of the Senpou Temple High Priest?
+
+###12022001
+Give persimmon?
+
+###12022002
+Give Taro Persimmon?
+
+###12023000
+Consume Resurrective Power to create Dragonrot Pellet?
+
+###12023001###13000001
+Consume Gourd Seed to increase maximum uses of Healing Gourd?
+
+###12023002
+Give Dragonrot Blood Sample?
+
+###12090000
+You will be unable to return to the current playthrough #(<?loopCount?>) 
+after starting the next playthrough (<?nextLoopCount?>).
+Are you sure you want to start the next playthrough #(<?nextLoopCount?>)?
+
+###12095000###12095004
+Give Ashina Sake?
+
+###12095001###12095005
+Give Unrefined Sake?
+
+###12095002
+Give Monkey Booze?
+
+###12095003
+Give Dragonspring Sake?
+
+###12095010
+Give Dragonrot Pellet?
+
+###13000000###13023003
+You don't have any Gourd Seeds.
+
+###13000002
+Maximum Healing Gourd uses increased.
+
+###13000003
+The Healing Gourd cannot be upgraded further.
+
+###13000010
+You don't have the <?evntAcquittalPrice?> Prayer Beads required.
+
+###13000011
+Consume <?evntAcquittalPrice?> Prayer Beads to Enhance Physical Attributes?
+
+###13000012
+Physical attributes enhanced.  
+Maximum Vitality and Posture have increased.
+
+###13000013
+Physical attributes cannot be enhanced any further.
+
+###13000020
+Not enough sen to suppress stagnation.  
+<?evntAcquittalPrice?> sen is required.
+
+###13000021
+Spend <?evntAcquittalPrice?> sen to suppress stagnation?
+
+###13000022
+Stagnation has been suppressed
+
+###13000023
+The Dragon's Blood is not currently stagnated
+
+###13000030
+You equipped the <?gdsparam@2100?>
+
+###13000031
+You equipped the <?gdsparam@2110?>
+
+###13000032
+You equipped the <?gdsparam@2120?>
+
+###13000040
+Attack Power has been enhanced.
+
+###13000041
+Attack Power cannot be enhanced further.
+
+###13000042
+You don't have any Battle Memories.
+
+###13000050
+Not enough Skill Points.
+
+###13000051
+Skill Points spent, Attack Power enhanced.
+
+###13000052
+Attack Power has been increased to maximum possible value.
+
+###13000060
+All afflicted with Dragonrot have been restored to health.
+
+###13000070
+You do not have any <?gdsparam@5600?>s.
+
+###13000080
+No one is afflicted with Dragonrot.
+
+###13001700
+Not enough sen.
+
+###13010000
+You do not have any Shinobi Tools to fit to the Shinobi Prosthetic.
+
+###13010010
+None of your Prosthetic Tools can be upgraded.
+
+###13010020
+Attack the enemy to break their Posture.
+The red marker signifies when a Deathblow is possible.
+
+<?kgiconKc@16?>:Attack
+<?kgiconKc@16?> on staggered enemy:Shinobi Deathblow
+
+###13010030
+Deflect enemy attacks to break their Posture.
+The red marker signifies when a Deathblow is possible.
+
+<?kgiconKc@18?> in time with enemy attack:Deflect
+<?kgiconKc@16?> on staggered enemy:Shinobi Deathblow
+
+###13010040
+Deal Posture damage to an enemy
+to fill the gauge and stagger them,
+allowing you to deal the finishing blow.
+
+Alternate attack and defence to weaken
+enemy posture and create Deathblow opportunities.
+
+<?kgiconKc@16?>:Attack
+<?kgiconKc@16?> on staggered enemy:Shinobi Deathblow
+
+###13010050
+Next, try consecutive use of attack and deflect.
+
+Through consecutive attack and deflect,
+you can inflict Posture damage effectively,
+leaving the enemy little time to recover.
+
+<?kgiconKc@16?>:Attack
+<?kgiconKc@18?> in time with enemy attack:Deflect
+
+###13010060
+Try to evade enemy attacks
+and then answer with an attack of your own.
+
+Enemies are vulnerable for a moment after attacking,
+creating counter-attack opportunities.
+
+<?kgiconKc@5?>:Step
+<?kgiconKc@16?> after evading:Attack
+
+###13010070
+"DANGER!" indicates an attack that cannot be guarded against.
+
+Deal with thrust attacks by deflecting them.
+
+<?kgiconKc@18?> in time with enemy attack:Deflect
+
+###13010080
+"DANGER!" indicates an attack that cannot be guarded against.
+Sweep attacks can be evaded by jumping.
+Kick off the enemy in mid-air to inflict heavy Posture damage.
+If this causes the enemy to stagger,
+you can follow immediately with a Plunging Deathblow.
+
+<?kgiconKc@6?>:Jump
+<?kgiconKc@6?> in mid-air:Kick
+<?kgiconKc@16?> in mid-air on staggered enemy:Plunging Deathblow
+
+###13010090
+Use everything you've practiced so far to defeat the enemy.
+
+###13010100
+You will not experience additional hardships in this playthrough.
+
+###13010101
+Gave Mechanical Barrel.
+
+###13010102
+Mechanical Barrel fitted to Shinobi Prosthetic.
+
+###13010103
+Old memories must be experienced in a certain order.
+It seems there's another bell that must be used first.
+
+###13010104
+This Buddha has a kind look to it.
+Perhaps an offering of some sort should be made.
+
+###13011000
+The Divine Heir must not be left behind.
+
+###13011011
+The burner smells faintly of sakura flowers.
+
+###13011100
+You have chosen the path of further hardships.
+
+###13011110
+Gave Rice to Kuro.
+
+###13011120
+Additional Resurrective Power granted.
+
+###13011121
+No Sakura Droplets in your possession.
+
+###13011122
+This cannot be upgraded further.
+
+###13012200
+No destinations to introduce
+
+###13013000###13013006###13013010
+Free Combat is now available.
+
+###13013001
+New Undying Samurai Training is available
+
+###13013003###13013008
+Undying Samurai Training "Mikiri Counter" unlocked
+
+###13013004###13013009
+Undying Samurai Training "Vault Over" unlocked
+
+###13013005###13013007
+New training option available
+
+###13017000
+Anayama paid you <?evntAcquittalPrice?> sen.
+
+###13017001
+Paid <?evntAcquittalPrice?> sen.
+
+###13022000
+You don't have any persimmons.
+
+###13023004
+Maximum Healing Gourd uses increased by 1.
+
+###13023005
+Healing Gourd cannot be upgraded further.
+
+###13023006
+Gave Dragonrot Blood Sample.
+
+###13024000
+Gauntlet of Strength: "Divine Heir" path has been unlocked
+
+###13024010
+Gauntlet of Strength: "Shura" path has been unlocked
+
+###13024020
+Gauntlet of Strength: "Severance" path has been unlocked
+
+###13024030
+Gauntlet of Strength: "Mortal Journey" path has been unlocked
+
+###14000000###15000520###15000800
+Give Dragonrot Pellet
+
+###14000001###14010001###14014002###14015001###14015003###14016001###14017001###14018001###14023001###14026001###14031003###14032001###14047001###14070006
+Say nothing
+
+###14000002
+Take coughed up blood sample
+
+###14000003###14011001###14025002###14026009###14029002
+Do nothing
+
+###14000100
+Give Divine Dragon's Tears
+
+###14000101
+Give Dragon's Tears and Everblossom 
+
+###14000102
+Give Dragon Tears and Frozen Tears
+
+###14000500
+Use Precious Bait
+
+###14000501
+Select Truly Precious Bait
+
+###14000502###14022006###14026010###15000005###15000006###15000110###15013039###15113019
+Leave
+
+###14000503
+Pot Noble Harunaga's Bait
+
+###14000504
+Pot Noble Koremori's Bait
+
+###14010000
+Ask what the Buddha showed him
+
+###14010010
+Take Kuro's Charm back
+
+###14010011
+Let him keep Kuro's Charm
+
+###14011000
+Give Kuro's Charm
+
+###14011010
+Insist he take it
+
+###14011011
+Keep it in your care
+
+###14011020
+Help Kuro
+
+###14011021
+Obey the Iron Code, protect Kuro
+
+###14011030
+Wake him
+
+###14011031
+Let him be
+
+###14011040
+Ask about the bottomless hole
+
+###14011041###14022001
+Never mind
+
+###14011050###14022009###15011011
+Give Sakura Droplet
+
+###14011051###14022010
+Keep Sakura Droplet
+
+###14011060
+Yes, I did
+
+###14011061
+No, I did not
+
+###14012000###14012010
+Obey the Iron Code, forsake Kuro
+
+###14012001
+Break the Iron Code, stay loyal to Kuro
+
+###14012011
+Change your mind.  Stay loyal to Kuro
+
+###14013000###14013006###14024050###14026006
+Accept
+
+###14013001###14024051###14026007
+Refuse
+
+###14013002
+Apologize
+
+###14013003
+Give thanks
+
+###14013004###15013002
+Tell him of the Mortal Blade
+
+###14013005
+Don't tell him
+
+###14013007
+I do not wish to kill you
+
+###14014000
+I hadn't heard
+
+###14014001
+I know
+
+###14014003
+I have an idea
+
+###14015000
+Ask why she cries
+
+###14015002
+I don't know
+
+###14016000
+I'm not your son
+
+###14017000
+"That night"?
+
+###14017002
+Purchase information for <?evntAcquittalPrice?> sen
+
+###14017003###14036001
+Not interested
+
+###14018000
+Answer
+
+###14022000
+I do
+
+###14022002###15022006###15022008
+Give Persimmon
+
+###14022003
+Keep Persimmon
+
+###14022004
+Greet her
+
+###14022005###15022005
+Give Holy Chapter: Infested
+
+###14022007
+Give Persimmons of the Serpent
+
+###14022008
+Keep Persimmons of the Serpent
+
+###14023000
+Ask how to find Isshin
+
+###14023002
+I agree.  Kuro cannot be allowed to die
+
+###14023003
+No.  My lord's will is Severance
+
+###14023004
+I've reconsidered.  Kuro must live
+
+###14023005
+My mind is made up
+
+###14023006
+Leave quietly
+
+###14023007
+Ask what she is hiding
+
+###14024000
+Shura's Wine
+
+###14024001
+Don't know
+
+###14025000
+Give Great White Whisker
+
+###14025001
+Keep Great White Whisker
+
+###14026000
+Ask why he is crying
+
+###14026002
+Give Red and White Pinwheel
+
+###14026003
+Give White Pinwheel
+
+###14026004###14030002
+Lure to Abandoned Dungeon
+
+###14026005###15026002
+Tell him about Anayama the Peddler
+
+###14026008
+Suggest a travel destination
+
+###14027000###14028000###14030000
+Greet him
+
+###14027001###14028001###14030001
+Ignore him
+
+###14028002
+Give Water of the Palace
+
+###14028003
+Keep Water of the Palace
+
+###14029000
+Give Rice
+
+###14029001
+Keep Rice
+
+###14030003
+I have not
+
+###14030004
+Don't mention Abandoned Dungeon
+
+###14031002###14047000###14070005
+Yes
+
+###14031004
+Give Red Carp Eyes
+
+###14031005
+Keep Red Carp Eyes
+
+###14031006
+Tell him about the medicine
+
+###14031007
+Tell him nothing
+
+###14032000
+Ask about the "special holy person"
+
+###14036000
+Listen to his secret
+
+###14070000
+Ask what happened
+
+###14070001
+Ask what year it is
+
+###14070002
+Ask nothing
+
+###15000010###15014000###15017003
+Purchase items
+
+###15000011###15017004
+Sell items
+
+###15000012###15000140###15000911###15000921###15100140###15100911###15100921
+Purchase Spirit Emblems
+
+###15000020###15017005
+Ask about Hirata Estate
+
+###15000120###15000910###15000920
+Rest
+
+###15000130
+Select Recovery Tools
+
+###15000150
+Travel
+
+###15000170
+Enhance Physical Attributes
+
+###15000180
+Suppress stagnation
+
+###15000190###15100190
+Start Playthrough #<?nextLoopCount?>
+
+###15000200
+Next
+
+###15000201
+Previous
+
+###15000300
+Acquire Skills
+
+###15000400
+Change Deathblow Technique
+
+###15000401
+ Equip <?gdsparam@2100?>
+
+###15000402
+ Equip <?gdsparam@2110?>
+
+###15000403
+ Equip <?gdsparam@2120?>
+
+###15000500
+Treat to Ashina Sake
+
+###15000501
+Treat to Unrefined Sake
+
+###15000502
+Treat to Monkey Booze
+
+###15000503
+Treat to Dragonspring Sake
+
+###15000504
+Treat to <?gdsparam@9104?>
+
+###15000505
+Treat to <?gdsparam@9105?>
+
+###15000510
+Give Drink
+
+###15000521
+Take Blood Sample
+
+###15000600
+Enhance Attack Power
+
+###15000601
+Enhance Attack Power (Skill Points)
+
+###15000700###15000710
+Confront Memory: Gyoubu
+
+###15000711
+Confront Memory: Butterfly
+
+###15000712
+Confront Memory: Genichiro 
+
+###15000713
+Confront Memory: Screen Monkeys
+
+###15000714
+Confront Memory: Guardian Ape
+
+###15000715
+Confront Memory: Corrupted Monk
+
+###15000716
+Confront Memory: Great Shinobi, Owl
+
+###15000717
+Confront Memory: Owl (Father)
+
+###15000718
+Confront Memory: True Monk
+
+###15000719
+Confront Memory: Divine Dragon
+
+###15000720
+Confront Memory: Hate Demon
+
+###15000721
+Confront Memory: Saint Isshin
+
+###15000722
+Confront Memory: Isshin Ashina
+
+###15000723
+Confront Memory: Headless Ape
+
+###15000730
+Confront Memory: Inner Genichiro
+
+###15000731
+Confront Memory: Inner Father
+
+###15000732
+Confront Memory: Inner Isshin
+
+###15000811
+Collect blood sample
+
+###15000902
+Change Form
+
+###15000912
+Battle extraordinary foe
+
+###15000913###15000923
+Quit battle
+
+###15000922
+Battle next extraordinary foe
+
+###15001001
+Gauntlet of Strength: Divine Heir
+
+###15001002
+Gauntlet of Strength: Shura
+
+###15001003
+Gauntlet of Strength: Severance
+
+###15001004
+Gauntlet of Strength: Mortal Journey
+
+###15010000
+Fit New Prosthetic Tool
+
+###15010001
+Upgrade Prosthetic Tool
+
+###15010002
+Give Mechanical Barrel
+
+###15010003
+Present Shinobi Prosthetic
+
+###15010300
+Ask how you got here
+
+###15010301
+Ask about your new left arm
+
+###15010302###15011015
+Ask about the Divine Heir's blood
+
+###15010900
+Avoid additional hardships
+
+###15011010
+Show the Sakura Droplet
+
+###15011012
+About the flower
+
+###15011013
+About the stone
+
+###15011014
+About the sakura tree
+
+###15011016
+Ask about the Bell Charm
+
+###15013000
+Training
+
+###15013001
+Free Combat
+
+###15013003
+Discuss the Mortal Blade
+
+###15013004
+About the shrine
+
+###15013011
+Free Combat (Applied)
+
+###15013020
+Attacks
+
+###15017000
+About business
+
+###15017001
+Give key item
+
+###15017002
+Reveal favourite dish
+
+###15017006###15017007
+Purchase information
+
+###15017009
+Confirm purchased information
+
+###15022004
+Request Rice
+
+###15022007
+Present Sakura Droplet
+
+###15022009
+Give Taro Persimmon
+
+###15023000
+Create Dragonrot Pellet
+
+###15023001
+Present Healing Gourd
+
+###15023002
+Give Gourd Seed
+
+###15023003
+Give Dragonrot Blood Sample
+
+###15023004
+Ask about what you overheard
+
+###15023005
+About Dragonrot
+
+###15023006
+Isshin's parting words?
+
+###15024000
+About Immortal Severance
+
+###15024001
+Where can the Mortal Blade be found
+
+###15027000
+Ask about the village
+
+###15027001
+Ask about the villagers
+
+###15027002
+Ask about the village priest
+
+###15036000
+Purchase items with scales
+
+###15048000
+Purple kimono monkey?
+
+###15048001
+Orange kimono monkey?
+
+###15048002
+Green kimono monkey?
+
+###15100120###15100910###15100920
+Rest at the Sculptor's Idol
+
+###15100150
+Travel to Idols previously communed with
+
+###15100170
+Consume Prayer Beads to increase max Vitality and Posture
+
+###15100250
+Restore those afflicted with Dragonrot
+
+###15100300
+Spend Skill Points to acquire Skills
+
+###15100600###15100700
+Confront Memory to
+enhance Attack Power
+
+###15100601
+Enhance Attack Power with Skill Points
+
+###15100710
+Enhance Attack Power by confronting Memory: Gyoubu Oniwa
+
+###15100711
+Enhance Attack Power by confronting Memory: Lady Butterfly
+
+###15100712
+Enhance Attack Power by confronting Memory: Genichiro 
+
+###15100713
+Enhance Attack Power by confronting Memory: Screen Monkeys
+
+###15100714
+Enhance Attack Power by confronting Memory: Guardian Ape
+
+###15100715
+Enhance Attack Power by confronting Memory: Corrupted Monk
+
+###15100716
+Enhance Attack Power by confronting Memory: Great Shinobi
+
+###15100717
+Enhance Attack Power by confronting Memory: Foster Father
+
+###15100718
+Enhance Attack Power by confronting Memory: True Monk
+
+###15100719
+Enhance Attack Power by confronting Memory: Divine Dragon
+
+###15100720
+Enhance Attack Power by confronting Memory: Hatred Demon
+
+###15100721
+Enhance Attack Power by confronting Memory: Saint Isshin
+
+###15100722
+Enhance Attack Power by confronting Memory: Isshin Ashina
+
+###15100723
+Enhance Attack Power by confronting Memory: Headless Ape
+
+###15100730
+Enhance Attack Power by confronting Memory: Inner Genichiro
+
+###15100731
+Enhance Attack Power by confronting Memory: Inner Father
+
+###15100732
+Enhance Attack Power by confronting Memory: Inner Isshin
+
+###15100900
+Relive battle with an extraordinary foe
+
+###15100901
+Relive a gauntlet of battles with extraordinary foes
+
+###15100902
+Alter Wolf's appearance
+
+###15100912
+Relive battle memories with one extraordinary foe 
+
+###15100913###15100923
+Quit battle and return to original Sculptor's Idol
+
+###15100922
+Select next extraordinary foe to battle
+
+###15101001
+Relive battle memories of the "Divine Heir" path, and face a gauntlet of extraordinary foes.
+
+###15101002
+Relive battle memories of the "Shura" path and face a gauntlet of extraordinary foes.
+
+###15101003
+Relive battle memories of the "Severance" path and face a gauntlet of extraordinary foes.
+
+###15101004
+Relive battle memories and face a gauntlet of all extraordinary foes.
+
+###15113000
+Train in the fundamentals of combat
+
+###15113001
+Begin Free Combat
+
+###15113010
+Begin Free Combat (Fundamentals)
+
+###15113011
+Begin Free Combat (Applied)
+
+###15113020
+Practice the basics of "Attacking"
+
+###15113021
+Practice the basics of "Deflection"
+
+###15113022
+Practice the basics of "Evasion"
+
+###15113023
+Practice "Consecutive Deflections"
+
+###15113024
+"Vitality and Posture" training
+
+###15113025
+Practice "Countering Thrust Attacks"
+
+###15113026
+Practice "Countering Sweep Attacks"
+
+###15113027
+Practice "Mikiri Counter"
+
+###15113028
+Practice "Vault Over"
+
+###15113039
+Quit
+
+###50000500
+Touch your created Remnant
+
+###80010500
+Climb inside
+
+###80010501
+Climb out

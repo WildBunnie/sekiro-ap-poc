@@ -1,0 +1,374 @@
+ID,Name,equipId,value,mtrlId,eventFlag,flagId_forRelease,sellQuantity,shopType,equipType,value_SAN,pad,value_Add,value_Magnification,
+1,Don&#39;t erase -- 消すべからず,9999,100,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+1000,Resource item A (white charge) -- リソースアイテムA（白形代）,1000,-1,-1,-1,6205,-1,0,3,-1,[0|0],0,10
+1010,Resource item A (white charge) -- リソースアイテムA（白形代）,1000,-1,-1,-1,6205,-1,0,3,-1,[0|0],0,20
+1020,Resource item A (white charge) -- リソースアイテムA（白形代）,1000,-1,-1,-1,6205,-1,0,3,-1,[0|0],0,30
+1030,Resource item A (white charge) -- リソースアイテムA（白形代）,1000,-1,-1,-1,6205,-1,0,3,-1,[0|0],0,50
+1000000,Lifting of the ban on school techniques_Hachiman Flying Rush -- 流派技解禁_八艘飛びラッシュ,2461,0,5,71001000,-1,1,0,3,-1,[0|0],0,1
+1000001,[Replenishment] Flame prevention_Yes -- 【補充】炎上予防_有,3310,0,2,71001010,-1,1,0,3,-1,[0|0],0,1
+1000002,Mask Fragment A -- お面の破片A,5500,0,7,71001020,-1,1,0,3,-1,[0|0],0,1
+1000003,[Consumption] Elixir -- 【消費】エリクサー,3040,0,1,71001040,-1,1,0,3,-1,[0|0],0,1
+1000004,[Consumption] Weird young water thrombus (scale shop fry) -- 【消費】変若水血栓（うろこショップ稚魚）,3051,0,3,-1,59,-1,0,3,-1,[0|0],0,1
+1000005,Mask Fragment B -- お面の破片B,5501,0,12,72501000,1642,1,0,3,-1,[0|0],0,1
+1000006,Master -- 原盤,6400,0,6,72501020,1642,2,0,3,-1,[0|0],0,1
+1000007,Dragon cough healing -- 竜咳治癒,5600,0,1,72501030,1642,1,0,3,-1,[0|0],0,1
+1100000,Prosthetic hand ninja tool creation_firecracker -- 義手忍具作成_爆竹,9710,500,-1,71101000,-1,1,0,3,-1,[0|0],0,1
+1100001,[Consumption] Regeneration -- 【消費】リジェネ,3020,50,-1,71101010,-1,4,0,3,-1,[0|0],0,1
+1100002,[Consumption] Strengthening defense -- 【消費】防御強化,3420,50,-1,71101020,-1,2,0,3,-1,[0|0],0,1
+1100003,[Consumption] Disease recovery + resistance enhancement -- 【消費】病毒回復 + 耐性強化,3200,30,-1,71101030,-1,6,0,3,-1,[0|0],0,1
+1100004,[Consumption] Gold nugget_small -- 【消費】金塊_小,3700,110,-1,71101040,-1,3,0,3,-1,[0|0],0,1
+1100005,[Consumption] Release illusion -- 【消費】幻術解除,3530,80,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100006,[Consumption] Strengthening anti-spirit -- 【消費】対霊強化,3450,300,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100007,[Consumption] Strengthening resistance to electric shock -- 【消費】感電耐性強化,3230,50,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100008,General-purpose material: Steel 1 (fragment) -- 汎用素材：鋼鉄1（欠片）,6000,150,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100009,General-purpose material: Chemical magic 1 (fragment) -- 汎用素材：化学呪術1（欠片）,6100,150,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100050,Prosthetic hand ninja tool creation_firecracker -- 義手忍具作成_爆竹,9710,450,-1,71101000,-1,1,0,3,-1,[0|0],0,1
+1100051,[Consumption] Regeneration -- 【消費】リジェネ,3020,45,-1,71101010,-1,4,0,3,-1,[0|0],0,1
+1100052,[Consumption] Strengthening defense -- 【消費】防御強化,3420,45,-1,71101020,-1,2,0,3,-1,[0|0],0,1
+1100053,[Consumption] Disease recovery + resistance enhancement -- 【消費】病毒回復 + 耐性強化,3200,27,-1,71101030,-1,6,0,3,-1,[0|0],0,1
+1100054,[Consumption] Gold nugget_small -- 【消費】金塊_小,3700,100,-1,71101040,-1,3,0,3,-1,[0|0],0,1
+1100055,[Consumption] Release illusion -- 【消費】幻術解除,3530,72,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100056,[Consumption] Strengthening anti-spirit -- 【消費】対霊強化,3450,270,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100057,[Consumption] Strengthening resistance to electric shock -- 【消費】感電耐性強化,3230,45,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100058,General-purpose material: Steel 1 (fragment) -- 汎用素材：鋼鉄1（欠片）,6000,135,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100059,General-purpose material: Chemical magic 1 (fragment) -- 汎用素材：化学呪術1（欠片）,6100,135,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100100,Prosthetic hand ninja tool creation_firecracker -- 義手忍具作成_爆竹,9710,500,-1,71101000,-1,1,0,3,-1,[0|0],0,1
+1100101,Gourd possession upper limit UP -- ひょうたん所持上限UP,4400,1000,-1,71101210,-1,1,0,3,-1,[0|0],0,1
+1100102,[Consumption] Disease recovery + resistance enhancement -- 【消費】病毒回復 + 耐性強化,3200,30,-1,71101220,-1,3,0,3,-1,[0|0],0,1
+1100103,[Consumption] Grip ash -- 【消費】握り灰,3510,30,-1,71101230,-1,12,0,3,-1,[0|0],0,1
+1100104,Dragon cough healing -- 竜咳治癒,5600,180,-1,71101240,9090,1,0,3,-1,[0|0],0,1
+1100105,[Consumption] Gold nugget_small -- 【消費】金塊_小,3700,110,-1,71101250,-1,3,0,3,-1,[0|0],0,1
+1100106,[Consumption] Gold nugget _ Medium -- 【消費】金塊_中,3704,550,-1,71101260,-1,2,0,3,-1,[0|0],0,1
+1100107,[Consumption] Release illusion -- 【消費】幻術解除,3530,80,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100108,[Consumption] Strengthening anti-spirit -- 【消費】対霊強化,3450,300,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100109,[Consumption] Strengthening resistance to electric shock -- 【消費】感電耐性強化,3230,50,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100110,General-purpose material: Steel 1 (fragment) -- 汎用素材：鋼鉄1（欠片）,6000,150,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100111,General-purpose material: Chemical magic 1 (fragment) -- 汎用素材：化学呪術1（欠片）,6100,150,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100112,Dragon cough healing refill -- 竜咳治癒おかわり,5600,240,-1,71101320,9095,1,0,3,-1,[0|0],0,1
+1100150,Prosthetic hand ninja tool creation_firecracker -- 義手忍具作成_爆竹,9710,450,-1,71101000,-1,1,0,3,-1,[0|0],0,1
+1100151,Gourd possession upper limit UP -- ひょうたん所持上限UP,4400,900,-1,71101210,-1,1,0,3,-1,[0|0],0,1
+1100152,[Consumption] Disease recovery + resistance enhancement -- 【消費】病毒回復 + 耐性強化,3200,27,-1,71101220,-1,3,0,3,-1,[0|0],0,1
+1100153,[Consumption] Grip ash -- 【消費】握り灰,3510,27,-1,71101230,-1,12,0,3,-1,[0|0],0,1
+1100154,Dragon cough healing -- 竜咳治癒,5600,162,-1,71101240,9090,1,0,3,-1,[0|0],0,1
+1100155,[Consumption] Gold nugget_small -- 【消費】金塊_小,3700,100,-1,71101250,-1,3,0,3,-1,[0|0],0,1
+1100156,[Consumption] Gold nugget _ Medium -- 【消費】金塊_中,3704,500,-1,71101260,-1,2,0,3,-1,[0|0],0,1
+1100157,[Consumption] Release illusion -- 【消費】幻術解除,3530,72,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100158,[Consumption] Strengthening anti-spirit -- 【消費】対霊強化,3450,270,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100159,[Consumption] Strengthening resistance to electric shock -- 【消費】感電耐性強化,3230,45,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100160,General-purpose material: Steel 1 (fragment) -- 汎用素材：鋼鉄1（欠片）,6000,135,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100161,General-purpose material: Chemical magic 1 (fragment) -- 汎用素材：化学呪術1（欠片）,6100,135,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100162,Dragon cough healing refill -- 竜咳治癒おかわり,5600,216,-1,71101320,9095,1,0,3,-1,[0|0],0,1
+1100200,Strengthening prosthetic hand ninja _ Shuriken _ Butterfly kunai -- 義手忍具強化_手裏剣_お蝶クナイ,9701,3000,-1,71101400,-1,1,0,3,-1,[0|0],0,1
+1100201,[Consumption] Ceramic piece -- 【消費】陶片,3500,20,-1,71101410,-1,8,0,3,-1,[0|0],0,1
+1100202,[Consumption] Grip ash -- 【消費】握り灰,3510,30,-1,71101420,-1,6,0,3,-1,[0|0],0,1
+1100203,[Consumption] Regeneration -- 【消費】リジェネ,3020,50,-1,71101430,-1,2,0,3,-1,[0|0],0,1
+1100204,[Consumption] Gold nugget_small -- 【消費】金塊_小,3700,110,-1,71101440,-1,5,0,3,-1,[0|0],0,1
+1100205,General-purpose material: Steel 1 (fragment) -- 汎用素材：鋼鉄1（欠片）,6000,150,-1,-1,9041,-1,0,3,-1,[0|0],0,1
+1100206,General-purpose material: Chemical magic 1 (fragment) -- 汎用素材：化学呪術1（欠片）,6100,150,-1,-1,9041,-1,0,3,-1,[0|0],0,1
+1100207,[Consumption] Attack enhancement_with disadvantages -- 【消費】攻撃強化_デメリット付き,3410,130,-1,71101470,71100253,2,0,3,-1,[0|0],0,1
+1100208,[Consumption] Strengthening the core -- 【消費】体幹強化,3430,80,-1,71101480,71100253,5,0,3,-1,[0|0],0,1
+1100209,[Consumption] Gold nugget _ Medium -- 【消費】金塊_中,3704,550,-1,71101490,71100253,2,0,3,-1,[0|0],0,1
+1100210,General-purpose material: Steel 2 (Large piece) -- 汎用素材：鋼鉄2（大欠片）,6010,300,-1,71101500,71100254,4,0,3,-1,[0|0],0,1
+1100211,General-purpose material: Chemistry 2 (Large piece) -- 汎用素材：化学2（大欠片）,6200,300,-1,71101510,71100254,3,0,3,-1,[0|0],0,1
+1100212,General-purpose material: Magic 2 (Large Fragment) -- 汎用素材：呪術2（大欠片）,6300,300,-1,71101520,71100254,3,0,3,-1,[0|0],0,1
+1100213,[Consumption] Gold nugget_Large -- 【消費】金塊_大,3708,1100,-1,71101530,71100254,2,0,3,-1,[0|0],0,1
+1100214,[Consumption] Attack enhancement -- 【消費】攻撃強化,3400,120,-1,-1,71100254,-1,0,3,-1,[0|0],0,1
+1100215,[Consumption] Elixir -- 【消費】エリクサー,3040,200,-1,71101550,71100277,1,0,3,-1,[0|0],0,1
+1100216,[Consumption] Release illusion -- 【消費】幻術解除,3530,80,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100217,[Consumption] Strengthening anti-spirit -- 【消費】対霊強化,3450,300,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100218,[Consumption] Strengthening resistance to electric shock -- 【消費】感電耐性強化,3230,50,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100250,Strengthening prosthetic hand ninja _ Shuriken _ Butterfly kunai -- 義手忍具強化_手裏剣_お蝶クナイ,9701,2700,-1,71101400,-1,1,0,3,-1,[0|0],0,1
+1100251,[Consumption] Ceramic piece -- 【消費】陶片,3500,18,-1,71101410,-1,8,0,3,-1,[0|0],0,1
+1100252,[Consumption] Grip ash -- 【消費】握り灰,3510,27,-1,71101420,-1,6,0,3,-1,[0|0],0,1
+1100253,[Consumption] Regeneration -- 【消費】リジェネ,3020,45,-1,71101430,-1,2,0,3,-1,[0|0],0,1
+1100254,[Consumption] Gold nugget_small -- 【消費】金塊_小,3700,100,-1,71101440,-1,5,0,3,-1,[0|0],0,1
+1100255,General-purpose material: Steel 1 (fragment) -- 汎用素材：鋼鉄1（欠片）,6000,135,-1,-1,9041,-1,0,3,-1,[0|0],0,1
+1100256,General-purpose material: Chemical magic 1 (fragment) -- 汎用素材：化学呪術1（欠片）,6100,135,-1,-1,9041,-1,0,3,-1,[0|0],0,1
+1100257,[Consumption] Attack enhancement_with disadvantages -- 【消費】攻撃強化_デメリット付き,3410,117,-1,71101470,71100253,2,0,3,-1,[0|0],0,1
+1100258,[Consumption] Strengthening the core -- 【消費】体幹強化,3430,72,-1,71101480,71100253,5,0,3,-1,[0|0],0,1
+1100259,[Consumption] Gold nugget _ Medium -- 【消費】金塊_中,3704,500,-1,71101490,71100253,2,0,3,-1,[0|0],0,1
+1100260,General-purpose material: Steel 2 (Large piece) -- 汎用素材：鋼鉄2（大欠片）,6010,270,-1,71101500,71100254,4,0,3,-1,[0|0],0,1
+1100261,General-purpose material: Chemistry 2 (Large piece) -- 汎用素材：化学2（大欠片）,6200,270,-1,71101510,71100254,3,0,3,-1,[0|0],0,1
+1100262,General-purpose material: Magic 2 (Large Fragment) -- 汎用素材：呪術2（大欠片）,6300,270,-1,71101520,71100254,3,0,3,-1,[0|0],0,1
+1100263,[Consumption] Gold nugget_Large -- 【消費】金塊_大,3708,1000,-1,71101530,71100254,2,0,3,-1,[0|0],0,1
+1100264,[Consumption] Attack enhancement -- 【消費】攻撃強化,3400,108,-1,-1,71100254,-1,0,3,-1,[0|0],0,1
+1100265,[Consumption] Elixir -- 【消費】エリクサー,3040,180,-1,71101550,71100277,1,0,3,-1,[0|0],0,1
+1100266,[Consumption] Release illusion -- 【消費】幻術解除,3530,72,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100267,[Consumption] Strengthening anti-spirit -- 【消費】対霊強化,3450,270,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100268,[Consumption] Strengthening resistance to electric shock -- 【消費】感電耐性強化,3230,45,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100300,Anayama partnership certificate -- 穴山の組合証,9061,-1,-1,71101800,-1,1,0,3,-1,[0|0],0,1
+1100400,Gourd possession upper limit UP -- ひょうたん所持上限UP,4400,2000,-1,71102000,-1,1,0,3,-1,[0|0],0,1
+1100401,[Consumption] Regeneration -- 【消費】リジェネ,3020,80,-1,71102010,-1,8,0,3,-1,[0|0],0,1
+1100402,[Consumption] Disease recovery + resistance enhancement -- 【消費】病毒回復 + 耐性強化,3200,100,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+1100403,[Consumption] Recovery from fire + Strengthening resistance -- 【消費】炎上回復 + 耐性強化,3210,100,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+1100404,[Consumption] Recovery from madness + Strengthening resistance -- 【消費】発狂回復 + 耐性強化,3220,100,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+1100405,[Consumption] Strengthening defense -- 【消費】防御強化,3420,120,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+1100406,Kodachi hint -- 小太刀ヒント,9221,500,-1,71102050,-1,1,0,3,-1,[0|0],0,1
+1100407,Finger whistle strengthening tips -- 指笛強化ヒント,9223,800,-1,71102060,8307,1,0,3,-1,[0|0],0,1
+1100408,Transformation tips -- 変わり身ヒント,9225,500,-1,71102070,-1,1,0,3,-1,[0|0],0,1
+1100409,[Consumption] Gold nugget_small -- 【消費】金塊_小,3700,110,-1,71102080,-1,3,0,3,-1,[0|0],0,1
+1100410,[Consumption] Gold nugget _ Medium -- 【消費】金塊_中,3704,550,-1,71102090,-1,3,0,3,-1,[0|0],0,1
+1100411,Dragon cough healing -- 竜咳治癒,5600,180,-1,71102100,9091,2,0,3,-1,[0|0],0,1
+1100412,[Consumption] Release illusion -- 【消費】幻術解除,3530,80,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100413,[Consumption] Strengthening anti-spirit -- 【消費】対霊強化,3450,300,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100414,[Consumption] Strengthening resistance to electric shock -- 【消費】感電耐性強化,3230,50,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100415,General-purpose material: Steel 1 (fragment) -- 汎用素材：鋼鉄1（欠片）,6000,150,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100416,General-purpose material: Chemical magic 1 (fragment) -- 汎用素材：化学呪術1（欠片）,6100,150,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100417,Dragon cough healing refill -- 竜咳治癒おかわり,5600,240,-1,71102160,9096,1,0,3,-1,[0|0],0,1
+1100450,Gourd possession upper limit UP -- ひょうたん所持上限UP,4400,1800,-1,71102000,-1,1,0,3,-1,[0|0],0,1
+1100451,[Consumption] Regeneration -- 【消費】リジェネ,3020,72,-1,71102010,-1,8,0,3,-1,[0|0],0,1
+1100452,[Consumption] Disease recovery + resistance enhancement -- 【消費】病毒回復 + 耐性強化,3200,90,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+1100453,[Consumption] Recovery from fire + Strengthening resistance -- 【消費】炎上回復 + 耐性強化,3210,90,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+1100454,[Consumption] Recovery from madness + Strengthening resistance -- 【消費】発狂回復 + 耐性強化,3220,90,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+1100455,[Consumption] Strengthening defense -- 【消費】防御強化,3420,108,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+1100456,Kodachi hint -- 小太刀ヒント,9221,450,-1,71102050,-1,1,0,3,-1,[0|0],0,1
+1100457,Finger whistle strengthening tips -- 指笛強化ヒント,9223,720,-1,71102060,8307,1,0,3,-1,[0|0],0,1
+1100458,Transformation tips -- 変わり身ヒント,9225,450,-1,71102070,-1,1,0,3,-1,[0|0],0,1
+1100459,[Consumption] Gold nugget_small -- 【消費】金塊_小,3700,100,-1,71102080,-1,3,0,3,-1,[0|0],0,1
+1100460,[Consumption] Gold nugget _ Medium -- 【消費】金塊_中,3704,500,-1,71102090,-1,3,0,3,-1,[0|0],0,1
+1100461,Dragon cough healing -- 竜咳治癒,5600,162,-1,71102100,9091,2,0,3,-1,[0|0],0,1
+1100462,[Consumption] Release illusion -- 【消費】幻術解除,3530,72,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100463,[Consumption] Strengthening anti-spirit -- 【消費】対霊強化,3450,270,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100464,[Consumption] Strengthening resistance to electric shock -- 【消費】感電耐性強化,3230,45,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100465,General-purpose material: Steel 1 (fragment) -- 汎用素材：鋼鉄1（欠片）,6000,135,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100466,General-purpose material: Chemical magic 1 (fragment) -- 汎用素材：化学呪術1（欠片）,6100,135,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1100467,Dragon cough healing refill -- 竜咳治癒おかわり,5600,216,-1,71102160,9096,1,0,3,-1,[0|0],0,1
+1100500,Basic action lifted _ anti-aircraft shinobi killing -- 基本アクション解禁_対空忍殺,2450,2200,-1,71102200,9020,1,0,3,-1,[0|0],0,1
+1100501,HP / Trunk UP Fragment -- HP/体幹UPの欠片,4000,1500,-1,71102210,9021,1,0,3,-1,[0|0],0,1
+1100502,HP / Trunk UP Fragment -- HP/体幹UPの欠片,4000,1500,-1,71102220,9022,1,0,3,-1,[0|0],0,1
+1100503,Prosthetic hand ninja tool creation_shuriken -- 義手忍具作成_手裏剣,9700,2800,-1,71102230,9023,1,0,3,-1,[0|0],0,1
+1100504,Prosthetic hand ninja tool creation_prepared spear -- 義手忍具作成_仕込み槍,9780,2800,-1,71102240,9024,1,0,3,-1,[0|0],0,1
+1100505,Gourd possession upper limit UP -- ひょうたん所持上限UP,4400,2400,-1,71102250,9025,1,0,3,-1,[0|0],0,1
+1100506,Strengthening prosthetic hand ninja _ Shuriken _ Butterfly kunai -- 義手忍具強化_手裏剣_お蝶クナイ,9701,4500,-1,71102260,9026,1,0,3,-1,[0|0],0,1
+1100507,HP / Trunk UP Fragment -- HP/体幹UPの欠片,4000,2200,-1,71102270,9027,1,0,3,-1,[0|0],0,1
+1100508,HP / Trunk UP Fragment -- HP/体幹UPの欠片,4000,2200,-1,71102280,9028,1,0,3,-1,[0|0],0,1
+1100509,HP / Trunk UP Fragment -- HP/体幹UPの欠片,4000,2200,-1,71102290,9029,1,0,3,-1,[0|0],0,1
+1100510,Prosthetic hand ninja tool creation_firecracker -- 義手忍具作成_爆竹,9710,2400,-1,71102300,9030,1,0,3,-1,[0|0],0,1
+1100511,Gourd possession upper limit UP -- ひょうたん所持上限UP,4400,2400,-1,71102310,9031,1,0,3,-1,[0|0],0,1
+1100512,HP / Trunk UP Fragment -- HP/体幹UPの欠片,4000,2200,-1,71102320,9032,1,0,3,-1,[0|0],0,1
+1100513,Mask Fragment C -- お面の破片C,5502,7500,-1,71102330,9033,1,0,3,-1,[0|0],0,1
+1100514,Prosthetic hand ninja tool creation_iron fan -- 義手忍具作成_鉄扇,9760,2400,-1,71102340,9034,1,0,3,-1,[0|0],0,1
+1100515,HP / Trunk UP Fragment -- HP/体幹UPの欠片,4000,2200,-1,71102350,9035,1,0,3,-1,[0|0],0,1
+1101000,Shuriken -- 手裏剣,70000,0,100000,71101600,6500,1,0,0,-1,[0|0],0,1
+1101001,Firecracker -- 爆竹,71000,0,100010,71101610,6501,1,0,0,-1,[0|0],0,1
+1101002,Ignition -- 発火,72000,0,100020,71101620,6502,1,0,0,-1,[0|0],0,1
+1101003,Preparation ax -- 仕込み斧,73000,0,100030,71101630,6503,1,0,0,-1,[0|0],0,1
+1101004,Transformation -- 変わり身,74000,0,100040,71101640,6504,1,0,0,-1,[0|0],0,1
+1101005,Kodachi -- 仕込み小太刀,75000,0,100050,71101650,6505,1,0,0,-1,[0|0],0,1
+1101006,Iron fan -- 鉄扇,76000,0,100060,71101660,6506,1,0,0,-1,[0|0],0,1
+1101007,Turn the enemy -- 敵回し,77000,0,100070,71101670,6507,1,0,0,-1,[0|0],0,1
+1101008,Preparation spear -- 仕込み槍,78000,0,100080,71101680,6508,1,0,0,-1,[0|0],0,1
+1101009,Finger whistle -- 指笛,79000,0,100090,71101690,6509,1,0,0,-1,[0|0],0,1
+1110000,HP / Trunk UP Fragment -- HP/体幹UPの欠片,4000,1400,-1,71111000,-1,1,0,3,-1,[0|0],0,1
+1110001,Mask Fragment C -- お面の破片C,5502,5000,-1,71111010,-1,1,0,3,-1,[0|0],0,1
+1110002,[Consumption] Regeneration -- 【消費】リジェネ,3020,80,-1,71111020,-1,4,0,3,-1,[0|0],0,1
+1110003,[Consumption] Self-illness poison -- 【消費】自病毒,3250,30,-1,71111030,-1,8,0,3,-1,[0|0],0,1
+1110004,[Consumption] Gold nugget_small -- 【消費】金塊_小,3700,110,-1,71111040,-1,4,0,3,-1,[0|0],0,1
+1110005,[Consumption] Gold nugget _ Medium -- 【消費】金塊_中,3704,550,-1,71111050,-1,3,0,3,-1,[0|0],0,1
+1110006,[Consumption] Item drop rate UP -- 【消費】アイテムドロップ率UP,3620,50,-1,71111060,-1,2,0,3,-1,[0|0],0,1
+1110007,Dragon cough healing -- 竜咳治癒,5600,180,-1,71111070,9092,1,0,3,-1,[0|0],0,1
+1110008,[Consumption] Release illusion -- 【消費】幻術解除,3530,80,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1110009,[Consumption] Strengthening anti-spirit -- 【消費】対霊強化,3450,300,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1110010,[Consumption] Strengthening resistance to electric shock -- 【消費】感電耐性強化,3230,50,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1110011,General-purpose material: Steel 1 (fragment) -- 汎用素材：鋼鉄1（欠片）,6000,150,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1110012,General-purpose material: Chemical magic 1 (fragment) -- 汎用素材：化学呪術1（欠片）,6100,150,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1110013,Dragon cough healing refill -- 竜咳治癒おかわり,5600,240,-1,71111130,9097,1,0,3,-1,[0|0],0,1
+1110050,HP / Trunk UP Fragment -- HP/体幹UPの欠片,4000,1260,-1,71111000,-1,1,0,3,-1,[0|0],0,1
+1110051,Mask Fragment C -- お面の破片C,5502,4500,-1,71111010,-1,1,0,3,-1,[0|0],0,1
+1110052,[Consumption] Regeneration -- 【消費】リジェネ,3020,72,-1,71111020,-1,4,0,3,-1,[0|0],0,1
+1110053,[Consumption] Self-illness poison -- 【消費】自病毒,3250,27,-1,71111030,-1,8,0,3,-1,[0|0],0,1
+1110054,[Consumption] Gold nugget_small -- 【消費】金塊_小,3700,100,-1,71111040,-1,4,0,3,-1,[0|0],0,1
+1110055,[Consumption] Gold nugget _ Medium -- 【消費】金塊_中,3704,500,-1,71111050,-1,3,0,3,-1,[0|0],0,1
+1110056,[Consumption] Item drop rate UP -- 【消費】アイテムドロップ率UP,3620,45,-1,71111060,-1,2,0,3,-1,[0|0],0,1
+1110057,Dragon cough healing -- 竜咳治癒,5600,162,-1,71111070,9092,1,0,3,-1,[0|0],0,1
+1110058,[Consumption] Release illusion -- 【消費】幻術解除,3530,72,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1110059,[Consumption] Strengthening anti-spirit -- 【消費】対霊強化,3450,270,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1110060,[Consumption] Strengthening resistance to electric shock -- 【消費】感電耐性強化,3230,45,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1110061,General-purpose material: Steel 1 (fragment) -- 汎用素材：鋼鉄1（欠片）,6000,135,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1110062,General-purpose material: Chemical magic 1 (fragment) -- 汎用素材：化学呪術1（欠片）,6100,135,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1110063,Dragon cough healing refill -- 竜咳治癒おかわり,5600,216,-1,71111130,9097,1,0,3,-1,[0|0],0,1
+1111400,Prosthetic hand ninja tool creation_iron fan -- 義手忍具作成_鉄扇,9760,1600,-1,71111500,-1,1,0,3,-1,[0|0],0,1
+1111401,Basic action lifted _ anti-aircraft shinobi killing -- 基本アクション解禁_対空忍殺,2450,1200,-1,71111510,-1,1,0,3,-1,[0|0],0,1
+1111402,[Consumption] Release illusion -- 【消費】幻術解除,3530,80,-1,71111520,9400,8,0,3,-1,[0|0],0,1
+1111403,[Consumption] Attack enhancement_with disadvantages -- 【消費】攻撃強化_デメリット付き,3410,130,-1,71111530,-1,3,0,3,-1,[0|0],0,1
+1111404,[Consumption] Suicide -- 【消費】自殺,3290,30,-1,71111540,-1,2,0,3,-1,[0|0],0,1
+1111405,[Consumption] Release illusion -- 【消費】幻術解除,3530,80,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1111406,[Consumption] Strengthening anti-spirit -- 【消費】対霊強化,3450,300,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1111407,[Consumption] Strengthening resistance to electric shock -- 【消費】感電耐性強化,3230,50,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1111408,General-purpose material: Steel 1 (fragment) -- 汎用素材：鋼鉄1（欠片）,6000,150,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1111409,General-purpose material: Chemical magic 1 (fragment) -- 汎用素材：化学呪術1（欠片）,6100,150,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1111450,Prosthetic hand ninja tool creation_iron fan -- 義手忍具作成_鉄扇,9760,1440,-1,71111500,-1,1,0,3,-1,[0|0],0,1
+1111451,Basic action lifted _ anti-aircraft shinobi killing -- 基本アクション解禁_対空忍殺,2450,1080,-1,71111510,-1,1,0,3,-1,[0|0],0,1
+1111452,[Consumption] Release illusion -- 【消費】幻術解除,3530,72,-1,71111520,9400,8,0,3,-1,[0|0],0,1
+1111453,[Consumption] Attack enhancement_with disadvantages -- 【消費】攻撃強化_デメリット付き,3410,117,-1,71111530,-1,3,0,3,-1,[0|0],0,1
+1111454,[Consumption] Suicide -- 【消費】自殺,3290,27,-1,71111540,-1,2,0,3,-1,[0|0],0,1
+1111455,[Consumption] Release illusion -- 【消費】幻術解除,3530,72,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1111456,[Consumption] Strengthening anti-spirit -- 【消費】対霊強化,3450,270,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1111457,[Consumption] Strengthening resistance to electric shock -- 【消費】感電耐性強化,3230,45,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1111458,General-purpose material: Steel 1 (fragment) -- 汎用素材：鋼鉄1（欠片）,6000,135,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1111459,General-purpose material: Chemical magic 1 (fragment) -- 汎用素材：化学呪術1（欠片）,6100,135,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1500000,Madness prevention gourd -- 発狂予防瓢箪,3320,1800,-1,71501000,-1,1,0,3,-1,[0|0],0,1
+1500001,[Consumption] Regeneration -- 【消費】リジェネ,3020,80,-1,71501010,-1,5,0,3,-1,[0|0],0,1
+1500002,General-purpose material: Steel 3 (lump) -- 汎用素材：鋼鉄3（塊）,6020,600,-1,71501020,-1,2,0,3,-1,[0|0],0,1
+1500003,[Consumption] Stealth enhancement -- 【消費】ステルス強化,3440,100,-1,71501030,-1,2,0,3,-1,[0|0],0,1
+1500004,[Consumption] Gold nugget _ Medium -- 【消費】金塊_中,3704,550,-1,71501040,-1,3,0,3,-1,[0|0],0,1
+1500005,[Consumption] Gold nugget_Large -- 【消費】金塊_大,3708,1100,-1,71501050,-1,2,0,3,-1,[0|0],0,1
+1500006,Scales -- うろこ,10000,500,-1,71501070,-1,2,0,3,-1,[0|0],0,1
+1500007,Sake (Ryusen) -- 酒（竜泉）,9103,1000,-1,71501080,-1,1,0,3,-1,[0|0],0,1
+1500008,[Consumption] Release illusion -- 【消費】幻術解除,3530,80,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1500009,[Consumption] Strengthening anti-spirit -- 【消費】対霊強化,3450,300,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1500010,[Consumption] Strengthening resistance to electric shock -- 【消費】感電耐性強化,3230,50,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1500011,General-purpose material: Steel 1 (fragment) -- 汎用素材：鋼鉄1（欠片）,6000,150,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1500012,General-purpose material: Chemical magic 1 (fragment) -- 汎用素材：化学呪術1（欠片）,6100,150,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1500050,Madness prevention gourd -- 発狂予防瓢箪,3320,1620,-1,71501000,-1,1,0,3,-1,[0|0],0,1
+1500051,[Consumption] Regeneration -- 【消費】リジェネ,3020,72,-1,71501010,-1,5,0,3,-1,[0|0],0,1
+1500052,General-purpose material: Steel 3 (lump) -- 汎用素材：鋼鉄3（塊）,6020,540,-1,71501020,-1,2,0,3,-1,[0|0],0,1
+1500053,[Consumption] Stealth enhancement -- 【消費】ステルス強化,3440,90,-1,71501030,-1,2,0,3,-1,[0|0],0,1
+1500054,[Consumption] Gold nugget _ Medium -- 【消費】金塊_中,3704,500,-1,71501040,-1,3,0,3,-1,[0|0],0,1
+1500055,[Consumption] Gold nugget_Large -- 【消費】金塊_大,3708,1000,-1,71501050,-1,2,0,3,-1,[0|0],0,1
+1500056,Scales -- うろこ,10000,450,-1,71501070,-1,2,0,3,-1,[0|0],0,1
+1500057,Sake (Ryusen) -- 酒（竜泉）,9103,900,-1,71501080,-1,1,0,3,-1,[0|0],0,1
+1500058,[Consumption] Release illusion -- 【消費】幻術解除,3530,72,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1500059,[Consumption] Strengthening anti-spirit -- 【消費】対霊強化,3450,270,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1500060,[Consumption] Strengthening resistance to electric shock -- 【消費】感電耐性強化,3230,45,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1500061,General-purpose material: Steel 1 (fragment) -- 汎用素材：鋼鉄1（欠片）,6000,135,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1500062,General-purpose material: Chemical magic 1 (fragment) -- 汎用素材：化学呪術1（欠片）,6100,135,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1700000,Poison prevention gourd -- 毒予防瓢箪,3300,1800,-1,71701000,-1,1,0,3,-1,[0|0],0,1
+1700001,[Consumption] Regeneration -- 【消費】リジェネ,3020,80,-1,71701010,-1,5,0,3,-1,[0|0],0,1
+1700002,[Consumption] Disease recovery + resistance enhancement -- 【消費】病毒回復 + 耐性強化,3200,120,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+1700003,General-purpose material: Chemistry 2 (Large piece) -- 汎用素材：化学2（大欠片）,6200,270,-1,71701030,-1,2,0,3,-1,[0|0],0,1
+1700004,[Consumption] Gold nugget _ Medium -- 【消費】金塊_中,3704,550,-1,71701040,-1,5,0,3,-1,[0|0],0,1
+1700005,Dragon cough healing -- 竜咳治癒,5600,180,-1,71701050,9094,2,0,3,-1,[0|0],0,1
+1700006,[Consumption] Release illusion -- 【消費】幻術解除,3530,80,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1700007,[Consumption] Strengthening anti-spirit -- 【消費】対霊強化,3450,300,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1700008,[Consumption] Strengthening resistance to electric shock -- 【消費】感電耐性強化,3230,50,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1700009,General-purpose material: Steel 1 (fragment) -- 汎用素材：鋼鉄1（欠片）,6000,150,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1700010,General-purpose material: Chemical magic 1 (fragment) -- 汎用素材：化学呪術1（欠片）,6100,150,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1700005,Dragon cough healing refill -- 竜咳治癒おかわり,5600,240,-1,71701110,9099,1,0,3,-1,[0|0],0,1
+1700050,Poison prevention gourd -- 毒予防瓢箪,3300,1620,-1,71701000,-1,1,0,3,-1,[0|0],0,1
+1700051,[Consumption] Regeneration -- 【消費】リジェネ,3020,72,-1,71701010,-1,5,0,3,-1,[0|0],0,1
+1700052,[Consumption] Disease recovery + resistance enhancement -- 【消費】病毒回復 + 耐性強化,3200,108,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+1700053,General-purpose material: Chemistry 2 (Large piece) -- 汎用素材：化学2（大欠片）,6200,243,-1,71701030,-1,2,0,3,-1,[0|0],0,1
+1700054,[Consumption] Gold nugget _ Medium -- 【消費】金塊_中,3704,500,-1,71701040,-1,5,0,3,-1,[0|0],0,1
+1700055,Dragon cough healing -- 竜咳治癒,5600,162,-1,71701050,9094,2,0,3,-1,[0|0],0,1
+1700056,[Consumption] Release illusion -- 【消費】幻術解除,3530,72,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1700057,[Consumption] Strengthening anti-spirit -- 【消費】対霊強化,3450,270,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1700058,[Consumption] Strengthening resistance to electric shock -- 【消費】感電耐性強化,3230,45,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1700059,General-purpose material: Steel 1 (fragment) -- 汎用素材：鋼鉄1（欠片）,6000,135,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1700060,General-purpose material: Chemical magic 1 (fragment) -- 汎用素材：化学呪術1（欠片）,6100,135,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+1700055,Dragon cough healing refill -- 竜咳治癒おかわり,5600,216,-1,71701110,9099,1,0,3,-1,[0|0],0,1
+2000000,Five-color rice -- 五色米,3580,1600,-1,72001000,-1,1,0,3,-1,[0|0],0,1
+2000001,General-purpose material: Steel 2 (Large piece) -- 汎用素材：鋼鉄2（大欠片）,6010,330,-1,72001010,-1,2,0,3,-1,[0|0],0,1
+2000002,[Consumption] Attack enhancement -- 【消費】攻撃強化,3400,80,-1,72001020,-1,3,0,3,-1,[0|0],0,1
+2000003,[Consumption] Strengthening defense -- 【消費】防御強化,3420,80,-1,72001030,-1,5,0,3,-1,[0|0],0,1
+2000004,persimmon -- 柿,3070,30,-1,72001040,-1,2,0,3,-1,[0|0],0,1
+2000005,[Consumption] Gold nugget_small -- 【消費】金塊_小,3700,110,-1,72001050,-1,2,0,3,-1,[0|0],0,1
+2000006,[Consumption] Gold nugget _ Medium -- 【消費】金塊_中,3704,550,-1,72001060,-1,3,0,3,-1,[0|0],0,1
+2000007,[Consumption] Gold nugget_Large -- 【消費】金塊_大,3708,1100,-1,72001070,-1,2,0,3,-1,[0|0],0,1
+2000008,Dragon cough healing -- 竜咳治癒,5600,180,-1,72001080,9093,1,0,3,-1,[0|0],0,1
+2000009,[Consumption] Release illusion -- 【消費】幻術解除,3530,80,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+2000010,[Consumption] Strengthening anti-spirit -- 【消費】対霊強化,3450,300,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+2000011,[Consumption] Strengthening resistance to electric shock -- 【消費】感電耐性強化,3230,50,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+2000012,General-purpose material: Steel 1 (fragment) -- 汎用素材：鋼鉄1（欠片）,6000,150,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+2000013,General-purpose material: Chemical magic 1 (fragment) -- 汎用素材：化学呪術1（欠片）,6100,150,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+2000014,Dragon cough healing refill -- 竜咳治癒おかわり,5600,240,-1,72001140,9098,1,0,3,-1,[0|0],0,1
+2000050,Five-color rice -- 五色米,3580,1440,-1,72001000,-1,1,0,3,-1,[0|0],0,1
+2000051,General-purpose material: Steel 2 (Large piece) -- 汎用素材：鋼鉄2（大欠片）,6010,297,-1,72001010,-1,2,0,3,-1,[0|0],0,1
+2000052,[Consumption] Attack enhancement -- 【消費】攻撃強化,3400,72,-1,72001020,-1,3,0,3,-1,[0|0],0,1
+2000053,[Consumption] Strengthening defense -- 【消費】防御強化,3420,72,-1,72001030,-1,5,0,3,-1,[0|0],0,1
+2000054,persimmon -- 柿,3070,27,-1,72001040,-1,2,0,3,-1,[0|0],0,1
+2000055,[Consumption] Gold nugget_small -- 【消費】金塊_小,3700,100,-1,72001050,-1,2,0,3,-1,[0|0],0,1
+2000056,[Consumption] Gold nugget _ Medium -- 【消費】金塊_中,3704,500,-1,72001060,-1,3,0,3,-1,[0|0],0,1
+2000057,[Consumption] Gold nugget_Large -- 【消費】金塊_大,3708,1000,-1,72001070,-1,2,0,3,-1,[0|0],0,1
+2000058,Dragon cough healing -- 竜咳治癒,5600,162,-1,72001080,9093,1,0,3,-1,[0|0],0,1
+2000059,[Consumption] Release illusion -- 【消費】幻術解除,3530,72,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+2000060,[Consumption] Strengthening anti-spirit -- 【消費】対霊強化,3450,270,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+2000061,[Consumption] Strengthening resistance to electric shock -- 【消費】感電耐性強化,3230,45,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+2000062,General-purpose material: Steel 1 (fragment) -- 汎用素材：鋼鉄1（欠片）,6000,135,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+2000063,General-purpose material: Chemical magic 1 (fragment) -- 汎用素材：化学呪術1（欠片）,6100,135,-1,-1,6021,-1,0,3,-1,[0|0],0,1
+2000064,Dragon cough healing refill -- 竜咳治癒おかわり,5600,216,-1,72001140,9098,1,0,3,-1,[0|0],0,1
+2500000,Mask Fragment B -- お面の破片B,5501,0,12,72501000,-1,1,0,3,-1,[0|0],0,1
+2500001,Master -- 原盤,6400,0,6,72501020,-1,2,0,3,-1,[0|0],0,1
+2500002,Dragon cough healing -- 竜咳治癒,5600,0,1,72501030,-1,1,0,3,-1,[0|0],0,1
+2500003,[Consumption] Weird young water thrombus (scale shop fry) -- 【消費】変若水血栓（うろこショップ稚魚）,3051,0,3,-1,59,-1,0,3,-1,[0|0],0,1
+2500004,Lifting of the ban on school techniques_Hachiman Flying Rush -- 流派技解禁_八艘飛びラッシュ,2461,0,5,71001000,1622,1,0,3,-1,[0|0],0,1
+2500005,[Replenishment] Flame prevention_Yes -- 【補充】炎上予防_有,3310,0,2,71001010,1622,1,0,3,-1,[0|0],0,1
+2500006,Mask Fragment A -- お面の破片A,5500,0,7,71001020,1622,1,0,3,-1,[0|0],0,1
+2500007,[Consumption] Elixir -- 【消費】エリクサー,3040,0,1,71001040,1622,1,0,3,-1,[0|0],0,1
+9000000,Resource item A (white charge) -- リソースアイテムA（白形代）,1000,-1,-1,-1,6205,-1,0,3,-1,[0|0],0,50
+9100000,Resource item A (white charge) -- リソースアイテムA（白形代）,1000,-1,-1,-1,6205,-1,0,3,-1,[0|0],0,50
+9620000,Magatama Fragment 1 -- 勾玉の欠片1,4000,-1,-1,79621000,-1,1,0,4,-1,[0|0],0,1
+9620001,Resource item C (blue) -- リソースアイテムC（青形代）,1020,-1,-1,79621010,-1,2,0,3,-1,[0|0],0,3
+9620002,Preparation ax -- 仕込み斧,73000,-1,-1,79621020,-1,1,0,0,-1,[0|0],0,1
+9620003,Magatama Fragment 2 -- 勾玉の欠片2,4000,-1,-1,-1,6002,-1,0,3,-1,[0|0],0,1
+9620004,Magatama Fragment 3 -- 勾玉の欠片3,4000,-1,-1,-1,6002,-1,0,3,-1,[0|0],0,1
+9620006,Whetstone Fragment 1 -- 砥石の欠片1,4100,-1,-1,-1,6002,-1,0,3,-1,[0|0],0,1
+9620007,Whetstone Fragment 4 -- 砥石の欠片4,4100,-1,-1,-1,6002,-1,0,3,-1,[0|0],0,1
+9620008,Whetstone Fragment 5 -- 砥石の欠片5,4100,-1,-1,-1,6002,-1,0,3,-1,[0|0],0,1
+9620009,parachute -- 落下傘,2200,-1,-1,-1,6002,-1,0,3,-1,[0|0],0,1
+9620010,Ignition -- 発火,72000,-1,-1,-1,6002,-1,0,0,-1,[0|0],0,1
+9620011,Firecracker -- 爆竹,71000,-1,-1,-1,6002,-1,0,0,-1,[0|0],0,1
+9620100,Puppet puppet killing technique -- 傀儡忍殺の術,2110,-1,-1,79621030,-1,1,0,3,-1,[0|0],0,1
+9620101,Blessing technique -- 加護の術,10300,-1,-1,79621040,-1,1,0,3,-1,[0|0],0,1
+9620102,Magatama Fragment 4 -- 勾玉の欠片4,4000,-1,-1,79621050,-1,1,0,3,-1,[0|0],0,1.5
+9620103,Whetstone Fragment 2 -- 砥石の欠片2,4100,-1,-1,79621060,-1,1,0,3,-1,[0|0],0,1.5
+9620200,Detoxification prescription -- 毒消し処方箋,2500,-1,-1,79621070,-1,1,0,3,-1,[0|0],0,1
+9620201,Magatama -- 勾玉,4010,-1,-1,79621080,-1,1,0,3,-1,[0|0],0,1
+9620202,Whetstone Fragment 3 -- 砥石の欠片3,4100,-1,-1,79621090,-1,1,0,3,-1,[0|0],0,5
+9620300,Resource item A (white charge) -- リソースアイテムA（白形代）,1000,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,3
+9620301,Resource item B (red) -- リソースアイテムB（赤形代）,1010,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,10
+9620302,Resource item C (blue) -- リソースアイテムC（青形代）,1020,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,18
+9999000,Preparation ax -- 仕込み斧,10500,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+9999001,Resurrection technique -- 復活の術,2000,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+9999002,Magatama Fragment 1 -- 勾玉の欠片1,4000,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+9999003,Magatama Fragment 2 -- 勾玉の欠片2,4000,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+9999004,Magatama Fragment 3 -- 勾玉の欠片3,4000,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+9999005,Whetstone Fragment 1 -- 砥石の欠片1,4100,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+9999006,Whetstone Fragment 4 -- 砥石の欠片4,4100,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+9999007,Whetstone Fragment 5 -- 砥石の欠片5,4110,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+9999008,parachute -- 落下傘,2200,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+9999009,Ignition -- 発火,72000,-1,-1,-1,-1,-1,0,0,-1,[0|0],0,1
+9999010,Shuriken -- 手裏剣,70000,-1,-1,-1,-1,-1,0,0,-1,[0|0],0,1
+9999011,Puppet puppet killing technique -- 傀儡忍殺の術,2110,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+9999012,Blessing technique -- 加護の術,10300,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+9999013,Magatama Fragment 4 -- 勾玉の欠片4,4000,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,2
+9999014,Whetstone Fragment 2 -- 砥石の欠片2,4100,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,2
+9999015,Detoxification prescription -- 毒消し処方箋,2500,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+9999016,Magatama -- 勾玉,4010,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+9999017,Whetstone Fragment 3 -- 砥石の欠片3,4100,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,2
+9999018,Resource item A (white charge) -- リソースアイテムA（白形代）,1000,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+9999019,Resource item B (red) -- リソースアイテムB（赤形代）,1010,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+9999020,Resource item C (blue) -- リソースアイテムC（青形代）,1020,-1,-1,79901200,-1,10,0,3,-1,[0|0],0,1
+9999021,Pills -- 丸薬,10010,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+9999022,Blood smoke shinobi -- 血煙忍殺,9800,-1,-1,-1,-1,-1,0,0,-1,[0|0],0,1
+9999023,Puppet ninja killing -- 傀儡忍殺,10300,-1,-1,-1,-1,-1,0,0,-1,[0|0],0,1
+9999024,parachute -- 落下傘,9600,-1,-1,-1,-1,-1,0,0,-1,[0|0],0,1
+9999025,Blessing technique -- 加護の術,10300,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+9999026,Pills_small -- 丸薬_小,10400,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+9999027,Detoxification circle -- 解毒丸,3005,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+9999028,Detoxification Maru prescription -- 解毒丸の処方箋,2500,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+9999029,HP / Trunk_Heart Fragment -- HP/体幹_ハートのかけら,4000,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+9999030,HP / Trunk_Heart vessel -- HP/体幹_ハートの器,4010,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+9999031,Sword attack power up item -- 刀攻撃力アップアイテム,4100,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+9999032,Recovery Ninja Frame Expansion Item -- 回復忍具枠拡張アイテム,4200,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+9999033,Resurrection technique -- 復活の術,2000,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+9999034,Ninjutsu Ninjutsu_Blood Smoke -- 忍殺忍術_血煙,2100,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+9999035,Ninjutsu Ninjutsu_Puppet -- 忍殺忍術_傀儡,2110,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+9999036,Ninjutsu Ninjutsu_Encha -- 忍殺忍術_エンチャ,2120,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+9999037,Parachute_for discrimination -- 落下傘_判別用,2200,-1,-1,-1,-1,-1,0,3,-1,[0|0],0,1
+9999100,Pills -- 丸薬,10010,0,1,-1,-1,-1,0,3,-1,[0|0],0,1
+9999101,Resurrection technique -- 復活の術,2000,0,2,-1,-1,-1,0,3,-1,[0|0],0,1
+9999102,Magatama Fragment 1 -- 勾玉の欠片1,4000,0,3,-1,-1,-1,0,3,-1,[0|0],0,1
+9999103,Magatama Fragment 2 -- 勾玉の欠片2,4000,0,1,-1,-1,-1,0,3,-1,[0|0],0,1
+9999104,Magatama Fragment 3 -- 勾玉の欠片3,4000,0,2,-1,-1,-1,0,3,-1,[0|0],0,1
+9999105,Detoxification circle -- 解毒丸,3005,0,3,-1,-1,-1,0,3,-1,[0|0],0,1
+9999200,Shuriken -- 手裏剣,70000,0,100000,79901100,-1,1,0,0,-1,[0|0],0,1
+9999201,Firecracker -- 爆竹,71000,0,100010,79901110,-1,1,0,0,-1,[0|0],0,1
+9999202,Ignition -- 発火,72000,0,100020,79901120,-1,1,0,0,-1,[0|0],0,1
+9999203,Preparation ax -- 仕込み斧,73000,0,100030,79901130,-1,1,0,0,-1,[0|0],0,1
+9999204,Transformation -- 変わり身,74000,0,100040,79901140,-1,1,0,0,-1,[0|0],0,1
+9999205,Kodachi -- 仕込み小太刀,75000,0,100050,79901150,-1,1,0,0,-1,[0|0],0,1
+9999206,Iron fan -- 鉄扇,76000,0,100060,79901160,-1,1,0,0,-1,[0|0],0,1
+9999207,Turn the enemy -- 敵回し,77000,0,100070,79901170,-1,1,0,0,-1,[0|0],0,1
+9999208,Preparation spear -- 仕込み槍,78000,0,100080,79901180,-1,1,0,0,-1,[0|0],0,1
+9999209,Finger whistle -- 指笛,79000,0,100090,79901190,-1,1,0,0,-1,[0|0],0,1

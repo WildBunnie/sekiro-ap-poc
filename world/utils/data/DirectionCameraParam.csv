@@ -1,0 +1,7 @@
+ID,Name,isUseOption,pad2,pad1,
+80,Front defenseless production camera -- 前面無防備演出カメラ,1,0,[0|0|0|0|0|0|0|0|0|0|0|0|0|0|0]
+81,Front defenseless production camera (pulled out) -- 前面無防備演出カメラ（引き抜き）,1,0,[0|0|0|0|0|0|0|0|0|0|0|0|0|0|0]
+82,Front defenseless production camera (for hammering) -- 前面無防備演出カメラ（槌たたきつけ用）,1,0,[0|0|0|0|0|0|0|0|0|0|0|0|0|0|0]
+83,Front defenseless production camera (for large sword) -- 前面無防備演出カメラ（大剣用）,1,0,[0|0|0|0|0|0|0|0|0|0|0|0|0|0|0]
+90,Rear defenseless production camera -- 背面無防備演出カメラ,1,0,[0|0|0|0|0|0|0|0|0|0|0|0|0|0|0]
+92,Rear defenseless production camera (for mallet) -- 背面無防備演出カメラ（槌用）,1,0,[0|0|0|0|0|0|0|0|0|0|0|0|0|0|0]

@@ -1,0 +1,2 @@
+ID,Name,fadeTime_NormalToDyingBegin,fadeTime_DyingBeginToDyingLoop,fadeTime_DyingLoopToNormal,fadeTime_DyingLoopToWaitBegin,fadeTime_WaitToNormal,pad2,
+0,,0.1,1,1,0.1,0.3,[0|0|0|0|0|0|0|0|0|0|0|0]

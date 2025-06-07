@@ -1,0 +1,10 @@
+ID,Name,LOD0_range,LOD0_play,LOD1_range,LOD1_play,LOD2_range,LOD2_play,shadow_range,
+0,Global settings -- 全体設定,40,10,120,10,160,10,1000
+1,Grass_Large -- 草_大,30,10,60,10,90,10,15
+2,Grass_small -- 草_小,15,10,30,10,45,10,8
+5,Game grass -- ゲーム草,50,10,70,10,90,10,20
+32,Nezasa -- ネザサ,30,10,70,10,90,10,20
+37,Miscanthus (specify angle) -- ススキ（角度指定）,15,10,30,10,60,10,6
+99,General purpose test -- 汎用テスト,10,10,30,10,60,10,1000
+110,Castle -- 城下,25,10,60,10,80,10,12
+111,Honjo -- 本城,25,10,60,10,80,10,12

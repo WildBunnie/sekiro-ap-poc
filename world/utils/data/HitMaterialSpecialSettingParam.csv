@@ -1,0 +1,10 @@
+ID,Name,GroundMaterialType,Unk1,pad1,SpEffectId,
+0,Default -- デフォルト,0,1,[0|0],-1
+1,Stairs / slopes -- 階段・斜面,1,1,[0|0],-1
+2,Without camera -- カメラ抜き,0,0,[0|0],-1
+3,Absolutely climb -- 絶対上る,2,1,[0|0],-1
+4,Can&#39;t ride -- 乗れない,3,1,[0|0],-1
+5,I can&#39;t ride without the camera -- カメラ抜き＆乗れない,3,0,[0|0],-1
+6,Steep slope -- 急斜面,0,1,[0|0],108010
+7,Deep waterside -- 深い水辺,0,1,[0|0],108020
+8,Objects that can be ridden -- 乗れるオブジェ,0,1,[0|0],4100

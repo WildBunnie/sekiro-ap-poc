@@ -1,0 +1,145 @@
+###ID 79
+
+###10000###10001###10002###10003###10004
+<?selectLR?>:Select <?conclusion?>:Enter <?cancel?>:Close
+
+###11000
+<?selectAll?>:Select　<?conclusion?>:Enter　<?cancel?>:Close　<?commando?>:Toggle Display　<?viewChange?>:Toggle Status　<?HelpMenu?>
+
+###11001
+<?selectAll?>:Select　<?conclusion?>:Item Menu　<?cancel?>:Close　<?commando?>:Toggle Display　<?viewChange?>:Toggle Status　<?HelpMenu?>
+
+###11002###11003
+<?selectUD?>:Select　<?conclusion?>:Enter　<?cancel?>:Cancel　<?viewChange?>:Toggle Status
+
+###11004###11005###11006###11007###16500
+<?selectUD?>:Select　<?conclusion?>:Enter　<?cancel?>:Close
+
+###12000
+<?selectAll?>:Select　<?conclusion?>:Enter　<?cancel?>:Close　<?commando?>:Unequip Item　<?viewChange?>:Toggle Status
+
+###12001
+<?selectUD?>:Select　<?conclusion?>:Equip　<?cancel?>:Back　<?commando?>:Toggle Display　<?viewChange?>:Toggle Status
+
+###14000
+<?viewChange?>:Toggle Display <?cancel?>:Close <?slectMenuSwitch?>:Explanation
+
+###16000###16001
+<?selectUD?>:Select <?selectLR?>:Change <?cancel?>:Back
+
+###16003###16004###44000
+<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Back
+
+###16005###16006
+<?selectUD?>:Select <?conclusion?>:Confirm <?cancel?>:Back
+
+###16010###16011
+<?selectUD?>:Select　<?selectLR?>:Change　<?cancel?>Back
+
+###16100
+<?selectUD?>:Select　<?conclusion?>:Delete　<?cancel?>:Close
+
+###16502###16503###16601###17400###69001
+<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Close
+
+###16600
+<?selectLR?>:Select <?conclusion?>:Confirm <?viewChange?>:Switch <?cancel?>:Close
+
+###17300
+<?conclusion?>:<?actionHelp?>
+
+###17301
+<?viewChange?>:Toggle
+
+###17900
+<?conclusion?>:Close
+
+###18000
+<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Cancel
+
+###18200###18210###18300###18310
+<?sysmsg@18300?>
+
+###18201###18211###18301
+<?cancel?>:Close　<?viewChange?>:Change Display
+
+###19000
+<?selectAll?>:Select <?cancel?>:Close
+
+###19900
+<?slectMenuSwitch?>:Explanation
+
+###20000
+<?selectUD?>:Select <?selectLR?>:Change <?conclusion?>:Enter <?cancel?>:Exit <?viewChange?>:Initialize <?slectMenuSwitch?>:Explanation
+
+###20001###44001
+<?selectLR?>:Select <?conclusion?>:Enter <?cancel?>:Cancel
+
+###22010
+<?selectLR?>:Select <?conclusion?>:Enter <?cancel?>:Close <?commando?>:Remove <?viewChange?>:Toggle Status
+
+###22011
+<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Close <?commando?>:Toggle Display <?viewChange?>:Toggle Status
+
+###30000
+<?selectAll?>:Select <?conclusion?>:Purchase <?cancel?>:Close <?commando?>:Toggle Display
+
+###30100
+<?selectAll?>:Select <?conclusion?>:Feed <?cancel?>:Close <?commando?>:Toggle Display
+
+###31000
+<?selectAll?>:Select <?conclusion?>:Enter <?cancel?>:Close <?commando?>:Toggle Display
+
+###32000###32001
+<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Back <?commando?>:Toggle Display
+
+###32002
+<?selectAll?>:Select <?conclusion?>:Enter <?cancel?>:Back <?commando?>:Toggle Display
+
+###41000###41001
+<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Back <?viewChange?>:Toggle Display <?commando?>:Delete
+
+###41002
+<?conclusion?>:Enter <?cancel?>:Back <?viewChange?>:Toggle Display <?commando?>:Delete
+
+###42100###42101###42102###42103###42104###42105###42106###42107###42108###42109
+<?selectAll?>:Select <?conclusion?>:Edit <?cancel?>:Back <?spin?>:Rotate
+
+###42120###42122###42123###42124###42125###42126###42127
+<?selectAll?>:Select <?conclusion?>:Enter <?cancel?>:Back <?spin?>:Rotate
+
+###43001###43011###43012###43013
+<?selectUD?>:Select <?selectLR?>:Change Item <?cancel?>:Back <?spin?>:Rotate Face
+
+###43002###43003
+<?selectUD?>:Select <?conclusion?>:Execute <?cancel?>:Back <?spin?>:Rotate Face
+
+###43004###43005###43501
+<?selectUD?>:Select <?selectLR?>:Change Value <?cancel?>:Back <?spin?>:Rotate Face
+
+###43006###43007
+<?selectUD?>:Select <?conclusion?>:Select <?cancel?>:Back <?spin?>:Rotate Face
+
+###43101###43102###43103###43104###43105###43106###43107###43108###43109###43503
+<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Back <?spin?>:Rotate Face
+
+###43201###43202###43203###43204###43205###43206###43207###43208###43209###43210###43211###43212###43213###43214###43215###43216
+<?selectLR?>:Change Categories <?cancel?>:Back <?spin?>:Rotate Face
+
+###43502
+<?selectUD?>:Select <?selectLR?>:Change Attribute <?cancel?>:Back <?spin?>:Rotate Face
+
+###45000
+<?selectAll?>:Select <?conclusion?>:Enter <?cancel?>:Close <?commando?>:Toggle Display <?categoryChangeL?><?categoryChangeR?>:Change <?shortCutL?>:Remove all from box <?shortCutR?>:Deposit all to box
+
+###45001
+<?selectUD?>:Select　<?selectLR?>:Change <?cancel?>:Back <?commando?>:Toggle Display <?shortCutL?>:Remove all from box <?shortCutR?>:Deposit all to box
+
+###46000
+<?selectUD?>:Select　<?selectLR?>:Change　<?conclusion?>:Enter <?cancel?>:Exit <?viewChange?>:Initialize
+
+###46001
+<?selectUD?>:Select　<?conclusion?>:Enter　<?cancel?>:Cancel
+
+###70000
+<?cancel?>：Close <?categoryChangeL?><?categoryChangeR?>：LevelMove

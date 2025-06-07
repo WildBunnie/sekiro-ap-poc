@@ -1,0 +1,19 @@
+{
+    "dependencies": [
+        "minhook",
+        "detours",
+        "spdlog",
+        "tomlplusplus",
+        "crashpad",
+        "winreg",
+        "cli11",
+        "lua",
+        "sol2",
+        "nano-signal-slot",
+        "nlohmann-json",
+        "asio",
+        "valijson",
+        "websocketpp",
+        "zlib"
+    ]
+}

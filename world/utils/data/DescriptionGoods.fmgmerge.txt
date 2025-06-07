@@ -1,0 +1,29 @@
+###ID 24
+
+###2100
+<?kgiconKc@16?> after a Backstab Deathblow:
+Bloodsmoke Ninjutsu
+
+Calls forth a massive cloud of blood from the victim.  
+Costs Spirit Emblems to use.
+
+###2110
+<?kgiconKc@16?> after a Backstab Deathblow:
+Puppeteer Ninjutsu
+
+Manipulates the victim, turning them against their allies.
+Costs Spirit Emblems to use.
+
+###2120
+<?kgiconKc@16?> after a Backstab Deathblow:
+Bestowal Ninjutsu
+
+Coats your blade with the blood of your target.
+Costs Spirit Emblems to use.
+
+###2490
+<?kgiconKc@18?>+<?kgiconKc@16?>: Sakura Dance
+Spin to build momentum into a sequence of three leaping dance-like slashes.  Evade sweep attacks while delivering sharp cuts, dealing damage even through an enemy's guard.
+
+Mid-air prosthetic attacks are possible after the attack has been performed.
+Costs Spirit Emblems to use.

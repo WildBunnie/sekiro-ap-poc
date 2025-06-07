@@ -1,0 +1,2312 @@
+###ID 20
+
+###1000
+Drifting white paper doll.
+
+Feelings of remorse are not limited
+to the hearts of mankind.
+Such a sentiment may even manifest
+itself in a fleeting, illusory form.
+
+Using certain actions, such as Prosthetic
+Tools, will consume Spirit Emblems.
+
+###1100
+Regenerative Power description
+
+###1101
+Regenerative Power Fragment description
+
+###1110
+Temporary Regenerative Power description
+
+###1200
+Required for learning Skills from the Skill Menu.
+
+Level up to gain Skill Points.
+
+###2000
+The power to return from the dead,
+granted by the Divine Heir
+of the Dragon's Heritage.
+
+Used at the cost of Resurrective Power.
+
+Repeated deaths may cause the power 
+of the dragon's blood to stagnate.
+
+Stagnation is likely to have consequences.
+
+###2100
+Ninjutsu technique that turns the
+spraying blood of a victim to smoke.
+Costs Spirit Emblems to use.
+Activated after a Backstab Deathblow.
+
+The smokescreen allows one to
+retake the element of surprise.
+
+Life or death struggle defines a shinobi,
+for whom a kill is a source of strength.
+
+###2110
+Ninjutsu technique that manipulates
+the victim like a puppet.
+Costs Spirit Emblems to use.
+Activated after a Backstab Deathblow.
+
+This technique temporarily forces one who
+should have fled this realm to remain.
+
+A puppet moves on behalf of its master,
+but its strings are destined to snap.
+
+###2120
+Ninjutsu technique that wreathes a blade
+in the victim's blood, extending its reach.
+Costs Spirit Emblems to use.
+Activated after a Backstab Deathblow.
+
+The Wolf discovered this technique upon
+beheading a foe with the Mortal Blade,
+forming a cursed sword from spilled blood.  Though it bears likeness to the Mortal Blade, it cannot kill the undying.
+
+###2300
+A katana given by Kuro, the Divine Heir.
+An heirloom of the Hirata family,
+a cadet branch descended from Ashina.
+
+Once thought lost, it has found its way
+back into the hands of the Wolf.
+The name Kusabimaru beseeches,
+"A shinobi's role is to kill, but even a
+shinobi must not forget mercy."
+A mantra the blade itself may manifest.
+
+###2310
+The artificial arm of a shinobi,
+passed down by the Sculptor.
+
+A replica of a human arm fitted with a
+variety of mechanisms, apparently
+designed with modification in mind.
+
+While it bears a number of cuts
+and is stained thick with blood and oil,
+it has been impeccably maintained.
+
+###2390
+Allows you to maintain visibility in dark areas.
+
+###2400
+An odachi capable of slaying the undying.
+Its crimson blade will take the life of
+any who dares draw it.
+Without the power of Resurrection, one
+could not hope to wield this weapon, which
+allows one to defeat even infested beings.
+
+Long concealed within Senpou Temple,
+the blade is inscribed with its true name:
+"Gracious Gift of Tears."
+
+###2420
+Scroll on "Mibu Breathing", a hidden art
+that allows one to dive deep as well as breathe underwater.
+
+The secret of underwater breath was taught
+by Mibu founders to those deemed worthy
+of the Fountainhead procession.
+"Without the breath of Mibu, one who
+seeks to join the procession shall ne'er
+lay eyes upon the Divine Dragon."
+
+###2450
+Compendium on the Shinobi Martial Art,
+"Anti-air Deathblow".
+Skill unlocked upon acquiring this item.
+
+"A technique which serves the shinobi
+who is not bound by the earth in battle.
+
+Leap towards an opponent who has
+exposed himself in mid-air, and strike,
+killing him before he hits the ground."
+
+###2460
+Combat Art that performs a high-speed
+cut from a sheathed stance.
+Charge to send out shockwaves.
+Costs Spirit Emblems to use.
+
+In his younger years, Isshin was a devil
+with the sword, spending his days in
+pursuit of life-or-death combat.
+He often ruminated on how a cut should
+be made, but his blade always moved first.
+
+###2461
+Compendium on the Combat Art,
+"Floating Passage".
+Skill unlocked upon acquiring this item.
+
+"Unleash attacks in a flowing, dancelike
+form, overwhelming enemies in a furor
+of graceful aggression.
+This technique belongs to the Ashina
+sword school, though it has been deemed
+heretical due to its foreign origin."
+
+###2462
+Combat Art that unleashes a storm of
+attacks from a sheathed stance; so fast
+that the blade is nigh invisible.
+Costs Spirit Emblems to use.
+
+One must focus their soul on the release
+of the blade, nothing else.  In doing so,
+the strikes achieve a god-like speed.
+A technique conceived by none other than the old hand swordmaster, Isshin.
+
+###2470
+A Latent Skill that increases the healing effect of recovery items.
+
+Medicinal knowledge is vital for a shinobi's survival.  Receiving wounds in battle is inevitable.  
+
+The only way to learn such techniques is to be gravely injured time and time again by worthy opponents.
+
+###2471
+A Latent Skill that increases the healing effect of recovery items.
+
+Sometimes a Shinobi can survive what is certain death for a lesser warrior.  As such, medicinal knowledge is vital.
+
+The only way to learn such techniques is to be gravely injured time and time again by worthy opponents.
+
+###2472
+A Latent Skill that increases the healing effect of recovery items.
+
+A Shinobi fights as a lone wolf, without the help of others.  As such, medicinal knowledge is vital.
+
+The only way to learn such techniques is to be gravely injured time and time again by worthy opponents.
+
+###2475
+A Latent Skill that increases the maximum number of Spirit Emblems that can be held.
+
+Spirit Emblems are manifestations of regret.  Those regretful of their vile actions are haunted by many Spirit Emblems.
+Perhaps this innocent beast was burdened with the karma of man.  Inheriting the karma of those they've killed is also part of being shinobi.
+
+###2480
+A Latent Skill that recovers Vitality upon performing a successful Deathblow.
+
+Deathblows provide shinobi with an opportunity to breathe.
+
+Experiencing battles with powerful opponents further deepens this moment of respite.
+
+###2481
+A Latent Skill that recovers Posture upon performing a successful Deathblow.
+A Shinobi must be prepared for battles in which he is outnumbered.  After killing an enemy, one must exhale, expelling both regret and reaffirming one's core to regain Posture.
+Experiencing battles with stronger opponents further deepens this moment of exhalation.
+
+###2490
+Combat Art that builds momentum in a 
+series of leaping slashes, and can 
+transition into mid-air prosthetic attacks. 
+Costs Spirit Emblems to use. 
+
+A secret art of the Way of Tomoe, which
+she performed in her master's honor.
+The sakura blossoms will soon fall. 
+If you cannot return home, at least allow
+this dance to console you.
+
+###2500
+A white lotus flower found blooming in
+the depths of the Sunken Valley, where
+the Fountainhead Waters pool deeply.
+
+The flower's aroma attracts female apes.
+Thus the Guardian Ape carefully tended
+to it, so as to offer it to his bride.
+
+One of the incense ingredients sought by
+the Divine Heir for Immortal Severance.
+
+###2501
+A stone found on an altar deep within
+the village of the water-dwellers.
+Stones will sometimes appear in the
+bodies of those who have long drank
+from the Fountainhead Waters.
+"Step into the marital shrine and
+offer the fragrant, auspicious stone."
+
+One of the incense ingredients sought by
+the Divine Heir for Immortal Severance.
+
+###2502
+Dried aromatic wood from the Everblossom.
+Plucked by the Wolf's father.
+
+The Everblossom is a sakura tree,
+and as such is ripe with nostalgia.
+Takeru would likely gaze upon this branch
+when once it bloomed, reminded of home.
+One of the incense ingredients sought by
+the Divine Heir for Immortal Severance.
+
+###2503
+Flowers of the Everblossom that bloomed
+in an old memory.
+Grafted by Takeru, who took the branch
+from the Divine Realm as a parting relic.
+
+One who seeks Purification may impart the
+Dragon Tears and these flowers to the
+Divine Heir of the Dragon's Heritage,
+thus severing the shackles that bind the
+immortal bearer of Dragon's Blood.
+
+###2910
+A mechanical metal barrel that can be given to the Sculptor to enable Prosthetic Tool Upgrades.
+
+It appears to have been made to fit perfectly inside the wrist bone of the Shinobi Prosthetic.
+
+A reinforced core is sure to make a shinobi's fangs even sharper.
+
+###2920
+A book of secrets that details a variety of techniques employed by Shinobi.
+Grants the ability to learn "Shinobi Style" Skills.
+
+Within this text are the innermost secrets of the Shinobi Arts, such as attacks performed in the air and hiding one's body to avoid detection.  Such moves could never be practiced by samurai.  
+
+###2921
+A book of secrets that details a variety of techniques for use with Shinobi Prosthetic.
+Grants the ability to learn "Prosthetic Style" Skills.
+
+Written by a man who abandoned the path of the Shinobi, but could not bring himself to discard his painstaking research.  
+He never expected to pass these on to anyone else.
+
+###2922
+A compendium of the Ashina Sword Style.
+Allows one to learn "Ashina Style" Skills.
+
+The text reads like a history of Isshin Ashina's battles; when young, Isshin fought desperately time and time again, polishing his technique in the blood of his enemies.
+He consolidated his learnings under the "Ashina Style" name for the sake of his clan's dominance.
+
+###2923
+A book of secrets that grants the ability
+to learn "Senpou Style" Skills.
+
+Those of the Senpou Temple mastered martial arts in the pursuit of virtue.  They considered strong fists and strict discipline essential against Buddha's enemies.  However, Senpou Temple was seized by an obsession for the Undying, which corrupted their teachings and style.
+
+###2924
+A unique text of the legendary Ashina Mushin Compound Style.
+Young Isshin would stop at nothing in his lust for power, and this single-minded search for strength ended in him taking Ashina for his own.  This is the result of combining techniques from the styles he encountered.  This drive defined Isshin's achievements and as such, this text will never be finished.
+
+###2930
+A Dragonrot Recovery Charm created by Emma.
+
+With this charm, one can offer a "Dragon's Blood Droplet" at a Sculptor's Idol to restore all afflicted with Dragonrot back to health.
+The charm contains a Dragonrot victim's blood, which Emma managed to purify and solidify into a bloodstone.
+
+###3000###3001
+A gourd filled with Vitality-restoring medicine.  Resting refills the Gourd.
+
+Made by an apprentice of
+the extraordinary doctor, Dogen.
+
+Though it is strange that the gourd's medicinal waters refill automatically, the seeds within may hold the secret to how it works.
+
+###3020
+Medicinal Pellets that slowly restore Vitality.
+
+A secret treatment passed down for generations in these lands, records say it has been used in battles since times long gone, and lent to the famed resilience of Ashina warriors.
+
+A pill case full of these pellets
+would also serve as a battle charm.
+
+###3040
+A secret medicine that fully restores Vitality and cures all status abnormalities.
+
+One small part of Ashina is exceedingly old.  The ancient soil, rocks, and water that pervaded the land are said to have attracted the attention of the gods.
+The doctor Dogen studied the plants in 
+this ancient place, resulting in the recipe for this special medicine.
+
+###3050
+A round, red lump, found inside
+the body of red-eyed Jinzaemon.
+
+Consume to gain red-eyes and reduce
+flinching from enemy attacks, but also
+prohibits the use of Resurrection.
+The red mass will not mold nor wither,
+and though it does no harm, it will likely
+remain in the stomach even after its
+potency has worn off.
+
+###3051
+A round, red lump.
+
+Consume to gain red-eyes and reduce
+flinching from enemy attacks, but also
+prohibits the use of Resurrection.
+
+A red mass is the lingering trace of one
+who was unable to achieve their desires.
+Slightly warm to the touch.
+It pulsates softly.
+
+###3052
+A round, red lump, found inside
+the body of red-eyed Kotaro.
+
+Consume to gain red-eyes and reduce
+flinching from enemy attacks, but also
+prohibits the use of Resurrection.
+The red mass will not mold nor wither,
+and though it does no harm, it will likely
+remain in the stomach even after its
+potency has worn off.
+
+###3053
+A round, red lump, found inside
+the body of red-eyed Dojun.
+
+Consume to gain red-eyes and reduce
+flinching from enemy attacks, but also
+prohibits the use of Resurrection.
+
+Dosaku and Dojun were the quintessential
+master and disciple.  Often when pursuing
+the ideal self, one need only look within.
+
+###3060
+Sweet, sticky rice ball made by Kuro
+using rice from the Child of Rejuvenation.
+Slowly grants medium Vitality recovery and constant Posture recovery over time.
+
+Once when the Wolf was starving, his
+father wordlessly handed him a rice ball.
+It was astoundingly delicious.
+
+This one is sure to taste just as good.
+
+###3061
+A sweet, sticky rice ball made by Kuro.
+
+Slowly grants medium Vitality recovery and constant Posture recovery over time.
+
+Wolf senses it was crafted with feelings of 
+resolve and a reluctance to part ways.
+
+Such deep emotions tend to be mumbled 
+to oneself rather than shared.
+
+###3070
+A red, ripe persimmon, ready to eat.
+For a time, allows one to recover Posture even when attacking or taking damage.
+
+Ashina persimmons are particularly nutritious, perhaps because the trees grow in such pure water.  Persimmons become blood, blood becomes rice.  
+
+This may be of help to one short of blood.
+
+###3071
+A conspicuously red persimmon at the peak of its ripeness, commonly called a "Taro persimmon".
+
+Greatly increases Posture recovery for a time, even when attacking or taking damage.
+
+The Ashina Taro Troop are practically raised on these fruits, which is why they all know the best time to pick them.
+
+###3080
+Rice that spilled from the palms
+of the Child of Rejuvenation.
+Gradually recovers Vitality for a time.
+
+Even in falsehood, the power of the
+Dragon's Blood brings a bountiful harvest.
+
+Rice is precious.
+The flavour grows richer with each bite
+and is sure to raise one's spirits.
+
+###3081
+Chilled, silvery rice that spilled from
+the palms of the Child of Rejuvenation.
+Gradually recovers Vitality for a time,
+slightly moreso than regular rice.
+
+The cold sweetens the rice.
+
+Rice is indeed precious.
+The flavour grows richer and richer,
+raising one's spirits higher than ever.
+
+###3200
+A powerful antidote concocted by the 
+Sunken Valley clan.
+
+Heals status abnormality "Poison", and temporarily  increases Poison resistance.
+
+Magnetite deposits are found in the Sunken Valley, but the place is dangerously toxic.  Antidote powder is essential for anyone attempting to mine the ore.
+
+###3210
+Medicine for treating burns.
+
+Heals the "Burn" status abnormality, and for a time decreases Burn buildup, increases Burn resistance, and reduces damage from incoming Burn attacks.
+
+When fire is used on the battlefield,
+Dousing Powder is crucial for survival.
+
+###3211
+Powdered medicine for treating burns,
+carried by Interior Ministry guards.
+Slightly more effective than regular dousing powder, it heals "Burn" status, reduces Burn buildup, and reduces damage from incoming Burn attacks.  
+The Ministry feared Ashina, her eyes
+bloodshot with the waters of Rejuvenation.
+This powder acted as a ward for when the
+time came to turn flame to her walls.
+
+###3220
+Powdered medicine for calming nerves, used by those who deal in unspeakable deeds.
+Reduces "Terror" buildup and increases
+Terror resistance for a time.
+
+Grave keepers, executioners, the Memorial
+Mob...  all who keep death close keep this
+powder closer, adhering to a simple rule:
+If seized with fear, cover your rear.
+
+###3230
+A miraculous drug capable of banishing lightning, offered at the Ashina Clan altar.
+
+Greatly reduces the amount of damage
+received from lightning attacks, as
+well as the "Shock" status abnormality.
+Lightning is a force of the gods.  Eels, while small, are relatives of dragons.  
+Even a god's force can be suppressed, though probably not for long.  
+
+###3250
+Powdered medicine with poisonous effects used through the ages by Ashina shinobi.
+
+A weak "Poison" status abnormality is inflicted upon consumption.
+By inflicting a weak poison on oneself, all other forms of poison become ineffective.  Some shinobi also use this medicine for a specific technique.  
+Poison is said to expand the mind.
+
+###3290
+Secret shinobi drug, blue in color.
+
+When times call for death by one's own
+hand, samurai turn their swords on
+themselves as a matter of pride, while
+shinobi demand a swifter means.
+Simply crush in the back teeth to die.
+Nothing more is required.
+
+Resurrection is not limited after use.
+
+###3291
+False tooth loaded with a secret
+shinobi drug, blue in color.
+Can be used repeatedly.
+
+Crush the blue nostrum between the back
+teeth to die as often as one pleases.
+Could be useful in certain situations.
+
+Surely an unnecessary reminder, but
+the first death is typically one's last.
+
+###3292
+Secret shinobi drug, blue in color,
+carried by the Nightjar Ninja.
+
+Death by one's own hand. Some fail to
+realize the necessity, betraying Ashina,
+living out their lives no matter what...
+Simply crush in the back teeth to die.
+To think that nothing more was required.
+
+Resurrection is not limited after use.
+
+###3300###3301
+A curved, moss-covered gourd filled with
+medicinal water.  Refills upon rest.
+While it does not heal "Poison" status, 
+it reduces Poison buildup, and increases 
+Poison resistance.  
+This gourd was made out of necessity by 
+those that made poisonous lands their home.
+It's said if you live there long enough,
+eventually poison won't affect you at all.
+
+###3310###3311
+A curved, withered red gourd filled with medicinal water.
+The gourd's medicine refills upon rest.
+
+Reduces Burn buildup, and slightly increases Burn resistance.  It cannot heal the Burn status abnormality, however.
+
+###3320###3321
+A curved, mottled purple gourd filled with medicinal water.  Refills upon rest.
+Reduces "Terror" status buildup, and 
+increases Terror resistance.
+
+This gourd's twisted form was formed with
+use in graveyards, corpse-strewn battlefields,
+and other forlorn places of death.
+It follows then that drinking its waters can help prevent the onset of Terror.
+
+###3350
+Fallen, headless spirit of Ako that increases
+Vitality and Posture damage for a time.
+Consume Spirit Emblems to use repeatedly.
+
+Headless are the ruined form of corrupted
+heroes who once fought for their country.
+
+Seize the power of an inhuman spirit by
+laying it to rest, but risk going quite
+mad unless something is offered in return.
+
+###3360
+Fallen, headless spirit of Yashariku.
+Briefly sacrifice max Vitality and Posture
+while gaining a large Attack Power boost.
+Consume Spirit Emblems to use repeatedly.
+
+Headless are the ruined form of corrupted
+heroes who once fought for their country.
+This brave soul's twin was lost in utero.
+He may not have fallen to the palace
+nobles had his sibling been at his side...
+
+###3370
+Fallen, headless spirit of Ungo that 
+reduces Vitality damage taken from 
+physical attacks.
+Consume Spirit Emblems to use repeatedly.
+Headless are the ruined form of corrupted
+heroes who once fought for their country.
+This warrior lost his mind in defense of
+the state.  His attempted mutiny was met
+with a swift beheading, and the lifeless
+body sunk to the bottom of the moat.
+
+###3380
+Fallen, headless spirit of Gokan.
+Reduces Posture damage taken for a time.
+Consume Spirit Emblems to use repeatedly.
+
+Headless are the ruined form of corrupted
+heroes who once fought for their country.
+
+Dedicated burial mounds quietly appease
+the spirits with severed heads, though
+none call upon them for long.
+
+###3390
+Fallen, headless spirit of Gachiin.
+Suppresses sound and presence,
+making the user harder to detect.
+Consume Spirit Emblems to use repeatedly.
+
+Headless are the ruined form of corrupted
+heroes who once fought for their country.
+
+"I'm falling to pieces," said the man to
+himself, drifting deep into the forest.
+
+###3400
+Sugar candy made in Senpou Temple,
+sustaining Ako's blessing.
+Boosts Attack Power for a time.
+
+Bite the candy and take the Ako stance
+to impart its inhuman benediction.
+
+The spirits embody excess karma.
+One must bite down hard on the candy
+and endure what has been brought to pass.
+
+###3410
+Sugar candy made in Senpou Temple,
+sustaining Yashariku's blessing.
+Halves max Vitality and Posture,
+while granting a large Attack Power boost.
+
+Bite the candy and take the Yashariku
+stance to impart its inhuman benediction.
+Forbidden at the temple, this candy was
+distributed far and wide in exchange for
+donations towards costly undying research.
+
+###3420
+Sugar candy made in Senpou Temple,
+sustaining Ungo's blessing.
+Temporarily reduces Vitality damage 
+taken from physical attacks.
+Bite the candy and take the Ungo stance
+to impart its inhuman benediction.
+By doing so, you endure the excess karma
+of man from the spirits within.
+Senpou monks spread this candy across
+Ashina in honor of her military heroes.
+
+###3430
+Sugar candy made by Shinobi Hunters of
+Misen Temple, sustaining Gokan's blessing.
+Reduces Posture damage taken for a time.
+
+Bite the candy and take the Gokan stance
+to impart its inhuman benediction.
+
+Misen monks are well-versed in the art of
+killing shinobi; an undertaking that
+demands a body with an unshakable core.
+
+###3440
+The High Senpou priest gave this candy
+to a band of short but adept assassins.
+Suppresses sound and presence for a time,
+making the user harder to detect.
+
+Bite the candy and take the Gachiin stance
+to impart its inhuman benediction.
+The assassins do Senpou's dirty work.
+Once hired guards, now extensions of the
+monks' will in their quest for undeath.
+
+###3450
+Confetti imbued with a divine blessing
+made for driving away apparitions.
+
+The paper is made ceremoniously,
+whereby pulp is spread thin using
+water from the exalted Fountainhead.
+As the gods bless the waters, so too
+will the confetti bless one who basks
+in its touch, allowing attacks to
+connect with apparition-type enemies.
+
+###3500
+A piece of pottery that breaks with a satisfying crack when thrown.
+
+Throw it at an enemy to draw their attention. 
+
+Throwing and smashing such pieces made for a popular sport amongst Ashina boys.  Even after growing up, they remember the old games well.
+
+###3510
+Ash gripped into a hardened clump.  Throw it at an enemy to temporarily distract them.
+
+In Ashina, the snow falls thick and thus the hearth runs thick with ash.  
+
+###3520
+Plain oil.
+When the jar breaks,
+the oil covers everything nearby.
+
+Enemies doused in oil are easily
+set alight, causing them to take additional Vitality damage from fire attacks and 
+making them more vulnerable to 
+the Burn status abnormality.
+
+###3530
+Fumewort seeds that make a loud noise if you snap them.  Useful for breaking the effect of illusion techniques.
+
+If an illusion occurs, it is because someone created it.
+To crush the phantoms and return to reality
+one must defeat the creator of the illusion.
+Snap seeds can be of great help in that regard.
+
+###3580###3581
+A gourd with five-colored rice used by shinobi as landmarks.
+Intended to be spread on the ground in recognizable patterns.
+
+The white gourd is blessed with fertility,
+and resting at a Sculptor's Idol will replenish it.
+
+This rice is not edible, however.
+
+###3600
+A Mibu balloon filled with fountainhead water, imbued with a blessing of wealth.
+
+If one pops the golden Mibu balloon and prays, those its water splashes upon will acquire more coin for a period of time.  
+"Mibu" means "aquatic life", or "life born of the water".  The Ashina consider the fountainhead water itself to be worthy of worship.
+
+###3610
+A Mibu balloon filled with fountainhead water, imbued with a blessing for departed souls.
+
+If one pops this sakura-pink balloon and prays, those its water splashes upon will acquire more Resurrective Power for a time.
+The oldest of the Mibu balloons,
+Mibu priests are known to pop them 
+as an offering of peace of the departed.
+
+###3620
+A Mibu balloon filled with fountainhead water, imbued with a blessing of fortune.
+
+If one pops this vibrant green Mibu balloon and prays, those its water splashes upon will have a higher chance of obtaining items.
+"Mibu" means "aquatic life", or "life born of the water".  The Ashina consider the fountainhead water itself to be worthy of worship.
+
+###3630
+A Mibu balloon filled with fountainhead water, imbued with a blessing of sympathy.
+
+If one pops this black and white balloon and prays, those its water splashes upon will have a higher chance of obtaining Spirit Emblems for a period of time.
+This balloon expresses mourning for the dearly departed.  Red and white pinwheels are offered in fond remembrance.
+
+###3640
+Mibu balloon made in the year of the
+Dragonspring pilgrimage, sealed with
+a prayer for healthy upbringing.
+
+Burst the white Mibu balloon
+while clasping one's hands in prayer.
+Those splashed with the water will enjoy
+increased gains of all sorts for a time.
+On it is crudely scrawled:
+"To Tenkichi, from Badger".
+
+###3700
+A purse filled with a small amount of sen.
+It can be used to acquire the sen inside.
+
+Has a somewhat satisfying weight to it.
+
+The sen in this purse is not lost upon death.
+
+###3704
+A purse filled with a large amount of sen.
+It can be used to acquire the sen inside.
+
+Its weight is very promising indeed.
+
+The sen in this purse is not lost upon death.
+
+###3708
+A purse almost overflowing with sen.
+It can be used to acquire the sen inside.
+
+Hefty enough to bring something resembling a grin to a Wolf's face.
+
+The sen in this purse is not lost upon death.
+
+###3720
+Small Buddha effigy bound in red cloth.
+Raise in prayer between one's palms
+to restore a node of Resurrective Power.
+
+To enswathe a Jizo statue
+is to express feelings of parental love.
+The bundle of cloth is to at least ensure
+that the little one goes on in peace.
+
+###3721
+Buddha effigy bound in light pink cloth.
+Raise in prayer between one's palms
+to restore a node of Resurrective Power.
+
+To enswathe a Jizo statue
+is to express feelings of parental love.
+
+"Lord Sakuza...  Please take this cloth
+and use it to bundle this little one,
+so that he may live on in peace."
+
+###3730
+A demonic spirit sealed within
+the Iron Bell of Senpou Temple.
+Possesses those who ring the bell,
+strengthening enemies around them.
+
+The Bell Demon confers hardship,
+but perhaps also slightly better spoils.
+
+Using this item has no particular effect
+aside from causing the demon to leave.
+
+###3800###3801
+Dagger with a stark white blade and hilt.
+Converts Vitality into Spirit Emblems.
+Resting replenishes its charges.
+Originally this tanto was used in a ritual
+offering to the dragon, in which an emblem
+would be cut from one's own life force
+and set adrift on the Fountainhead waters.
+
+The blade is inscribed with its true name:
+"Devoted Soul."
+
+###3900
+A bamboo tube used to see distant objects.
+
+While shinobi already have good vision,
+looking through this tube with one eye
+enables one to see even further.
+The Nightjar Ninja serve Isshin Ashina,
+guarding the rooftops of Ashina Castle, their sharp eyes on the lookout for any would-be trespassers.
+Not much escapes the eyes of a Nightjar.
+
+###3980
+A small, palm-sized wooden Buddha.
+Can be used repeatedly.
+
+Held by the Wolf ever since he was saved by his father, its corners are rounded with use.
+
+This Buddha is used to return home.
+It will return the user to the last visited Sculptor's Idol or the Dilapidated Temple.
+
+###3990
+A five-pronged bell made of aged bronze.
+Can be used repeatedly.
+
+When rung, Monkeys and Wolves alike are returned to their initial states.
+
+However, a monkey caught in the folding screen will not escape, whether the bell is rung or not.
+
+###4000
+A loose prayer bead.
+Offering 4 of them at a Sculptor's Idol will increase maximum Vitality and Posture.
+
+Currently the Wolf has <?goodsItemNum@4000?> bead(s) in his possession.
+
+###4100
+Loose prayer beads strung together
+in offering to a Sculptor's Idol.
+Increases maximum Vitality and Posture.
+
+A prayer bead necklace befits the strong.
+
+The ferocity of Ashina's army is renowned
+throughout the nation.  Its generals are
+especially talented, every one of them
+accomplished in the Ashina sword style.
+
+###4101
+Loose prayer beads strung together
+in offering to a Sculptor's Idol.
+Increases maximum Vitality and Posture.
+
+A prayer bead necklace befits the strong.
+
+In Ashina, there is a towering pink ogre
+of a man, said to have gone red-eyed
+and run amok before he was long shut
+away in a forsaken dungeon...
+
+###4102
+Loose prayer beads strung together
+in offering to a Sculptor's Idol.
+Increases maximum Vitality and Posture.
+
+A prayer bead necklace befits the strong.
+
+The bull was a fiery, rampaging beast
+and nothing more.  In the last great war,
+the corpses of Ashina samurai piled high.
+Something had to be done.
+
+###4103
+Loose prayer beads strung together
+in offering to a Sculptor's Idol.
+Increases maximum Vitality and Posture.
+
+A prayer bead necklace befits the strong.
+
+Only those who have mastered the Ashina
+blade may set foot inside the castle dojo.
+Isshin will often stop by unannounced,
+just to keep the students on their toes.
+
+###4104
+Loose prayer beads strung together
+in offering to a Sculptor's Idol.
+Increases maximum Vitality and Posture.
+A prayer bead necklace befits the strong.
+
+The gun fort of Sunken Valley is
+commanded by the Snake Eyes, 
+an elite force of women able to pierce
+distant targets with mighty flint cannons
+and phenomenal vision.
+
+###4105
+Loose prayer beads strung together
+in offering to a Sculptor's Idol.
+Increases maximum Vitality and Posture.
+
+A prayer bead necklace befits the strong.
+
+The Centipedes will seek out a leader,
+often changing names out of loyalty.
+Centipede chiefs are known as "Long-arms," for their large talon-like weapons.
+
+###4106
+Loose prayer beads strung together
+in offering to a Sculptor's Idol.
+Increases maximum Vitality and Posture.
+
+A prayer bead necklace befits the strong.
+
+An unrivaled sumo wrestler once served a
+great feudal lord.  Dismissed after giving
+to drink, he fell to a life of brigandry.
+And so he was dubbed Juzou the Drunkard.
+
+###4107
+Loose prayer beads strung together
+in offering to a Sculptor's Idol.
+Increases maximum Vitality and Posture.
+
+A prayer bead necklace befits the strong.
+
+Lone Shadows are the Interior Ministry's
+most trusted agents.  Each of leader
+Masatsuna Oribe's seventeen born has a
+specialty, from poison to shinobi hounds.
+
+###4108
+Loose prayer beads strung together
+in offering to a Sculptor's Idol.
+Increases maximum Vitality and Posture.
+
+A prayer bead necklace befits the strong.
+
+Robert's father came from afar across seas
+to the south, in search of the Undying.
+Repelling a thousand blades was a small
+price for the blessing of rejuvenation...
+
+###4109
+Loose prayer beads strung together
+in offering to a Sculptor's Idol.
+Increases maximum Vitality and Posture.
+
+A prayer bead necklace befits the strong.
+
+The Seven Spears of Ashina were pivotal
+in Isshin's coup.  He awarded the lance
+to none but his most loyal samurai.
+Yet now, only a few of the Seven remain.
+
+###4400
+Seed from which healing waters
+continuously spring forth.
+Give to Emma to increase the
+maximum uses of the Healing Gourd.
+
+The twisted gourd of medicinal waters
+was known throughout Ashina since long
+ago, but it was the extraordinary healer
+Dogen and his pupil Emma who discovered
+the self-replenishing nature of this seed.
+
+###5200
+The battle memory of an extraordinary foe,
+lingering in the mind of the Wolf.
+
+Commune with a Sculptor's Idol
+and confront memories of battle to
+permanently increase Attack Power.
+
+Gyoubu Masataka Oniwa was
+keeper of the Ashina castle gate.
+
+###5201
+The battle memory of an extraordinary foe,
+lingering in the mind of the Wolf.
+
+Commune with a Sculptor's Idol
+and confront memories of battle to
+permanently increase Attack Power.
+
+The Phantom Lady Butterfly was
+a seasoned practitioner of illusions.
+
+###5202
+The battle memory of an extraordinary foe,
+lingering in the mind of the Wolf.
+
+Commune with a Sculptor's Idol
+and confront memories of battle to
+permanently increase Attack Power.
+
+As the Code dictates, the Wolf
+swore vengeance on Genichiro Ashina.
+
+###5203
+The battle memory of an extraordinary foe,
+lingering in the mind of the Wolf.
+
+Commune with a Sculptor's Idol
+and confront memories of battle to
+permanently increase Attack Power.
+
+The Folding Screen Monkeys guarded
+the Hall of Illusions and befriended the
+Divine Child of Rejuvenation.
+
+###5204
+The battle memory of an extraordinary foe,
+lingering in the mind of the Wolf.
+
+Commune with a Sculptor's Idol
+and confront memories of battle to
+permanently increase Attack Power.
+
+The Guardian Ape was defeated, though its
+roar can still be heard. It is said that
+an infested body marks the undying...
+
+###5205
+The battle memory of an extraordinary foe,
+lingering in the mind of the Wolf.
+
+Commune with a Sculptor's Idol
+and confront memories of battle to
+permanently increase Attack Power.
+
+The Corrupted Monk watched over
+the cave entrance, deep in Mibu Village.
+
+###5206
+The battle memory of an extraordinary foe,
+lingering in the mind of the Wolf.
+
+Commune with a Sculptor's Idol
+and confront memories of battle to
+permanently increase Attack Power.
+
+The Great Shinobi Owl was
+foster father to the Wolf.
+
+###5207
+The battle memory of an extraordinary foe,
+lingering in the mind of the Wolf.
+
+Commune with a Sculptor's Idol
+and confront memories of battle to
+permanently increase Attack Power.
+
+The foster father confronted in old
+memories was a man in his prime.
+
+###5208
+The battle memory of an extraordinary foe,
+lingering in the mind of the Wolf.
+
+Commune with a Sculptor's Idol
+and confront memories of battle to
+permanently increase Attack Power.
+
+The Corrupted Monk guarded the bridge
+leading to the Fountainhead Palace.
+
+###5209
+The battle memory of an extraordinary foe,
+lingering in the mind of the Wolf.
+
+Commune with a Sculptor's Idol
+and confront memories of battle to
+permanently increase Attack Power.
+
+The Divine Dragon, ancient deity
+of the Everblossom.
+
+###5210
+The battle memory of an extraordinary foe,
+lingering in the mind of the Wolf.
+
+Commune with a Sculptor's Idol
+and confront memories of battle to
+permanently increase Attack Power.
+
+The one-armed demon prowled the
+battlefield, consumed by flames
+of deepest resentment.
+
+###5211
+The battle memory of an extraordinary foe,
+lingering in the mind of the Wolf.
+
+Commune with a Sculptor's Idol
+and confront memories of battle to
+permanently increase Attack Power.
+
+At his peak, Isshin Ashina devoted himself
+to deadly conflict in pursuit of strength.
+A single-minded killing machine of a man.
+
+###5212
+The battle memory of an extraordinary foe,
+lingering in the mind of the Wolf.
+
+Commune with a Sculptor's Idol
+and confront memories of battle to
+permanently increase Attack Power.
+
+Isshin Ashina was a true master of the
+sword; no less so in his vale of years.
+
+###5213
+The battle memory of an extraordinary foe,
+lingering in the mind of the Wolf.
+
+Commune with a Sculptor's Idol
+and confront memories of battle to
+permanently increase Attack Power.
+
+The Headless Guardian Ape was
+a colossal beast, plagued with the
+power of the undying.
+
+###5220
+The battle memory of an extraordinary foe,
+lingering in the mind of the Wolf.
+
+Commune with a Sculptor's Idol
+and confront memories of battle to
+permanently increase Attack Power.
+
+Deep within the mind, Genichiro stirred,
+his tenacity undying even in memory.
+Ashina demands one become stronger still.
+
+###5221
+The battle memory of an extraordinary foe,
+lingering in the mind of the Wolf.
+
+Commune with a Sculptor's Idol
+and confront memories of battle to
+permanently increase Attack Power.
+
+Deep within the mind, the father stirred.
+The man Wolf confronted in memory was 
+more than Owl could ever have hoped to be.
+
+###5222
+The battle memory of an extraordinary foe,
+lingering in the mind of the Wolf.
+
+Commune with a Sculptor's Idol
+and confront memories of battle to
+permanently increase Attack Power.
+
+Deep within the mind, Isshin stirred.
+Even in memory, his cloudless thoughts
+spurred a relentless pursuit of strength.
+
+###5300
+The battle memory of an extraordinary foe.
+Although distant, recollection of such a
+memory provided sustenance for the Wolf.
+
+Gyoubu Oniwa once led a group of infamous
+bandits, but was defeated by Isshin, who
+was so captivated by his show of strength
+that he took him in as an Ashina warrior.
+Oniwa would later go on to become
+Genichiro Ashina's most trusted retainer.
+
+###5301
+The battle memory of an extraordinary foe.
+Although distant, recollection of such a
+memory provided sustenance for the Wolf.
+
+The Phantom Lady Butterfly was appointed
+by the Wolf's foster father as one of his
+mentors in shinobi techniques.
+These mentors employed strict methods.
+The cultivation of shinobi techniques can
+only be achieved in the midst of battle.
+
+###5302
+The battle memory of an extraordinary foe.
+Although distant, recollection of such a
+memory provided sustenance for the Wolf.
+
+Born a peasant, Genichiro Ashina was taken
+in by the Ashina after his mother's death.
+With his country on the brink of defeat,
+Genichiro took to heretical arts and
+mastered the Lightning of Tomoe.
+Such heresy may be the key to saving her.
+
+###5303
+The battle memory of an extraordinary foe.
+Although distant, recollection of such a
+memory provided sustenance for the Wolf.
+
+The Halls of Illusion lie on the threshold
+betwixt life and death.  Departed souls of
+the Divine Children drift and sway, taking
+shelter in the monkeys of the temple.
+Such is why the Divine Child of
+Rejuvenation speaks of them as friends.
+
+###5304
+The battle memory of an extraordinary foe.
+Although distant, recollection of such a
+memory provided sustenance for the Wolf.
+
+They say that an infested body is the mark
+of the undying, but such a long life would
+surely be quite lonesome for even an ape.
+
+Perhaps the echoing roar of the Guardian
+Ape was in fact a solicitation of sorts...
+
+###5305
+The battle memory of an extraordinary foe.
+Although distant, recollection of such a
+memory provided sustenance for the Wolf.
+
+The Corrupted Monk donned the mask
+of a fierce guardian deity. Her form was
+nebulous, appearing as if in a dream.
+
+What reason could there have been for
+guarding the Mibu Village cave entrance?
+
+###5306
+The battle memory of an extraordinary foe.
+Although distant, recollection of such a
+memory provided sustenance for the Wolf.
+
+The Great Shinobi Owl's unbridled ambition
+was to obtain the power of the Dragon's
+Heritage. Now is the time to let one's true
+name ring out across all of Japan.
+
+It was all for the sake of this ambition.
+
+###5307
+The battle memory of an extraordinary foe.
+Although distant, recollection of such a
+memory provided sustenance for the Wolf.
+
+Owl took in the hungry cub on a whim and
+raised him as a shinobi. The process was
+so engrossing that he hoped they might
+enjoy a true battle to the death some day.
+
+He got his wish, if only in an old memory.
+
+###5308
+The battle memory of an extraordinary foe.
+Although distant, recollection of such a
+memory provided sustenance for the Wolf.
+
+The Corrupted Monk was among the infested,
+standing over the Fountainhead Palace.
+Indeed, immortality would seem a fitting
+quality for eternal watcher of the palace.
+
+Her true name is Priestess Yao.
+
+###5309
+The battle memory of an extraordinary foe.
+Although distant, recollection of such a
+memory provided sustenance for the Wolf.
+
+The Divine Dragon of the Everblossom came
+from the west long ago, eventually making
+its way to this land.
+Some parts of Ashina are exceedingly old.
+Water coursing through her ancient rocks
+and soil allowed the Dragon to take root.
+
+###5310
+The battle memory of an extraordinary foe.
+Although distant, recollection of such a
+memory provided sustenance for the Wolf.
+
+A man who failed to become Shura instead
+became a vessel for the flames of hatred.
+As fate would have it, he was bound
+stubbornly to this world.
+It wasn't until he became a demon that he
+was finally able to depart for the next.
+
+###5311
+The battle memory of an extraordinary foe.
+Although distant, recollection of such a
+memory provided sustenance for the Wolf.
+
+One who returns from the great beyond
+does so at the peak of their prosperity.
+Isshin coveted strength and all manner of
+techniques throughout his mortal struggle.
+He wished for war until his final hour,
+and that is precisely what he got.
+
+###5312
+The battle memory of an extraordinary foe.
+Although distant, recollection of such a
+memory provided sustenance for the Wolf.
+
+The elderly Isshin was akin to a sharpened
+blade.  His steadily honed techniques
+culminated in the Ashina Style, soundly
+eliminating all wasted or idle movement.
+A master who took the spirit of his craft
+to its pinnacle; a true sword saint.
+
+###5313
+The battle memory of an extraordinary foe.
+Although distant, recollection of such a
+memory provided sustenance for the Wolf.
+
+At one time the Guardian Ape shared its
+den with a mate.  But he alone became
+infested, while the other passed away.
+
+Now, even the flowers offered in tribute
+to her passing have withered to dust.
+
+###5320
+The battle memory of an extraordinary foe.
+Although distant, recollection of such a
+memory provided sustenance for the Wolf.
+
+A young Genichiro watched as Tomoe danced.
+Her movements held secrets and a height of
+technique that not even a lifetime
+could attain.  And yet in memory, after
+countless bouts with his mortal enemy,
+Genichiro at last reached those heights.
+
+###5321
+The battle memory of an extraordinary foe.
+Although distant, recollection of such a
+memory provided sustenance for the Wolf.
+
+Owl once abandoned the young Wolf in
+Usui Forest, expecting him to fend against
+the illusions, likely never to return.
+Only in victory would he recognize the
+boy as his son.  In this way, and this way
+alone, he raised the Wolf as his own.
+
+###5322
+The battle memory of an extraordinary foe.
+Although distant, recollection of such a
+memory provided sustenance for the Wolf.
+
+All his life, Isshin sought opponents
+whom he could face in battle to the death.
+It would be foolish to believe that his
+thirst could be sated in memory.
+To face the one who cut him down...
+How the blood boils at the thought.
+
+###5500
+A fragment of an old dancer's mask.
+The original must have been broken into several pieces, and this fragment appears to be the right side of the mask.  
+
+###5501
+A fragment of an old dancer's mask.
+The original must have been broken into several pieces, and this fragment appears to be the left side of the mask.  
+
+###5502
+A fragment of an old dancer's mask.
+The original must have been broken into several pieces, and this fragment appears to be a decoration at the top of the mask.
+
+###5510
+A dragon's head dancing mask, made whole by piecing the fragments back together.
+Grants the ability to exchange Skill Points for Attack Power in the Sculptor's Idol menu.
+The Okami warrior women would wear this to the Fountainhead Palace.  There, they would dance as an offering for the dragon.  Mysteriously, the ritual left them brimming with vigor.
+
+###5600
+An item that is rarely dropped by a Divine Heir of the Dragon's Heritage.
+Using it will slightly increase Resurrective Power.
+Restore the power of life to those who have been drained of it by offering this drop to the Sculptor's Idol with the Recovery Charm in hand.  In turn, all afflicted with the Dragonrot will be healed.
+The incessant coughing must cease.
+
+###6000
+Iron dregs mined in Ashina.
+
+Widely used for basic reinforcement, it can serve as a base material for Prosthetic Tool upgrades.
+
+Ashina is burdened with thick snow
+and infertile land, but the scrap iron
+dug from her soil is anything but crude.
+
+###6010
+Magnetic ore mined in Ashina.
+
+Base material commonly used in
+Prosthetic Tool upgrades of
+intermediate and higher rank.
+
+Forging with magnetite produces a hard
+steel; a precious commodity in Ashina.
+Bedrock offering up this ore is constantly
+mined out, making it a rare one at that.
+
+###6020
+Adamantine ore with a dull, silvery shine.
+
+Base material commonly used in
+advanced Prosthetic Tool upgrades.
+
+Adamantite can only be mined in the oldest
+parts of Ashina.  Ancient rock and soil is
+said to attract the grace of gods, perhaps
+lending this metal its supple strength.
+
+###6100
+Black grains forming the
+base for gunpowder.
+
+Material used in alchemical
+Prosthetic Tool upgrades,
+including those of an explosive
+and occultic nature.
+
+Even the most mundane form of gunpowder
+has a wide variety of applications.
+
+###6200
+Amber-colored grains forming the base
+for powerful gunpowder.  A precious
+commodity only found in the Sunken Valley.
+
+Used for explosive Prosthetic Tool
+upgrades of intermediate and higher rank.
+
+The yield from yellow powder is greater
+than that of black, lending the valley
+stronghold defenses their fiery vigor.
+
+###6210
+Highly precious grains forming the base
+for a devastating form of gunpowder.
+
+Used in explosive Prosthetic Tool upgrades
+of advanced rank.
+
+Created in secret by the Interior Ministry
+using knowledge from across southern seas.
+The central forces' military might owes
+much to this tiny tweak of chemistry.
+
+###6300
+These lumps of fatty wax form inside the body in rare circumstances.
+
+Can be used for intermediate and higher Occultic upgrades for Prosthetic Tools.
+
+Considered omens of disease, they are known to grow larger as the illness worsens.
+
+###6310
+A lump of fatty wax that has formed
+inside the body and turned pitch black.
+
+Used for occultic Prosthetic Tool
+upgrades of an advanced nature.
+
+A long-suffered illness will see the
+growth turn large and blacker still.
+It is customary to run water over the
+site of an extracted growth.
+
+###6400
+Precious azure lazulite, used for the
+highest level of Prosthetic Tool upgrades.
+
+Fountainhead lazulite is a symbol of
+eternity, and anything forged with it
+will never break nor rust thanks to
+the blessing of the Divine Dragon.
+Tools forged with lazulite transcend
+human intellect, and are dubbed as
+treasures of the Divine Dragon.
+
+###9000
+Tears received from the Divine Dragon.
+The gracious gift of tears can only be
+granted by the Mortal Blade.
+
+The body of the Divine Dragon is eternal,
+and its tears, once shed, will maintain
+their form and moisture in perpetuity.
+Should one of the Dragon's Heritage
+partake of the dragon's tears,
+Immortal Severence will be reified.
+
+###9003
+Charm received from Kuro.
+
+Placed on the Wolf's person in secret,
+after he lost his life in Hirata Estate
+and gained the power of Resurrection.
+
+The charm has protected the Wolf well,
+tempering his ordeals.
+To part with it would mean facing a path
+of hardship beyond that endured thus far.
+
+###9009
+Pale pink crystal residue known to form
+when an immortal oath fails to establish.
+
+Increases Resurrective Power,
+allowing one additional resurrection.
+
+To repeat the vows of the undying and
+be awarded Resurrective Power once
+more surely necessitates the aid of a
+Divine Child of the Dragon's Heritage.
+
+###9010
+A bell charm received from an old woman, who asked that it be offered to Buddha.
+
+Bell charms protect their holders through Buddha's divine protection.  If one finds themselves the owner of another's bell charm, offering it to Buddha on their behalf is common courtesy.
+The Sculptor at the Dilapidated Temple
+can advise on how it should be offered.
+
+###9011
+A bell charm previously owned by the Owl.
+
+The Owl held this bell for a long time.
+Offering it at the Dilapidated Temple may result in seeing a different memory than before.
+There's no way of knowing why this protective bell exists.  Perhaps the Owl kept it for himself, or perhaps he meant to give it to someone...
+
+###9020
+A letter thrown into a well.
+
+"Kuro's Wolf,
+Your destiny awaits you
+at the moon-view tower.
+Escape from the well and find the
+tower bathed in moonlight.
+
+Even without a blade, you can reach it.
+Stay silent.  Stay vigilant."
+
+###9052
+A carp that lived in the Mibu Village Pond.  
+It has two red eyes.
+Carp with only eyes that are red cannot become "masters".
+Though they're considered incomplete creatures that lack the ideal number of scales, their eyes are said to be everlasting.
+The researcher Dojun in the Abandoned Dungeon wants these eyes to improve his "procedure".
+
+###9060
+A tally board carved from a large piece of jade.
+Possessing this increases the stocks that can be purchased in merchants' shops.
+Such a tally board is highly prized by the merchant class.  Old custom dictates that those of dragon rank are recognized as supreme merchants by the imperial palace, and should be given the best possible treatment.
+
+###9061
+An Ashina trade promissory note.
+
+Matabei Anayama's last piece of product.
+
+Discounts the cost of items when purchasing from merchants.
+
+A sen saved is a sen earned.
+And so long as one draws breath, business will continue.
+
+###9070
+A cup filled with divine waters, a drink popular with nobles of the palace.
+
+When a wedding procession arrives at the Fountainhead palace, this is the drink they are greeted with.
+
+"The nectar of the palace nobles.
+Go ahead, drink to your heart's content."
+
+###9071
+A priceless white whisker taken from the Great Colored Carp.
+While the Great Carp is naturally immortal, if killed, its whiskers can be plucked.
+The sound of the whisker being removed
+is surely music to the ears of certain people.
+Some would feel relief at the sound of their mission being completed, others, the joy of having their heart's desire granted.
+
+###9080
+A small pinwheel made of red and white paper.
+Found about halfway up Mount Kongo.
+
+The red and white pinwheels simply spin round and round.
+Everyone is right here.
+
+###9081
+A small pinwheel made of white paper.
+Found below a cliff at Mount Kongo.
+Perhaps it was carried there by the wind.
+
+It is simply a single, pure white pinwheel.
+Only the child is right here.
+
+###9090
+Rice that has spilled forth from the hand of the Divine Child of Rejuvenation.
+Intended to be a gift for Kuro.
+
+"Rice is precious.
+I want nothing more than for the Divine Heir of the Dragon's Heritage to get better."
+
+Kuro would likely be pleased to receive it.
+
+###9091
+Tears that were shed by the Divine Child of Rejuvenation once she became the cradle.
+They are but frozen drops.
+
+By having Kuro drink both the
+Dragon Tears and Frozen Tears,
+the Cradling ritual can be performed.
+
+Cold Dragon Tears are just that.
+
+###9100
+A bottle of Ashina-brewed sake.
+Sake is a drink meant for sharing.
+
+While it does not contain water from the fountainhead, it is made from the purest of waters, and is a drink beloved by the people of Ashina.
+
+###9101
+A bottle of cloudy, unrefined sake.
+Sake is a drink meant for sharing.
+
+This cloudy sake is one of Isshin Ashina's favorites.  It has a rich, full-bodied flavor.
+
+On the other hand, it has a reputation for getting one too drunk, too quickly.
+
+###9102
+Alcohol created by dew pooled in a hollow tree.
+
+Fruits hidden by monkeys in tree hollows can sometimes ferment and turn into sake with a bit of luck.
+
+While it's known for its brutally harsh flavor, some find this acquired taste irresistible.
+
+###9103
+A bottle of crystal-clear sake.
+Sake is a drink meant for sharing.
+A top-shelf sake brewed by the Ashina brew master with water from the Dragonspring.
+The pure water extracts every last bit of flavor from Ashina's finest rice.
+There are no words that can do the flavor justice.  To understand, one must taste it for themselves.
+
+###9104
+A bottle of Ashina sake given by Emma.
+Sake is a drink meant for sharing.
+
+While it does not contain water from the fountainhead, it is made from the purest of waters, and is a drink beloved by the people of Ashina.
+
+###9105
+A bottle of cloudy, unrefined sake, given by Isshin.
+Sake is a drink meant for sharing.
+
+This cloudy sake is one of Isshin Ashina's favorites.  It has a rich, full-bodied flavor.
+
+On the other hand, it has a reputation for getting one too drunk, too quickly.
+
+###9180
+This is precious bait.
+
+The texture is slimy, and something resembling horns seem to jut out of it.  
+Just the kind of bait the "master" loves.
+
+"Ring the bell, drop the bait."
+
+###9181
+This is truly precious bait.
+
+If bait has hair, you know it's something truly special.  
+The Hirata noble in the pot is obsessed with thoughts of becoming a "master".
+
+"He who receives the scales of the carp becomes closer to a carp himself...  
+I bestow unto you my secret treasure."
+
+###9182
+This is truly precious bait.
+
+If bait has hair, you know it's something truly special.  
+The Fountainhead Palace noble in the pot is obsessed with becoming one with the "master."
+"Present this bait to the master, the Great Carp.  Offer it earnestly, but quietly, so no one knows..."
+
+###9192
+The persimmon-like heart of a Great Serpent.
+
+The Great Serpent is considered to be 
+a god of the land, and the heart is believed
+to be where one's spirit resides.
+While its shape bears similarity to a persimmon, in fact this is the red viscera
+of a god.  It is safe to assume that eating
+it would be poisonous to one's health.
+
+###9193
+A dried, persimmon-like heart of a Great Serpent.
+The Great Serpent is a god of the land, and the heart is believed to be where one's spirit resides.
+While it looks much like a persimmon, in fact this is the red viscera of a god.
+Apparently, denizens of the Sunken Valley worship the organs believing they represent the deity itself.
+
+###9200
+A page torn from the Ashina Herb Catalogue, a compendium of flowers and herbs.
+"The 'Snap Seed' naturally grows in ravines and deep valleys.
+According to denizens of the Sunken Valley, such places are appropriate for offering oneself in marriage to the Great Serpent.
+If one wishes to become a bride, they must enter the belly of the Serpent in the valley."
+
+###9205
+An old note left by the surgeon Dosaku:
+
+My disciples have abandoned me for Dogen.  Unwilling to dirty their own hands,
+they all left me for that hypocritical quack.
+
+Dojun! My last disciple!
+Even if I die, the research must continue.
+Finish the procedure, for Ashina's sake.
+                                                            -Dosaku
+
+###9206
+A description of the "rats" that have snuck into Ashina.  Speak to the Tengu again once the rats are dealt with.
+
+The rats:
+- Assassins from Senpou Temple
+- Short stature, wear bamboo hats
+- A number of rats are lurking about
+- Last seen around Ashina Castle Gate
+
+###9207
+A worn and bloodstained letter from Dosaku, the surgeon in the Abandoned Dungeon:
+   Required: 1 tough man
+   Preferably a strong samurai, or a young, 
+   large soldier such as a member of
+   the Taro Troop.
+
+   Must be delivered unharmed.
+                                                               -Dosaku
+
+###9208
+A tattered, blood-covered note written by Dosaku, the surgeon in the Abandoned Dungeon.
+
+   At the bottom of the Mibu Village pond,
+   You will find a Sakura carp.
+   You will know it from its red eyes, 
+   which are said to never rot.   
+   I require those red eyes.
+                                                                -Dosaku
+
+###9209
+Sacred passage on a path to enlightenment.
+"Undying, I pray for the Dragon's return.
+Undying, lo, let us wait an age; for the
+Divine Heir to assimilate the cold dragon
+tears; for the cradle to consume
+the pair of serpentine fruits.
+
+Let the cradle endure, giving Him shelter;
+granting His return to the west."
+ 
+
+###9210
+A book from Kuro on the art of
+severing ties with the Dragon's Heritage.
+It looks old.  The binding is torn,
+and several pages are missing.
+
+"Herein describes the means to perform
+the Rite of Immortal Severance.
+Beyond the Fountainhead Palace, locate
+the Sanctuary and imbibe the tears of
+the holy dragon of the divine realm."
+
+###9211
+Part of the Book of Immortal Severance, left behind by Takeru.
+"With Mortal Blade in hand,
+my blood may be shed.
+
+With my blood, the aroma will be complete,
+the divine realm will be in reach.  
+Immortal Severance will be at hand.
+I must ask Tomoe to assist with the beheading..."
+
+###9212
+A note from Kuro, written by Takeru,
+former Heir of the Dragon's Heritage.
+
+"It is said that relatives of Tomoe once
+gathered the Fountainhead Fragrance
+and arrived at the palace.
+
+You may find a key where the waters of
+rejuvenation converge in a deep pool.
+A white and deeply fragrant flower..."
+
+###9213
+An old note left by the Okami clan, who sought to reach the divine realm.
+
+"A fragrant stone, enshrined in a village 
+within the depths of Ashina.
+One must throw oneself for it to be found.
+With this, the fountainhead fragrance is complete.
+Let us depart now, to the divine realm."
+
+###9214
+An old diary entry written by Takeru's page.
+
+"Lord Takeru held his arm over the incense burner, and attempted to cut it with a sword.  But incredibly, his wound healed instantly, and not a drop of blood was shed.
+Lady Tomoe said,
+'Without it, your blood cannot be spilled.'
+
+What could she be referring to, I wonder?"
+
+###9215
+A passage describing a journey to enlightenment.
+"For an age, I have been blessed by the worm.  To be undying is to walk the eternal path to enlightenment, thus I must become enlightened to understand why I cannot die.  It is said the holy dragon's origins were in the west. So I wonder, how did the worm come to be bestowed upon me?"
+
+###9216
+A note written in Tomoe's soft handwriting.
+"Lord Takeru's coughs are worsening still;
+Returning to the divine realm is hopeless, and I wish only to sever the Dragon's Heritage and restore his humanity.
+Restoration requires the Everblossom and Mortal Blade, and yet I cannot acquire the latter.  It was hidden by the High Priest of Senpou Temple, who has no desire to sever the immortal ties..."
+
+###9217
+A tattered note written by Anayama.
+Seems to be from some years ago.
+
+"Lucrative info #36
+
+When we broke into Hirata Estate,
+we found a barrel that spewed flame.
+The boys lit a roaring bonfire with it
+and made merry with the drink.
+Must have been a shinobi's tool."
+
+###9218
+A note on smoke signals used by 
+Ashina shinobi, the Grey Nightjars.
+
+"Pale, pink smoke signals are placed
+along the rooftops of Ashina Castle.
+
+These signals guide the Nightjar.
+
+The ashen-feathered flock are surely the
+only ones able to follow such a trail."
+
+###9219
+A note left by Isshin in the watchtower.
+Perhaps Emma knows his current whereabouts.
+
+    Dear Emma,
+
+    The Ashina Castle Gate has grown loud 
+    with the sound of scurrying.
+    The Tengu will see to the rats.
+    Worry not.
+　　　　　　　　　　　　　Isshin
+
+###9220
+A note left by a dead and rotting man in the Abandoned Dungeon.
+
+"Supposedly the fragrant stone is enshrined in a village in the Ashina Depths.  But how to interpet 'throw oneself'?
+This is as far as that old Okami tome could take me. But did they truly reach the Fountainhead Palace?  I'd like to know, but it seems I never will.  Kotaro... forgive me..."
+
+###9221
+A memo detailing the whereabouts of a kodachi short sword known as Sabimaru.
+
+Must be purchased to read the content.
+
+###9222
+A memo detailing the whereabouts of a kodachi short sword known as Sabimaru.
+The ancient kodachi Sabimaru can be found within Ashina Castle, enshrined in the bottom floor of the keep.
+Sabimaru was wielded in wars of old,
+and is a national treasure of Ashina.  
+Supposedly the blade's poisonous blue rust could drive off even the inhuman Okami warrior women.
+
+###9223
+A note about apparitions in the Sunken Valley.
+
+Must be purchased to read the content.
+
+###9224
+A note about apparitions in the Sunken Valley.
+"Apparitions have been sighted in the
+Guardian Ape of the Sunken Valley's old den.  Angry spirits, with many faces.
+The Guardian Ape's old den can be found
+at the bottom of the Sunken Valley, not far 
+from the Forest of Mist.
+Also, some reported they could hear the 
+sound of a woman crying in the distance..."
+
+###9225
+A memo describing the three-storied pagoda.
+
+Must be purchased to read the content.
+
+###9226
+Memo describing the three-story pagoda.
+
+"It is said a precious treasure was once
+held within the Hirata Estate pagoda;
+a three-fold tower stood upon a precipice
+along a slope lined with bamboo groves.
+
+Seems the treasure is related to shinobi
+techniques. The truth of it escapes me,
+but they called it 'blessed mist'..."
+
+###9227
+An old text describing a black Mortal Blade.
+
+"In addition to the red Mortal Blade, there exists one that is black in color.
+The blade's name is "Open Gate", and is said to hold the power to open a gate to the underworld.
+It is through this power that it creates life.
+I beseech you, make offerings for the Dragon's Blood..."
+
+###9228
+A holy book on enlightenment, inscribed
+"For the Divine Child of Rejuvenation".
+"For an age, I have been blessed by the worm.  To be undying is to walk the eternal path to enlightenment, thus I must become enlightened to understand why I cannot die.  It is said the holy dragon's origins were in the west. So I wonder, how did the worm come to be bestowed upon me?"
+
+###9402
+The key to a samurai gatehouse located in the Ashina Reservoir, not far from the well the Wolf was kept in.
+Here, Gyoubu the Demon's Broken Horn
+is respectfully guarded by Ashina samurai.
+The Broken Horn is the spear blade once wielded by Gyoubu the Demon.  It's said that no prey can escape Gyoubu's horn.  
+It pulls enemies in, and is even capable of stripping an enemy's armor.
+
+###9403
+The key to the Hidden Temple in the Hirata Estate, given by the Owl.
+
+The secret temple is located in the very back of the Hirata Estate.
+
+"Two,
+The lord is absolute.
+Defend him with your life.  
+If he is taken, bring him back at any cost."
+
+###9404
+The key to the secret passage that leads out of Ashina Castle.
+
+The secret passage can be found at the end of the moat in the Ashina Reservoir, not far from the Moon-view Tower.
+
+Kuro has escaped the castle through this passage, and the Wolf looks to join him there.
+
+###9405
+The key to a shrine deep within the gun fort.
+The gate behind the shrine's idol is made to be opened.
+The Sunken Valley clan will shoot any stranger who approaches, and the Snake Eyes' guns are particularly feared.  
+This elite group of women are descendents of the ancient Okami Clan.  
+Their especially sharp eyes allow them to snipe victims at great range.
+
+###9500
+Somewhere, a pained cough rings out continuously.
+
+The man who coughs zealously sculpts statues of Buddha to avoid being consumed by the building flames.
+
+Owning this item reduces one's chances of receiving Unseen Aid.
+
+###9501
+Somewhere, a pained cough rings out continuously.
+
+The coughing and wheezing comes from one who travels frequently, looking to expand his business.
+
+Owning this item reduces one's chances of receiving Unseen Aid.
+
+###9502
+Somewhere, a pained cough rings out continuously.
+
+The coughing and wheezing comes from a man who wants nothing more than to return to an abandoned place.
+
+Owning this item reduces one's chances of receiving Unseen Aid.
+
+###9503
+Somewhere, a pained cough rings out continuously.
+
+The coughing and wheezing sounds of one who seems to be a lost child in a large body.
+
+Owning this item reduces one's chances of receiving Unseen Aid.
+
+###9504
+Somewhere, a pained cough rings out continuously.
+
+The coughing and wheezing sounds of a man who is enamored with a beautiful melody.
+
+Owning this item reduces one's chances of receiving Unseen Aid.
+
+###9505
+Somewhere, a pained cough rings out continuously.  
+The coughing and wheezing are coming from a deeply troubled pair of researchers who are nonetheless tireless in their work.
+
+Both are coughing at once.
+
+Owning this item reduces one's chances of receiving Unseen Aid.
+
+###9510
+Somewhere, a pained cough rings out continuously.
+
+The coughing and wheezing sounds of a man thinking only of his sick mother.
+
+Owning this item reduces one's chances of receiving Unseen Aid.
+
+###9511
+Somewhere, a pained cough rings out continuously.
+
+The coughing and wheezing sounds of a man who is both frightened and thirsty.
+
+Owning this item reduces one's chances of receiving Unseen Aid.
+
+###9515
+Somewhere, a pained cough rings out continuously.
+
+The coughing and wheezing sounds of an old woman deeply worried about her beloved master.
+
+Owning this item reduces one's chances of receiving Unseen Aid.
+
+###9516
+Somewhere, a pained cough rings out continuously.
+
+The coughing and wheezing sounds of an old woman of great faith.  Keeping one's faith even when driven mad allows one to see certain things.  Thank heavens...
+
+Owning this item reduces one's chances of receiving Unseen Aid.
+
+###9520
+Somewhere, a pained cough rings out continuously.
+
+The coughing and wheezing sounds of a man who takes great pride in memorializing the dead.
+He holds service somewhere in Ashina Outskirts.
+
+Owning this item reduces one's chances of receiving Unseen Aid.
+
+###9521
+Somewhere, a pained cough rings out continuously.
+
+The coughing and wheezing sounds of one who is near death.
+The man who coughs has witnessed endless battles, making offerings to the dead in the battlefield outside Ashina Castle Gate.
+
+Owning this item reduces one's chances of receiving Unseen Aid.
+
+###9522
+Somewhere, a pained cough rings out continuously, the coughing and wheezing sounds of one who is near death.
+
+The man who coughs seems to be one who frequently sees those gruesomely abandoned.  Even so, he continues to make offerings to the dead.
+Owning this item reduces one's chances of receiving Unseen Aid.
+
+###9523
+Somewhere, a pained cough rings out continuously.
+The coughing and wheezing sounds of one who is near death.
+
+He who coughs finds himself near poisonous pools.  He works to make offerings to those Buddha cannot save.
+Owning this item reduces one's chances of receiving Unseen Aid.
+
+###9524
+Somewhere, a pained cough rings out continuously.
+
+The coughing and wheezing sounds of a man who holds memorials for the dead, in a place where Buddha has been forgotten.
+
+Owning this item reduces one's chances of receiving Unseen Aid.
+
+###9525
+Somewhere, a pained cough rings out continuously.
+
+The coughing and wheezing sounds of a drunk who has forgotten the sincerity of offerings, yet offers them regardless.
+
+Owning this item reduces one's chances of receiving Unseen Aid.
+
+###9526
+Somewhere, a pained cough rings out continuously.
+
+The coughing and wheezing sounds of a man who makes his living dealing in information, yet cannot remove himself from compassion.
+
+Owning this item reduces one's chances of receiving Unseen Aid.
+
+###9560
+Blood sample of a Dragonrot victim.
+Contains stagnated blood.
+
+Emma can use this to find a cure for Dragonrot.
+
+###9700
+A mechanical device made by the mechanical genius Dogen.
+Can be fit into the Shinobi Prosthetic to become a working Prosthetic Tool.
+While it is palm-sized, a surprising number of shuriken can fit into the Shuriken Wheel, 
+as the edges were designed for stacking.
+A fine example of what can be achieved when one matches mechanical finesse with a Shinobi's talent.
+
+###9701
+A kunai used by Lady Butterfly that can be used to upgrade the Loaded Shuriken.
+A ringing sound is heard when the kunai is thrown, and phantom butterflies appear in the kunai's trail. Since childhood, Lady Butterfly had accumulated much experience in Usui's forest, far from civilization along Tozan Trail.  His forest is filled with mist and mystifications, making it ideal for training in illusion techniques.
+
+###9710
+Firecrackers from across southern seas.
+Can be fitted to the Shinobi Prosthetic
+to become a Prosthetic Tool.
+
+Makes a deafening sound, frightening to
+animals.  Sold by little Robert and his
+father to raise funds for their travels.
+Their voyage brought them to Japan,
+where they would seek the "Undying"
+in an attempt to extend Robert's life.
+
+###9720
+An iron barrel that spews fire.
+Can be fitted to the Shinobi Prosthetic to become a Prosthetic Tool.
+
+It is difficult to control the rage-filled Red-eyes with the power of man alone.
+
+However, a fire-based weapon could
+be a means of resisting them.
+They are said to fear fire above all else.
+
+###9721
+A piece of resin that contains a continuously smoldering flame.  Can be used to upgrade the Flame Vent.
+The resin was found in a black pine within the forests of Mibu Village.  The ever-smoldering flames acted as a landmark to find one's way to the village.  In time the villagers came to loathe the flames, and the black pines were lost.  Those who defended the flame were equally loathed.
+
+###9730
+A heavy, black iron axe used by shinobi.
+Can be fitted to the Shinobi Prosthetic to become a working Prosthetic Tool.
+
+This boorish axe is used less for cutting and more for breaking things with its weight.  Once the favored weapon of a shinobi known as the "Bounding Monkey of the Sunken Valley," it was lost along with his left arm.
+
+###9740
+A bundle of Mist Raven feathers.
+Can be fitted to the Shinobi Prosthetic
+to create a Prosthetic Tool.
+In Usui Forest far to the north of Ashina,
+live many mysterious birds of prey.
+The Mist Raven is the only one to have
+eluded capture by all who have tried.
+Should you somehow manage it, you’ll
+find it gone, only feathers in your grasp.
+
+###9750
+An ancient kodachi short sword,
+its blade mottled with bluish rust.
+Can be fitted to the Shinobi Prosthetic
+to create a Prosthetic Tool.
+
+Forged by the Ashina clan to resist
+the inhuman evil that had invaded
+Ashina in times long forgotten.
+It was the poisonous gift of the blue
+rust that finally drove the spirits out.
+
+###9760
+An iron fan made in the far west.
+Can be fit into the Shinobi Prosthetic to become a working Prosthetic Tool.
+Experienced iron-ribbed fan users can deflect arrows and even bullets using this tool.
+Passed down through generations of assassins serving Senpou Temple, it wouldn't be surprising if the next owner decided its weight was impractical.
+
+###9770
+A large fan made of dyed red Japanese aralia leaves.  Can be fit to the Shinobi Prosthetic to become a Prosthetic Tool.
+Fanning it creates a large vortex of wind, spiriting away those it catches.
+"Divine Abduction through an eight-handed fan.  Once is fine, but twice and you'll never return.  If abducted, we'll head to Mt.  Kongo. At Senpou Temple we'll perform virtuous deeds."
+
+###9780
+Famed horn-spear once used by Gyoubu
+Masataka Oniwa.  Affix to the Shinobi
+Prosthetic to create a Prosthetic Tool.
+
+The horn contracts to pull enemies in,
+also capable of stripping crude armour.
+When the horn was broken during the
+rebellion, Isshin praised it for its
+"splendid shape," awarding Oniwa with
+the cross-bladed spear of Shuzen Tamura.
+
+###9790
+The slender finger of a young woman.
+Can be fitted to the Shinobi Prosthetic to create a Prosthetic Tool.
+
+Found in the belly of the Guardian Ape, it is partially digested.
+There is a shinobi technique called the Finger Whistle that can drive beasts wild.
+The one who used it before clearly used it for this purpose, as evidenced by the finger's open hole.
+
+###9791
+An old ring well-suited for slender fingers.
+"Kingfisher" is engraved on the underside.
+Can be used to upgrade the Finger Whistle Prosthetic Tool.
+
+Wearing this ring as you blow the finger whistle will create a somber tune.
+The weeping voice is full of solitude and beauty.  Possibly somber enough to temporarily quell a voice of rage.
+
+###9800
+Memories left behind by another.
+Concentrate on these inmost regrets or
+obsessions at a Sculptor's Idol to change
+the Wolf's appearance.
+Has no effect on ability.
+
+Memory of Shura told via Ashina folksong:
+"Fields of bodies, mountains of dead
+Down Dragonspring river, our country bled
+A fiery god, demon wolf in red."
+
+###9810
+Memories left behind by another.
+Concentrate on these inmost regrets or
+obsessions at a Sculptor's Idol to change
+the Wolf's appearance.
+Has no effect on ability.
+
+The memory of a shinobi that once served
+Ashina.  It is accompanied by a debt of
+gratitude; to the one who took his arm
+and graced him with the name Sekijo.
+
+###9820
+Memories left behind by another.
+Concentrate on these inmost regrets or
+obsessions at a Sculptor's Idol to change
+the Wolf's appearance.
+Has no effect on ability.
+
+The memory of the Tengu of Ashina.
+It is accompanied by a strong desire.
+If you see a rat, it must be killed.
+
+###9830
+A memory of Wolf's original form.
+
+Concentrate on this memory at a
+Sculptor's Idol to revert the Wolf
+to his original appearance.
+
+Naturally, Wolf's original form
+is also his best-fitting one.
+
+###10000
+A sparkling scale from a Treasure Carp.
+
+To the average person it is just a beautiful scale.
+
+But there are some who exalt a certain "master", who consider these scales among the most precious things in the world.
+For this reason, collecting them could be worthwhile.
+
+###11000###11140
+Location:
+Ashina Outskirts
+
+###11010###11090###11160
+Location:
+Hirata Estate
+
+###11020###11080###11110###11120###11150
+Location:
+Ashina Castle
+
+###11030
+Location:
+Senpou Temple, Mt.  Kongo
+
+###11040
+Location:
+Sunken Valley Passage
+
+###11050
+Location:
+Ashina Depths
+
+###11060
+Location:
+Mibu Village
+
+###11070###11100
+Location:
+Fountainhead Palace
+
+###11130###11170###11180
+Location:
+Ashina Reservoir
+
+###11500
+???
+
+###110000
+Location:

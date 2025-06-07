@@ -1,0 +1,6 @@
+ID,Name,sortNo,manifestRate,directionalId,cateGroupId,excludeGroupId,isNegative,enableSlotTypeA,enableSlotTypeB,enableSlotTypeC,enableSlotTypeD,enableSlotTypeE,enableSlotTypeF,affinityCateId_0,affinityModifyRate_0,affinityCateId_1,affinityModifyRate_1,affinityCateId_2,affinityModifyRate_2,affinityCateId_3,affinityModifyRate_3,
+0,Nothing happens -- なにもおこらない,0,0,0,0,0,0,0,0,0,0,0,0,-1,1,-1,1,-1,1,-1,1
+1,Attack system -- 攻撃系,1,100,1,1,0,0,1,1,1,1,1,1,-1,1,-1,1,-1,1,-1,1
+2,Recovery system -- 回復系,2,100,2,2,0,0,1,1,1,1,1,1,-1,1,-1,1,-1,1,-1,1
+3,Status system -- ステータス系,3,100,3,3,0,0,1,1,1,1,1,1,-1,1,-1,1,-1,1,-1,1
+9999,,0,0,0,0,0,0,0,0,0,0,0,0,-1,1,-1,1,-1,1,-1,1

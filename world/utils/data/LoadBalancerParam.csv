@@ -1,0 +1,5 @@
+ID,Name,lowerFpsThreshold,upperFpsThreshold,lowerFpsContinousCount,upperFpsContinousCount,downAfterChangeSleep,upAfterChangeSleep,postProcessLightShaft,postProcessBloom,postProcessGlow,postProcessAA,postProcessSSAO,postProcessDOF,postProcessMotionBlur,postProcessMotionBlurIteration,shadowResolutionHalf,shadowBlur,sfxParticleHalf,sfxReflection,sfxWaterInteraction,sfxGlow,sfxDistortion,sftSoftSprite,sfxLightShaft,sfxScaleRenderDistanceScale,reserve,
+0,PS4 -- PS4,23,27,5,20,30,10,15,14,16,21,21,11,17,12,13,10,4,1,1,16,6,17,2,3,[0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0]
+1,Xbox One -- XboxOne,23,27,5,20,30,10,15,14,16,21,21,11,17,12,13,10,4,1,1,16,6,17,2,3,[0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0]
+2,Win64 -- Win64,23,27,5,20,30,10,15,14,16,21,21,11,17,12,13,10,4,1,1,16,6,17,2,3,[0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0]
+3,Stadia -- Stadia,23,27,5,20,30,10,15,14,16,21,21,11,17,12,13,10,4,1,1,16,6,17,2,3,[0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0]

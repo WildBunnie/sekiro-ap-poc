@@ -1,0 +1,12 @@
+[submodule "client/subprojects/ModEngine2"]
+	path = client/subprojects/ModEngine2
+	url = https://github.com/nex3/ModEngine2
+[submodule "client/subprojects/apclientpp"]
+	path = client/subprojects/apclientpp
+	url = https://github.com/black-sliver/apclientpp
+[submodule "client/subprojects/wswrap"]
+	path = client/subprojects/wswrap
+	url = https://github.com/black-sliver/wswrap
+[submodule "client/subprojects/openssl"]
+	path = client/subprojects/openssl
+	url = https://github.com/openssl/openssl.git

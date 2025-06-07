@@ -1,0 +1,5 @@
+ID,Name,isUnique,iconId,nameId,disableSlotRateModify,slotTypeRateA,slotTypeRateB,slotTypeRateC,slotTypeRateD,slotTypeRateE,slotTypeRateF,rankAveModifyRate,gemeffectGenParamType_0,gemeffectGenParam_0,manifestRate_0,negativizeRate_0,gemeffectGenParamType_1,gemeffectGenParam_1,manifestRate_1,negativizeRate_1,gemeffectGenParamType_2,gemeffectGenParam_2,manifestRate_2,negativizeRate_2,gemeffectGenParamType_3,gemeffectGenParam_3,manifestRate_3,negativizeRate_3,gemeffectGenParamType_4,gemeffectGenParam_4,manifestRate_4,negativizeRate_4,gemeffectGenParamType_5,gemeffectGenParam_5,manifestRate_5,negativizeRate_5,
+0,Sweet time -- あまいいしころ,0,-1,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,-1,0,0,0,-1,0,0,0,-1,0,0,0,-1,0,0,0,-1,0,0
+1,Attack power up &amp; defense power up -- 攻撃力アップ　＆　防御力アップ,1,-1,1,1,100,0,0,0,0,0,0,1,1,100,0,1,4,10,0,0,-1,0,0,0,-1,0,0,0,-1,0,0,0,-1,0,0
+2,HP regen -- HPリジェネ,0,-1,2,1,0,100,0,0,0,0,0,1,2,100,0,0,-1,0,0,0,-1,0,0,0,-1,0,0,0,-1,0,0,0,-1,0,0
+3,Max HP up -- マックスHPアップ,0,-1,3,0,0,0,100,0,0,0,0,1,3,100,0,0,-1,0,0,0,-1,0,0,0,-1,0,0,0,-1,0,0,0,-1,0,0

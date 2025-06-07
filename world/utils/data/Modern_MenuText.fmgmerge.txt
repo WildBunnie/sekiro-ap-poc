@@ -1,0 +1,1013 @@
+###ID 200
+
+###1000
+Sen
+
+###1500###1510###260041###260042
+???
+
+###3010###270000
+Acquire Skills
+
+###10010
+Number Held
+
+###10011
+In Storage
+
+###10012
+Uses
+
+###10020
+Spirit Emblem Cost
+
+###10101
+Vitality
+
+###10102
+Attack Power
+
+###10110
+Unseen Aid
+
+###11320
+-
+
+###12050
+Funds
+
+###40110
+OK
+
+###40300
+On
+
+###40301
+Off
+
+###40302
+Mild
+
+###40303
+Auto Hide All
+
+###40304
+Auto Hide Partial
+
+###40305
+Always show
+
+###40306
+Always hide
+
+###40310
+Standard
+
+###40311
+Inverted
+
+###40320
+Online Mode
+
+###40321
+Offline Mode
+
+###40330
+Defaults
+
+###40331
+Next
+
+###40350
+Controller
+
+###40351
+Keyboard/Mouse
+
+###40400
+Fullscreen
+
+###40401
+Windowed
+
+###40410
+×
+
+###40420
+Custom
+
+###40421
+Low
+
+###40422###40451
+Medium
+
+###40423
+High
+
+###40424
+Max
+
+###40430
+None
+
+###40440
+ON
+
+###40441
+OFF
+
+###40450
+Weak
+
+###40452
+Strong
+
+###50000
+All Items
+
+###50010###101013
+Quick Items
+
+###50020
+Key Items
+
+###50030
+Upgrade Materials
+
+###50100
+Prosthetic Arm Tools 
+
+###50210
+Shinobi Arts
+
+###50220
+Prosthetic Arts
+
+###50230
+Ashina Arts
+
+###50240
+Temple Arts
+
+###50250
+Mushin Arts
+
+###50300###101014###280630
+Combat Arts
+
+###50310
+Shinobi Martial Arts
+
+###50320
+Latent Skills
+
+###50330
+Ninjutsu Techniques
+
+###100010
+Equipment
+
+###100020
+Inventory
+
+###100030
+Options
+
+###100040
+Antique Map
+
+###100050
+Skills
+
+###101010
+Prosthetic Tools
+
+###101011
+Ninjutsu
+
+###101020###101021###101023###101024
+Locked
+
+###101211
+Overflow Chance
+
+###101500
+Equipped Items
+
+###104100###211109
+<?placeName@1000?>
+
+###104110###211101
+<?placeName@1100?>
+
+###104111###211102
+<?placeName@1110?>
+
+###104112###211103
+<?placeName@1120?>
+
+###104130###211104
+<?placeName@1300?>
+
+###104150
+<?placeName@1500?>
+
+###104170###211106
+<?placeName@1700?>
+
+###104200###211105
+<?placeName@2000?>
+
+###104250###211108
+<?placeName@2500?>
+
+###105010
+to next Skill Point
+
+###110000
+Game Options
+
+###110001
+Camera Options
+
+###110010
+Camera Y-axis
+
+###110011
+Camera X-axis
+
+###110012
+Reset camera Y-axis
+
+###110013
+Camera speed
+
+###110014
+Toggle auto lock-on
+
+###110015
+Auto-target
+
+###110016
+Camera auto wall recovery
+
+###110017
+Controller vibration
+
+###110100
+Sound and Display
+
+###110110
+Blood
+
+###110111
+Subtitles
+
+###110112
+HUD
+
+###110114
+Music
+
+###110115
+Sound effects
+
+###110116###110411
+Voice
+
+###110200
+Brightness
+
+###110201
+Adjust so that the image at right is barely visible.
+
+###110202
+Adjust brightness to the preferred level
+
+###110203
+Set your TV to max brightness.
+
+###110204
+Adjust to the desired saturation.
+
+###110209
+HDR
+
+###110210
+Adjust Brightness
+
+###110211
+Picture Quality Adjustment
+
+###110212
+Maximum Brightness
+
+###110213
+Saturation Adjustment
+
+###110400
+Language Options
+
+###110410
+Text
+
+###110420
+Settings will be applied after leaving this screen
+
+###110430
+Japanese
+
+###110432
+French
+
+###110433
+Italian
+
+###110434
+German
+
+###110435
+Spanish
+
+###110437
+Brazilian Portuguese
+
+###110438
+English
+
+###110440
+Polish
+
+###110441
+Russian
+
+###110448
+Traditional Chinese
+
+###110449
+Korean
+
+###110450
+Simplified Chinese
+
+###110451
+Thai
+
+###110498
+Default (Japanese)
+
+###110499
+Default
+
+###110500
+Quit Game
+
+###110700
+Network Settings
+
+###110710
+Launch Settings
+
+###111000
+Input Device Options
+
+###111010
+Device For On Screen Prompts
+
+###111020
+Mouse Controls - Sensitivity
+
+###111022
+Mouse Controls - Left/Right
+
+###111023
+Mouse Controls - Up/Down
+
+###111024###280001
+Key Config
+
+###111030###280000
+Controller Config
+
+###111100
+Graphics Options
+
+###111110
+Screen Mode
+
+###111111
+Screen Resolution
+
+###111112
+Automatic Rendering Adjustment
+
+###111113
+Quality Settings
+
+###111114###111200
+Advanced Settings
+
+###111210
+Texture Quality
+
+###111211
+Antialiasing Application
+
+###111212
+SSAO
+
+###111213
+Depth of Field
+
+###111214
+Motion Blur
+
+###111215
+Shadow Quality
+
+###111216
+Lighting Quality
+
+###111217
+Effects Quality
+
+###111218
+Volumetric Quality
+
+###111219
+Reflections Quality
+
+###111220
+Water Surface Quality
+
+###111221
+Shader Quality
+
+###111300
+No endorsement or affiliation is intended between Stadia and the manufacturers of non-Stadia controllers or consoles. STADIA, the Stadia beacon, Google, and related marks and logos are trademarks of Google LLC. All other trademarks are the property of their respective owners.
+
+###119000
+Save Settings
+
+###200500
+Commune
+
+###201000
+Dragonspring - Hirata Estate
+
+###201001
+Estate Path
+
+###201002
+Bamboo Thicket Slope
+
+###201003
+Hirata Estate - Main Hall
+
+###201004
+Hirata Estate - Hidden Temple
+
+###201005
+Hirata Audience Chamber
+
+###201100
+Dilapidated Temple
+
+###201101
+Outskirts Wall - Gate Path
+
+###201102
+Outskirts Wall - Stairway
+
+###201103
+Underbridge Valley
+
+###201104
+Ashina Castle Gate Fortress
+
+###201105
+Ashina Castle Gate
+
+###201106
+Ashina Outskirts
+
+###201107
+Flames of Hatred
+
+###201110
+Ashina Castle
+
+###201111
+Upper Tower - Antechamber
+
+###201112
+Castle Tower Lookout
+
+###201113
+Upper Tower - Kuro's Room
+
+###201114
+Great Serpent Shrine
+
+###201115
+Abandoned Dungeon Entrance
+
+###201116
+Old Grave
+
+###201117
+Upper Tower - Ashina Dojo
+
+###201120
+Near Secret Passage
+
+###201121
+Ashina Reservoir
+
+###201300
+Underground Waterway
+
+###201301
+Bottomless Hole
+
+###201500
+Hidden Forest
+
+###201501
+Mibu Village
+
+###201502
+Water Mill
+
+###201503
+Wedding Cave Door
+
+###201700
+Sunken Valley
+
+###201701
+Gun Fort
+
+###201702
+Riven Cave
+
+###201703
+Guardian Ape's Watering Hole
+
+###201704
+Poison Pool
+
+###201705
+Ashina Depths
+
+###201706
+Guardian Ape's Burrow
+
+###201707
+Under-Shrine Valley
+
+###201708
+Bodhisattva Valley
+
+###201709
+Sunken Valley Passage
+
+###202000
+Senpou Temple,  Mt. Kongo
+
+###202001
+Shugendo
+
+###202002
+Temple Grounds
+
+###202003
+Main Hall
+
+###202004
+Inner Sanctum
+
+###202005
+Sunken Valley Cavern
+
+###202006
+Bell Demon's Temple
+
+###202500
+Fountainhead Palace
+
+###202501
+Vermilion Bridge
+
+###202502
+Flower Viewing Stage
+
+###202503
+Great Sakura
+
+###202504
+Palace Grounds
+
+###202505
+Sanctuary
+
+###202506
+Mibu Manor
+
+###202507
+Feeding Grounds
+
+###202508
+Near Pot Noble
+
+###203000
+Place of Reflection
+
+###211000
+Travel
+
+###211100
+Important Places
+
+###211107
+<?placeName@1510?>
+
+###220000
+Reflection of Strength
+
+###220001
+Gauntlet of Strength
+
+###220002
+Gauntlet of Strength - Divine Heir
+
+###220003
+Gauntlet of Strength - Shura
+
+###220004
+Gauntlet of Strength - Severance
+
+###220005
+Gauntlet of Strength - Mortal Journey
+
+###220100
+Shinobi Execution Attained
+
+###220101
+Battle Available
+
+###220102
+Not Reached
+
+###225000
+Change Form
+
+###230000
+Purchase
+
+###230001###240001###260030
+Price
+
+###230003###232003
+Limit
+
+###232000
+Trade
+
+###232001
+Number Required
+
+###240000
+Sell
+
+###250000
+Create Arm Tools
+
+###250010
+Owned
+
+###250020
+Required Materials
+
+###260000
+Prosthetic Tool Upgrades
+
+###260020###270020
+Available
+
+###260021
+Unavailable
+
+###260022
+Upgrade Acquired
+
+###260031
+Req. Materials
+
+###260032
+Owned/Needed
+
+###270005
+Level
+
+###270006
+Skill Points
+
+###270021
+Not Available
+
+###270022
+Learned
+
+###280005
+Keyboard
+
+###280006
+Mouse
+
+###280010###280610
+Movement
+
+###280020
+Camera Controls
+
+###280030
+Change Equipment
+
+###280040
+Attack Action
+
+###280050
+Menu Controls
+
+###280070###290000
+Remnants
+
+###280099
+Unbound
+
+###280100
+Slow Movement Shift
+
+###280101
+Move Forward
+
+###280102
+Move Back
+
+###280103
+Move Left
+
+###280104
+Move Right
+
+###280105
+Step Dodge, (hold) Sprint
+
+###280106
+Jump
+
+###280107
+Crouch/Release Crouch
+
+###280200
+Camera Control/Change Lock-on Target - Up
+
+###280201
+Camera Control/Change Lock-on Target - Down
+
+###280202
+Camera Control/Change Lock-on Target - Left
+
+###280203
+Camera Control/Change Lock-on Target - Right
+
+###280204
+Camera Reset/Lock On
+
+###280300
+Cycle Quick Items (Forward)
+
+###280301
+Cycle Quick Items (Reverse)
+
+###280302
+Cycle Prosthetic Tool
+
+###280400
+Attack
+
+###280401
+Use Prosthetic Tool
+
+###280402
+Deflect, (Hold) Guard
+
+###280403
+Grappling Hook
+
+###280404
+Action, (hold) Collect Loot
+
+###280405
+Use Item
+
+###280406
+Eavesdrop/Touch Remnant
+
+###280500
+Pause Menu
+
+###280600
+Controls
+
+###280620
+Camera Movement
+
+###280700
+Remnant Menu/Stop Recording
+
+###291000
+Write Message
+
+###291001###320004
+Edit Message
+
+###291010
+Templates
+
+###291011
+Words
+
+###291012
+Conjunctions
+
+###291013
+Templates (2nd line)
+
+###291014
+Words (2nd line)
+
+###291015
+Remnant timer
+
+###291016
+Record Remnant
+
+###291017
+Update Message
+
+###291018
+Message Length
+
+###291019
+1 Line
+
+###291020
+2 Lines
+
+###292001
+Recorded Remnants
+
+###292002
+Viewed Remnants
+
+###292011
+Praise
+
+###292012
+Scorn
+
+###292013###292016###310000
+Ratings:
+
+###292014
+Remnant Time:
+
+###292015
+<?bloodMessageRecordTime?>s
+
+###292017
+Empty Slot
+
+###292018
+Area:
+
+###292019
+Time:
+
+###292020
+Messages
+
+###292021
+Recorded:
+
+###292022
+Viewed:
+
+###300010
+Skill Point(s)
+
+###310001
+Praise:
+
+###310002
+Scorn:
+
+###310011
+Praised
+
+###310012
+Scorned
+
+###320000
+Keep Remnant?
+
+###320001
+Keep
+
+###320002
+Discard
+
+###320003
+Resume Recording
+
+###401000
+PRESS ANY BUTTON
+
+###401001
+©2019,2020 FromSoftware, Inc. All rights reserved.  ACTIVISION is a trademark of Activision Publishing, Inc.
+
+###401100
+<?kgicon@2203?>
+
+###401301
+CONTINUE
+
+###401302###406000
+LOAD GAME
+
+###401303###406001
+NEW GAME
+
+###401304
+SYSTEM
+
+###401305###401400
+INFORMATION
+
+###401306
+LOG IN
+
+###401307
+SWITCH PROFILE
+
+###401309
+QUIT GAME
+
+###401310
+ONLINE
+
+###401311
+OFFLINE
+
+###401320
+App Ver.
+
+###401350
+SETTINGS
+
+###401351
+LANGUAGE
+
+###401401
+This title's default spoken language is Japanese.  
+
+###401402
+There is nothing new in INFORMATION
+
+###401500
+ACTIVISION SOFTWARE LICENSE AND SERVICE AGREEMENT
+
+###401501
+IMPORTANT NOTICE FOR RESIDENTS IN NORTH AMERICA ONLY: THIS AGREEMENT IS SUBJECT TO BINDING ARBITRATION
+AND A WAIVER OF CLASS ACTION RIGHTS AS DETAILED IN SECTION 16 BELOW. 
+
+###401508
+"Sekiro: Shadows Die Twice Online Services" Terms of Use
+
+###401510
+Accept
+
+###401511
+Decline
+
+###406010
+Last Saved
+
+###406020
+Play Time
+
+###500201
+Dragon's Blood stagnation has overflowed

@@ -1,0 +1,559 @@
+###ID 25
+
+###5000###620000###620100###630000###630100###640000###640100###640200###640300###640400###650000###650100###650200###650300###650400###660000###660100###660200###660300###660400###660500###660600###660700###660800###680000###690000###690100###690200###690300###690400###699000
+<?null?>
+
+###5100###210000
+<?kgiconKc@18?>+<?kgiconKc@16?>: Whirlwind Slash
+A Combat Art executed by spinning the entire body while attacking.
+
+###5200###310000
+<?kgiconKc@18?>+<?kgiconKc@16?>: Nightjar Slash
+Leap in with a spin and slash at the enemy.
+
+###5201###7000###310100
+<?kgiconKc@18?>+<?kgiconKc@16?>: Nightjar Slash
+Leap in with a spin and slash away at the
+enemy.
+
+While locked-on, hold <?kgiconKc@2?> 
+in the opposite direction of the enemy, then 
+<?kgiconKc@18?>+<?kgiconKc@16?>: Reversal 
+Slash at the target, then somersault away.
+
+###5300###410000
+<?kgiconKc@18?>+<?kgiconKc@16?>: Ichimonji
+Perform a heavy overhead strike.
+Recovers Posture when stepping in.
+
+Hold <?kgiconKc@18?>+<?kgiconKc@16?>: Honed Ichimonji
+Gather strength and release a full-powered overhead strike.
+Recovers Posture when stepping in.
+
+###5301###7100###410100
+<?kgiconKc@18?>+<?kgiconKc@16?>: Ichimonji
+Perform a heavy overhead strike.
+Recovers Posture when stepping in.
+
+Hold <?kgiconKc@18?>+<?kgiconKc@16?>: Honed Ichimonji
+Gather strength and release a full-powered overhead strike.
+Recovers Posture when stepping in.
+
+<?kgiconKc@16?> after Ichimonji or Honed Ichimonji: 
+Follow-up Ichimonji
+Perform a second overhead strike to cut down counterattacks.  
+Restores Posture when stepping in.
+
+###5400###671000
+<?kgiconKc@18?>+<?kgiconKc@16?>: Quick Draw
+Draw your sword from its sheath to slice at high speed.  Costs Spirit Emblems to use.
+
+Hold <?kgiconKc@18?>+<?kgiconKc@16?>: Dragon Flash
+Draw your sword from its sheath to slice at high speed.
+Consume Spirit Emblems to unleash a shockwave together with the slash.
+Costs Spirit Emblems to use.
+
+###5500###411000
+Hold <?kgiconKc@18?>+<?kgiconKc@16?>: Enter Sheathed Stance
+Enter the sheathed battle stance.
+
+Release <?kgiconKc@18?>: Cancel Sheathed Stance
+Leave sheathed battle stance.
+
+Release <?kgiconKc@16?>: Ashina Cross
+Draw your sword from its sheath and slice in a cross pattern at high speed.  Costs Spirit Emblems.
+
+###5600###672000
+<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>→<?kgiconKc@16?>: Floating Passage
+Deliver five dancing, consecutive attacks.
+
+###5601###7200###611100
+<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>→<?kgiconKc@16?>→<?kgiconKc@16?>→<?kgiconKc@16?>: Spiral Cloud Passage
+Deliver nine dancing, consecutive attacks.  
+These attacks emit powerful shockwaves.
+Costs Spirit Emblems to use.
+
+###5700###670000
+<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>: Mortal Draw
+Draw the Mortal Blade and cut through enemies with an extended-range sword attack.
+Costs Spirit Emblems to use.
+
+###5701###7300###612100
+<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>: Mortal Draw
+Draw the Mortal Blade and cut through enemies with an extended-range sword attack.
+Costs Spirit Emblems to use.
+
+Hold <?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>: Empowered Mortal Draw
+Focus and cut through enemies with an extended-range, even more powerful sword attack.
+Costs Spirit Emblems to use.
+
+###5800###511000
+<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>: Senpou Leaping Kicks
+Kick repeatedly after leaping.
+
+###5801###7400###511100
+<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>: Senpou Leaping Kicks
+Kick repeatedly after leaping.
+
+<?kgiconKc@16?> after Senpou Leaping Kicks →<?kgiconKc@16?>: High Monk
+Perform several sword attacks and finish with a jumping forward kick.
+
+###5900###510000
+<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>: Praying Strikes
+Repeated palm strikes following elbow strikes.
+
+###5901###7500###510100
+<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>: Praying Strikes
+Repeated palm strikes following elbow strikes.
+
+Hold <?kgiconKc@18?>+<?kgiconKc@16?>, or after Praying Strikes <?kgiconKc@16?>: 
+Exorcism
+Hurl your body into an enemy, knocking them away.
+
+###6000###211000
+<?kgiconKc@18?>+<?kgiconKc@16?>: Shadowrush
+Perform a long-range rushing thrust attack.
+Upon connecting with an enemy Wolf will jump off of them, leaping in the air.
+Leaping in the air costs Spirit Emblems.
+
+Hold <?kgiconKc@18?>+<?kgiconKc@16?>: Perform a Shadowrush attack with extended range.
+Leaping in the air costs Spirit Emblems.
+
+###6001###7600###610100
+<?kgiconKc@18?>+<?kgiconKc@16?>: Shadowrush
+Perform a long-range rushing thrust attack.
+Upon connecting with an enemy Wolf will jump off of them, leaping in the air.
+Leaping in the air costs Spirit Emblems.
+
+Hold <?kgiconKc@18?>+<?kgiconKc@16?>: Charged Shadowrush
+Spend Spirit Emblems to perform a Shadowrush attack with extended range.
+
+<?kgiconKc@16?> after leaping: Shadowfall
+Perform a spinning slice while falling to the ground.
+
+###6100###673000
+Hold <?kgiconKc@18?>+<?kgiconKc@16?>: Enter Sheathed Stance
+Assume the sheathed battle stance.
+
+Release <?kgiconKc@18?>: Cancel Sheathed Stance
+Leave the sheathed battle stance.
+
+Release <?kgiconKc@16?>: One Mind
+Spend Spirit Emblems to strike once, then perform a flurry of attacks at a speed so fast it cannot be seen by the human eye.
+
+<?kgiconKc@16?> After One Mind: Follow-up attack
+Step forward and perform a follow-up attack.
+
+###7700###674000
+<?kgiconKc@18?>+<?kgiconKc@16?>: Sakura Dance
+Spin to build momentum into a sequence of three leaping dance-like slashes.  Evade sweep attacks while delivering sharp cuts, dealing damage even through an enemy's guard.
+
+Mid-air prosthetic attacks are possible after the attack has been performed.
+Costs Spirit Emblems to use.
+
+###70000
+<?kgiconKc@17?>:Shuriken Throw
+Attack by throwing a shuriken.
+
+###70100###701000
+<?kgiconKc@17?>:Shuriken Throw
+Attack by throwing a shuriken.
+
+<?kgiconKc@17?>Hold: Spinning Shuriken Throw
+Charge the rotational power of the shuriken before throwing.  Hits the enemy multiple times.
+
+###70200###702000
+<?kgiconKc@17?>: Shuriken Throw
+Attack by throwing a sharp-edged shuriken.
+It has a penetrating effect that damages Vitality and Posture even when guarded.
+
+Hold <?kgiconKc@17?>: Spinning Shuriken Throw
+Charges the rotational power of the shuriken before throwing.  Hits the enemy multiple times.
+
+###70300###703000
+<?kgiconKc@17?>: Phantom Butterflies
+Phantom butterflies fly out after throwing kunai.
+The phantom butterflies chase after
+enemies and can also inflict damage to
+guarding enemies.
+
+Hold <?kgiconKc@17?>: Swarming Dance
+Charge to release more butterflies.
+
+###70400###704000
+<?kgiconKc@17?>: Sen Throw
+Throw coins
+
+Hold <?kgiconKc@17?>: Raining Money
+Scatters a large amount of sen 
+
+The amount of sen thrown varies depending on how much is in your possession.
+
+  "The dirt poor throw dust,
+   The poor throw a little money,
+   The rich throw a lot of money,
+   and the filthy rich throw enough
+   money to make all of the rest cry."
+
+###70500###705000
+<?kgiconKc@17?>: Lazulite Shuriken
+Throw extremely sharp Lazulite Shuriken.
+Its piercing edge heavily damages Vitality, and damages Vitality and Posture even if guarded.  
+
+Hold <?kgiconKc@17?>: Lazulite Spinning Shuriken
+Bring the shuriken to a powerful spin before throwing.  Hits enemy multiple times.
+
+###71000
+<?kgiconKc@17?>: Shinobi Firecracker
+Scatter a flash of gunpowder in front of you.
+Easily frightens beasts.
+
+###71100###711000
+<?kgiconKc@17?>: Shinobi Firecracker
+Scatter a flash of gunpowder in front of you.
+Easily frightens beasts.
+
+Hold <?kgiconKc@17?>: Spring-load Firecracker
+Charge up the spring mechanism to scatter a flash of gunpowder in all directions while spinning.
+
+###71200###712000
+<?kgiconKc@17?>: Long Spark
+Scatter a long-lasting flash of gunpowder in front of you.
+Easily frightens beasts.
+
+Hold <?kgiconKc@17?>: Spring-load Long Spark
+Charge up the spring mechanism to scatter a long-lasting flash of gunpowder in all directions.
+
+###71300###713000
+<?kgiconKc@17?>: Purple Fume Spark
+Scatter a purple smoke emitting flash of gunpowder in front of you.
+Takes longer to explode than other firecrackers.
+Enemies blinded by the blast take slightly more Vitality and Posture damage for a brief period of time.
+
+Hold <?kgiconKc@17?>: Spring-load Purple Fume Spark
+Charge the spring mechanism to scatter a flash of gunpowder in all directions while spinning.
+
+###72000
+<?kgiconKc@17?>: Fire Breath
+Shoots a blast of fire in front of you.
+
+###72100###721000
+<?kgiconKc@17?>: Fire Breath
+Shoot fire in front of you.
+
+Hold <?kgiconKc@17?>: Flame Blast
+Charge up the spring mechanism to unleash a fire blast in front of you.
+The flame blast knocks enemies backward.
+
+###72200###722000
+<?kgiconKc@17?>: Fire Breath
+Shoots a blast of fire in front of you.
+
+Hold <?kgiconKc@17?>: Flame Blast
+Charge up the spring mechanism to release a huge blast of fire before you.
+The powerful blast knocks enemies backward.
+
+<?kgiconKc@17?>→Hold <?kgiconKc@17?>: Flowing Flames
+A continuous spray of fire before you.
+
+###72300###723000
+<?kgiconKc@17?>: Sacred Flame
+Shoot flames of holy power before you.
+Effective against apparitions.
+
+Hold <?kgiconKc@17?>: Sacred Flame Blast
+Release a blast of holy flame before you.
+The powerful blast knocks enemies backward.
+
+<?kgiconKc@17?>→Hold <?kgiconKc@17?>: Flowing Sacred Flames
+A continuous spray of holy flame before you.
+
+###73000
+<?kgiconKc@17?>: Strike
+Swing the axe down from above to strike an enemy.
+Destroys wooden shields.
+
+###73100###731000
+<?kgiconKc@17?>: Strike
+Swing the axe down from above to strike an enemy.
+Destroys wooden shields.
+
+Hold <?kgiconKc@17?>: Whirling Strike
+Whirl the axe in circles to strike enemies.
+Pressing <?kgiconKc@17?> during Whirling Strike will
+cause one to whirl again, continuing the attack.
+
+###73200###732000
+<?kgiconKc@17?>: Spark
+Bring a flaming axe down from above to strike an enemy.
+Destroys shields made of wood,
+and creates a roar of flames on hit.
+
+Hold <?kgiconKc@17?>: Whirling Strike
+Whirl the flaming axe around
+in circles to strike enemies.
+Pressing <?kgiconKc@17?> during Whirling Strike will
+cause one to whirl again, continuing the attack.
+
+###73300###733000
+<?kgiconKc@17?>: Lazulite Strike
+Swing the heavy Lazulite axe downward, causing a sound shockwave that dispels illusions.
+
+Hold <?kgiconKc@17?>: Lazulite Scythe
+Whirl the heavy Lazulite axe around
+in circles to strike enemies.
+Pressing <?kgiconKc@17?> during Lazulite Scythe will
+cause one to whirl again, continuing the attack.
+
+###74000
+<?kgiconKc@17?>: Mist Stance
+When attacked in this stance, instantly move in the direction chosen with <?kgMove?>.
+
+###74100###741000
+<?kgiconKc@17?>: Mist Stance
+When attacked in this stance, instantly move in the direction chosen with <?kgMove?>.
+
+<?kgiconKc@17?> after being attacked: Mist Raven
+Instantly move in the direction chosen with <?kgMove?>.
+
+###74200###742000
+<?kgiconKc@17?>: Red Mist Stance
+When attacked in this stance, instantly move in the direction chosen with <?kgMove?>.  The feathers left behind alight and burn enemies along your path.
+
+<?kgiconKc@17?> after taking damage: Red Mist Raven
+Instantly move in the direction chosen with <?kgMove?>.  The feathers left behind alight and burn enemies along your path.
+
+###75000
+<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>: Combo
+Perform a flurry of attacks with both the
+sword and Sabimaru. Sabimaru's attacks
+inflict the "Poison" status abnormality.
+
+###75100###751000
+<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>: Combo
+Perform a flurry of attacks with both the
+sword and Sabimaru.
+
+During the Combo, <?kgiconKc@16?>:
+Combo Change Attack
+Perform a sword attack that toggles the
+current attack combo. This turns your body
+and can also be used for evasion.
+
+###75200###752000
+<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>: Combo
+Perform a flurry of attacks with both your sword and Sabimaru.  
+Sabimaru's sharpened blade will damage enemy Vitality and Posture, even if guarded.
+
+<?kgiconKc@17?>→<?kgiconKc@16?>: Combo Change Attack
+Perform a sword attack that toggles the current attack combo.  This turns your body and can also be used for evasion.
+
+###75300###753000
+<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>: Combo 
+Perform a flurry of attacks with both the sword and Sabimaru.  
+A poison mist erupts from every swing of Sabimaru.
+
+<?kgiconKc@17?>→<?kgiconKc@16?>: Combo Change Attack
+Perform a sword attack that toggles the current attack combo.  This turns your body and can also be used for evasion.
+
+###76000
+Hold <?kgiconKc@17?>: Shelter
+Spread the Loaded Umbrella to guard from attacks in all directions.  You can also move with the fan deployed, and it will continue to block lighter attacks as you move.
+
+<?kgiconKc@17?> the moment enemy attack lands: Umbrella Deflect
+Spread the Umbrella to Deflect enemy attacks.  Umbrella Deflects are easier to time than sword Deflects.
+
+###76100###76200###76300###761000###762000###763000
+Hold <?kgiconKc@17?>: Shelter
+Spread the Loaded Umbrella to guard from attacks in all directions.  You can also move with the fan deployed, and it will continue to block lighter attacks as you move.
+
+<?kgiconKc@17?> as enemy attack lands: Umbrella Deflect
+Spread the Umbrella to Deflect enemy attacks.  Umbrella Deflects are easier to time than sword Deflects.
+While using Shelter, <?kgiconKc@18?> as enemy attack lands: 
+Umbrella Spin
+Spin the Umbrella to Deflect enemy attacks.
+
+###77000
+<?kgiconKc@17?>: Gathering Vortex
+Use the fan of leaves to wrap yourself in whirling winds.  
+
+While using Gathering Vortex, <?kgiconKc@17?>: Divine Abduction
+Release the winds around the enemy, making them suddenly face the opposite direction.
+
+Aside from certain strong enemies,
+they will lose sight of you and be vulnerable to a Deathblow.
+
+###77100###771000
+<?kgiconKc@17?>: Gathering Maelstrom
+Use the fan of leaves to wrap yourself in a whirling maelstrom.
+
+While using Gathering Maelstrom, <?kgiconKc@17?>: Divine Abduction
+Release the winds around the enemy, making them face the opposite direction.
+Can be released twice.
+
+Aside from certain strong enemies,
+they will lose sight of you and be vulnerable to a Deathblow.
+
+###77200###772000
+<?kgiconKc@17?>:Gathering Golden Vortex
+Use the fan of leaves to wrap yourself in a whirling golden vortex.  
+
+While using Gathering Golden Vortex, <?kgiconKc@17?>: Donation Whirl
+Release the winds around the enemy, making them face the opposite direction.  Additionally, they will drop items and sen.
+Can be released twice.
+
+Aside from certain strong enemies,
+they will lose sight of you and be vulnerable to a Deathblow.
+
+###78000
+<?kgiconKc@17?>: Thrust
+A frontward thrust with the spear.
+
+<?kgiconKc@17?>→<?kgiconKc@17?>: Drag
+Pull an enemy struck by the spear back towards you.  Can also tear poorly-fitting armor from heavier foes.
+
+###78100###781000
+<?kgiconKc@17?>: Thrust
+A frontward thrust with the spear.
+
+<?kgiconKc@17?>→<?kgiconKc@17?>: Drag
+Pull an enemy struck by the spear back towards you.  Can also tear poorly-fitting armor from heavier foes.
+
+Hold <?kgiconKc@17?>: Rush
+Ready your spear and rush straight ahead.
+
+###78200###782000
+<?kgiconKc@17?>: Thrust
+A frontward thrust with the spear.
+
+<?kgiconKc@17?>→<?kgiconKc@17?>: Drag
+Pull an enemy struck by the spear back towards you.  Can also tear poorly-fitting armor from heavier foes.
+
+Hold <?kgiconKc@17?>: Cleave
+Charge up your strength, then cleave through surrounding enemies.
+
+###78300###783000
+<?kgiconKc@17?>: Corkscrew Thrust
+Release a spinning corkscrew thrust at an enemy before you.
+This will damage their Vitality and Posture, even if guarded.
+
+<?kgiconKc@17?>→<?kgiconKc@17?>: Drag
+Pull an enemy struck by the spear back towards you.  Can also tear poorly-fitting armor from heavier foes.
+
+Hold <?kgiconKc@17?>: Corkscrew Rush
+Ready your spear and unleash a keen, spinning corkscrew rush.
+
+###78400###784000
+<?kgiconKc@17?>: Blazing Thrust
+A frontward thrust with the spear wreathed in flames.  Applies Burn status abnormality to enemies.
+
+<?kgiconKc@17?>→<?kgiconKc@17?>: Drag
+Pull an enemy struck by the spear back towards you.  Can also tear poorly-fitting armor from heavier foes.
+
+Hold <?kgiconKc@17?>: Leaping Flame
+Charge up your strength, then cleave through surrounding enemies and set them on fire.
+
+###79000
+<?kgiconKc@17?>: Finger Whistle
+Attract enemy attention by blowing the Finger Whistle.  Enrages beasts, making them unable to discern between friend and foe.
+
+Only the targeted enemy can hear the finger whistle when locked on.  If no target is locked, all surrounding enemies will hear the sound.
+
+###79100###791000
+<?kgiconKc@17?>: Finger Whistle
+Attract enemy attention by blowing the Finger Whistle.  Enrages beasts, making them unable to discern between friend and foe.
+
+Hold <?kgiconKc@17?>: Mountain Echo
+Produces a delayed sound after blowing the Finger Whistle.
+
+Only the targeted enemy can hear the finger whistle when locked on.  If no target is locked, all surrounding enemies will hear the sound.
+
+###79200###792000
+<?kgiconKc@17?>: Malcontent Finger Whistle
+Attract enemy attention by blowing the Finger Whistle.  Creates an opening by causing anguish in apparition-type enemies.
+
+Hold <?kgiconKc@17?>: Mountain Echo
+Perform a delayed whistle, where no sound occurs until several seconds after the whistle was blown.
+
+Only the targeted enemy can hear the finger whistle when locked on.  If no target is locked, all surrounding enemies will hear the sound.
+
+###200000
+<?kgiconKc@16?> during Grappling Hook movement: Grappling Hook Attack
+Use the forward momentum of your landing to perform a powerful sword attack.
+
+###200100
+<?kgiconKc@18?> in mid-air: Mid-air Guard
+Guard against enemy attacks in mid-air.
+
+<?kgiconKc@18?> the moment an enemy attack lands while in the air: Mid-air Deflect
+Deflect enemy attacks in mid-air.
+
+###200200
+<?kgiconKc@17?> in mid-air: Mid-air Prosthetic Tool
+Use Prosthetic Tools in mid-air.
+
+###200300
+<?kgiconKc@5?> the moment an enemy thrust attack lands: Mikiri Counter
+Stomp on the enemy's sword to render a thrust ineffective and deal a large amount of posture damage.
+
+###200400
+ <?kgiconKc@7?> while sprinting: Slide
+End a sprint by sliding, which puts you in a crouched position.
+
+###200500
+<?kgiconKc@18?>+<?kgiconKc@16?> in mid-air: Mid-air Combat Art
+
+###200600
+<?kgiconKc@6?> on posture-broken enemy: Vault Over
+Jump over and behind the enemy.
+
+###301000
+After using certain Prosthetic Tools, 
+<?kgiconKc@16?>: Chasing Slice
+Take a leap forward and perform a wide slicing attack.
+
+Applicable Prosthetic Tools:
+<?wepTextCS@70000?>
+
+<?wepTextCS@71000?>
+
+<?wepTextCS@78000?>
+
+###301100
+After using certain Prosthetic Tools, 
+<?kgiconKc@16?>: Fang and Blade
+Attack with the tool and sword
+simultaneously, or one after the other.
+
+Applicable Prosthetic Tools:
+<?wepTextSS@73000?>
+
+<?wepTextSS@78000?>
+
+<?wepTextSS@74000?>
+
+###301200
+After using certain Prosthetic Tools, 
+<?kgiconKc@16?>: Projected Force
+An attack that unleashes the effects of the Prosthetic Tool in front of you.
+
+Applicable Prosthetic Tools:
+<?wepTextPS@76000?>
+
+<?wepTextPS@79000?>
+
+###301300
+After using certain Prosthetic Tools, <?kgiconKc@16?>: Living Force
+The sword is imbued with the Tool's effect.
+
+Applicable Prosthetic Tools:
+<?wepTextES@72000?>
+
+<?wepTextES@77000?>
+
+###681000
+<?kgiconKc@16?> near an enemy high up in the air: Anti-air Deathblow
+Perform a Deathblow on an airborne enemy.
+
+###1700000###1710000###1720000###1730000###1740000###1750000###1760000###1770000###1780000###1790000###2700000
+? ? ?

@@ -1,0 +1,9 @@
+ID,Name,lv01_BorderDist_Scale,lv12_BorderDist_Scale,textureLod_Overwrite,dummy1,draw_BorderDist_Scale,shadowDraw_BorderDist_Scale,motionBlur_BorderDist_Scale,dummy2,
+0,PS4 -- PS4,1,1,1,[0|0|0],1,1,1,[0|0|0|0|0|0|0|0]
+1,PS4 Pro -- PS4Pro,1,1,1,[0|0|0],1,1,1,[0|0|0|0|0|0|0|0]
+2,Xbox One -- XboxOne,1,1,1,[0|0|0],1,1,1,[0|0|0|0|0|0|0|0]
+3,XboxOneX -- XboxOneX,1,1,1,[0|0|0],1,1,1,[0|0|0|0|0|0|0|0]
+4,Windows Low -- Windows Low,1,1,1,[0|0|0],1,1,1,[0|0|0|0|0|0|0|0]
+5,Windows Middle -- Windows Middle,1,1,1,[0|0|0],1,1,1,[0|0|0|0|0|0|0|0]
+6,Windows High -- Windows High,1,1,1,[0|0|0],1,1,1,[0|0|0|0|0|0|0|0]
+7,Stadia -- Stadia,1,1,1,[0|0|0],1,1,1,[0|0|0|0|0|0|0|0]

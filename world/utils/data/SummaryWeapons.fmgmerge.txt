@@ -1,0 +1,768 @@
+###ID 21
+
+###5000
+<?null?>
+
+###5100
+A slashing Combat Art that can hit several enemies at once.
+
+The sharp cut combined with the force of the spin can strike multiple foes, and deal damage even when guarded.
+
+A proper Shinobi technique for slicing open a path when surrounded by enemies.
+
+###5200
+A slashing Combat Art that is a spinning downward leap.  It can close large distances instantly, or create distance from foes.  
+
+This is a technique of the Nightjar Clan, the Shinobi who serve Ashina.
+The Nightjar use the weight of their massive shuriken to add force to the blow.  The Shinobi Prosthetic is made of heavy steel and can be used in a similar capacity.
+
+###5201###7000
+A slashing Combat Art in which one spins their body as they leap.  It can close large distances instantly, or create distance from foes.  
+
+The Nightjar Slash leaps with a forward and reverse spin, making it an offensive and defensive skill simultaneously.  
+
+Close in, strike, then fly away.  That style of fighting gave the Nightjar clan their name.
+
+###5300###410000
+A Combat Art that delivers a heavy, one-hit overhead sword strike.  Deals high posture damage and also recovers one's own posture with a strong forward step.
+
+The move is nothing more than a savage overhead strike, but the single-minded mastery of this technique is the heart of the Ashina style's strength.
+Once mastered, it can likely be improved.
+
+###5301###7100###410100
+A Combat Art that adds a follow-up attack to Ichimonji, yet another overhead sword strike.  Deals high posture damage and also recovers one's own posture with a strong forward step.
+
+The follow-up attack is especially useful for preventing enemy counterattacks.
+Ashina's Ichimonji is perfected with this
+follow-up strike.
+
+###5400###671000
+Combat Art that performs a high-speed
+cut from a sheathed stance.
+Charge to send out shockwaves.
+Costs Spirit Emblems to use.
+
+In his younger years, Isshin was a devil
+with the sword, spending his days in
+pursuit of life-or-death combat.
+He often ruminated on how a cut should
+be made, but his blade always moved first.
+
+###5500###411000
+Combat Art unleashing a high
+speed attack from a sheathed stance.
+Hold the stance to intercept at will.
+Costs Spirit Emblems to use.
+
+A secret technique of the Ashina style,
+devoted to the mastery of a swift kill.
+Draw a cruciform cut in the blink of an
+eye; so fast it could sever the arm of
+Shura, or so boasts Isshin Ashina.
+
+###5600###672000
+Combat Art that unleashes repeated
+attacks, overwhelming enemies with
+flowing, dance-like movements.
+
+While an Ashina Combat Art, it was
+taught by an outsider, and as such
+is considered heretical.
+The master of this technique crossed the
+Floating Passage and descended to Ashina.
+Her name was Tomoe.
+
+###5601###7200###611100
+Spiral Cloud Passage is a Combat Art
+developed to unleash shockwaves.
+Costs Spirit Emblems to use.
+
+Its namesake comes from a large eddy of
+distant cloud forming near the headwaters; the Fountainhead Spiral.
+Tomoe would watch her young master as
+he gazed longingly at the coiling clouds.
+The sight meant everything to her.
+
+###5700###670000
+A Combat Art using the Mortal Blade.  
+Costs Spirit Emblems to use.
+With the flash of a sword, the blade slashes through enemies, leaving a reddish-black, noxious mist.  The seeping mist extends the range of the blade.
+
+A technique using the blade that cannot be drawn is a feat only the oathbound of the Divine Heir could achieve.
+
+###5701###7300###612100
+A secret Combat Art using the Mortal Blade.  Costs Spirit Emblems to use.
+
+By focusing one's mind before unsheathing the Mortal Blade, one can draw additional power from it, resulting in an even more devastating, longer-ranged slash attack.  
+A technique using the blade that cannot be drawn is a feat only the oathbound of the Divine Heir could achieve.
+
+###5800
+A Combat Art where repeated attacks begin with a leaping kick.  An combined anti-air counter and sweep attack counter, followed up with a combination of kicks.
+
+A technique refined by the recluses of Senpou.  According to their practices, mastery of the Leaping Kick proves one has attained true enlightenment.  
+First, kick.  Only then can training begin.
+
+###5801###7400
+Secret technique of the Senpou combat
+style that builds upon the Leaping Kick.
+
+An enlightened state frees the mind,
+allowing for flowing, repeated attacks.
+
+The form the technique takes entirely
+depends on the user's state of mind.
+For the Wolf, the use of his cherished
+blade Kusabimaru comes naturally.
+
+###5900###510000
+A Combat Art using elbow and palm strikes.  Unleash a flurry of quick attacks, inflicting damage while preventing counterattack.
+
+The strikes are both a martial art and a form of prayer.  "Without strength, one cannot defeat the enemies of Buddha..."
+The monks keep these words firm on their closed lips, as they pray, strike, and accumulate virtuous deeds.
+
+###5901###7500###510100
+A Combat Art that adds a finishing
+attack to Praying Strikes.
+
+Unleash a furor of attacks while thwarting
+enemy movement, then pursue a reeling
+foe with a final upper-body check.
+Senpou monks once used this technique
+as a means of purging themselves of
+worldly desires.
+Other foul passions, however...
+
+###6000
+A Combat Art devised by the Great Shinobi.
+This is the secret technique of the Shinobi Combat style.
+
+Unleash a long-range, powerful thrust, then use the impaled opponent as a platform to vault into the skies.  
+Be as an owl on the hunt, and take to the skies after stabbing your prey.  Spirit Emblems are consumed when leaping.
+
+###6001###7600###610100
+An evolution of Shadowrush, this is a Secret Technique of the Ashina Mushin Compound Style.  Shadowfall is a descending, spinning slash follow-up attack that can be performed after leaping off an enemy with Shadowrush.
+Pierce, fly, and then dive back down.  Freely flying through the skies is what it means to be an owl.  Jumping off the enemy consumes Spirit Emblems.
+
+###6100###673000
+A Combat Art that unleashes a storm of attacks from the sheathed stance; so fast the blade is nigh invisible.  
+Costs Spirit Emblems to use.
+One must focus their soul on the release of the blade, nothing else.  Through that focus, the strikes achieve a god-like speed.
+Only one as honed as the aging Isshin Ashina could perform this technique.
+
+###7700###674000
+Combat Art that builds momentum in a 
+series of leaping slashes, and can 
+transition into mid-air prosthetic attacks. 
+Costs Spirit Emblems to use. 
+
+A secret art of the Way of Tomoe, which
+she performed in her master's honor.
+The sakura blossoms will soon fall. 
+If you cannot return home, at least allow
+this dance to console you.
+
+###70000
+A Shuriken Wheel Prosthetic Tool,
+fitted to the Shinobi Prosthetic.
+Costs Spirit Emblems to use.
+
+Pull a shuriken loaded into the wheel
+and launch it at a target in a single,
+flowing motion.  The swiftly thrown
+shuriken damages enemy Vitality and
+Posture, particularly against those with
+a tendency to take to the air.
+
+###70100###701000
+An enhanced Shuriken that can be empowered with rotational energy.  
+Costs Spirit Emblems to use.
+Damage an enemy's Vitality and Posture, and does huge damage to jumping enemies.
+Taking a moment to further bend the spring and build rotational energy will cause the blade to rotate after landing, damaging the enemy multiple times on hit.  
+Similar to a spinning top, but with blades.
+
+###70200###702000
+An enhanced shuriken that pierces enemies with its sharp blades.  
+Costs Spirit Emblems to use.
+These piercing blades retain momentum after landing, and will damage an enemy's Vitality and Posture, even if guarded.
+Taking a moment to further bend the spring and build rotational energy will cause the blade to rotate after landing, damaging the enemy multiple times on hit.
+
+###70300###703000
+Lady Butterfly's kunai, fitted into the shuriken wheel.  
+Costs Spirit Emblems to use.
+
+Creates a special sound when thrown, which causes phantom butterflies to follow the path of the kunai.
+The phantom butterflies chase after
+enemies and inflict damage even when guarded.
+
+###70400###704000
+A Prosthetic Tool that shoots loaded coin bundles.  
+Costs sen and Spirit Emblems to use.
+While it lacks a shuriken's range, it inflicts far more damage, as the coins hit multiple times.  The amount of coins thrown increases depending on how much money one possesses.  Being rich makes the blast incredibly strong, but an empty purse will shoot nothing but dust.
+
+###70500###705000
+Shuriken blessed with the favor of the Fountainhead Lapis Lazuli.  
+Costs Spirit Emblems to use.
+
+Its piercing edge heavily damages Vitality, and damages Vitality and Posture even if guarded.  These blades do not slow down, even after striking an enemy.
+The lazulite blue trail of light it emits in flight is reminiscent of a shooting star.
+
+###71000
+A Prosthetic Tool fitted with Robert's 
+firecrackers.  Costs Spirit Emblems.
+
+Unleashes an explosive flash that briefly blinds foes and inflicts Posture damage on beast-type enemies.  Has a wide, frontward field of effect that can impact multiple foes at once.  Suitable for temporarily immobilizing enemies and particularly good for scaring beasts.  
+
+###71100###711000
+A Firecracker upgraded with a spring
+mechanism. Costs Spirit Emblems to use.
+Unleashes a loud explosion and bright
+flash which causes foes to recoil and
+inflicts Posture damage on beast-type
+enemies.
+Charging up the spring mechanism adds
+rotational energy when spreading the
+Firecrackers, affecting enemies in all
+directions.
+
+###71200###712000
+An upgraded Firecracker using compound gunpowder.  Costs Spirit Emblems to use.
+
+Compounded gunpowder is said to have a long spark, and by increasing the proportion of Black Gunpowder the effect can be prolonged for longer than the average Firecracker.
+The flames of the firecrackers bloom for a short while.
+
+###71300###713000
+An upgraded Firecracker that uses a purple, smoke-emitting compound gunpowder.
+Costs Spirit Emblems to use.
+The tweaked compound gunpowder is known as "Purple Fume Spark".
+The addition of fatty wax lumps delays the explosion slightly.
+Enemies blinded by the blast take slightly more Vitality and Posture damage for a brief period of time.
+
+###72000
+A Prosthetic Tool made from a loaded Flame Barrel. Costs Spirit Emblems to use.  
+
+Deals fire damage to enemies via a short-range blast of fire while also inflicting Burn status.
+
+It is difficult to control the rage of those with "Red Eyes" through the power of man alone.  They do, however, fear the flame above all else.  This tool has the power to make them tremble.
+
+###72100###721000
+A Flame Barrel fitted with a gunpowder-loaded mechanism.  
+Costs Spirit Emblems to use.
+
+Deals damage to enemies with gouts of fire,
+inflicting Burn status abnormality.
+
+The spring mechanism can also be charged to release a massive blast of flames and hot air, sending opponents flying.
+
+###72200###722000
+A barrel containing smoldering resin that acts as an explosive catalyst.  
+Costs Spirit Emblems to use.
+
+Emits a short-range flame blast.  Continuous fire damage will inflict the Burn status.  
+It is able to maintain a continues stream of flames due to the smoldering resin inside of the tube mechanism.
+
+###72300###723000
+A Flame Barrel blessed with the favor of the Fountainhead Lapis Lazuli.  
+Costs Spirit Emblems to use.
+Damages even apparitions with its blazing purple flame.
+This flame does not, however, inflict Burn status abnormality.
+The sacred lapis lazuli fires are divine.
+Cleanse the deep-seated hatred with flame.
+
+###73000
+A Prosthetic Tool loaded with a heavy Shinobi Axe.  Costs Spirit Emblems to use.
+
+The strength of the Loaded Axe lies in its heft.
+
+One strike can easily turn a wooden shield into splinters or shred an enemy's posture.
+
+###73100###731000
+A Loaded Axe reinforced with a spring mechanism.  Costs Spirit Emblems to use.
+
+The strength of the Loaded Axe lies in its heft.  The weight allows one to shrug off incoming attacks, and can easily turn a wooden shield into splinters.
+Storing and unleashing energy in the spring mechanism allows for large, sweeping attacks despite its weight.
+
+###73200###732000
+A Loaded Axe with an attached percussion hammer to create flame.  
+Costs Spirit Emblems to use.
+
+Metes out attacks bathed in flame from the axe's blade.  Hitting the sparking percussion hammer causes a violent eruption of flames and increases the effective area of the attack.
+This is both firearm and heavy axe.
+
+###73300###733000
+A Loaded Axe blessed with the favor of the
+Fountainhead Lapis Lazuli.
+Costs Spirit Emblems to use.
+
+The hefty lazulite blade inflicts damage even on guarding enemies.
+The sound of the lapis lazuli blade striking home creates a powerful reverberation capable of dispelling enemy illusions.  
+
+###74000
+A Prosthetic Tool loaded with the feather of a Mist Raven.  Costs Spirit Emblems to use.
+
+When attacked in the assumed stance, disappear like the mist and move away.
+
+Once you think you've caught one, all that will remain is feathers.
+That is the mark of a true Mist Raven.
+
+###74100###741000
+Mist Raven feathers with notches in the tips.  Costs Spirit Emblems to use.
+Disappear like the mist and move away.  Can be performed not only from the assumed stance, but also after taking damage.
+The slight notches in the tips of the feathers
+give the appearance of an old Mist Raven.  They are there to allow one to dissolve into the mist even more easily.  
+
+###74200###742000
+Mist Raven fused with crimson feathers.
+Costs Spirit Emblems to use.
+
+Disappear and displace, like the mist.
+Can be performed from both the
+assumed stance and after taking damage.
+Dyed red to resemble the Great Mist Raven,
+the feathers vanish in a scorching wake.
+The great raven is a god of the land,
+and the touch of gods is to be feared.
+
+###75000
+A Prosthetic Tool made with the blade Sabimaru, allowing for a quick series of attacks together with the sword.  
+Costs Spirit Emblems to use.
+The blue, poisonous rust on Sabimaru's blade applies "Poison" status abnormality.
+Wielded in wars of old, the blade's blue rust was used to drive off inhuman Okami warrior women.  Even now, it is likely to be effective against their descendants.
+
+###75100###751000
+An improved Sabimaru with a special mechanism for unleashing the blade.  
+Costs Spirit Emblems to use.  
+
+Due to the revised mechanism, one can fluidly swap between two separate sets of attacks as desired.
+Has a blue rust poison applied to the blade that eats into enemies' defense and inflicts "Poison" status abnormality.
+
+###75200###752000
+A further improved Sabimaru with a finely sharpened blade.  
+Costs Spirit Emblems to use.  
+Repeated attacks with the newly sharpened edge of the blade will damage an enemy's Vitality and Posture, even through their guard.
+The blue rust poison on Sabimaru's blade eats its way into enemies and applies Poison status.
+
+###75300###753000
+Sabimaru blessed with the favor of the Fountainhead Lapis Lazuli.  
+Costs Spirit Emblems to use.
+
+The combination of Lapis Lazuli and the rusted blue blade produces a poisonous mist with every swing.
+Dissolving the Lapis Lazuli over the blade caused the ancient blue rust to bubble to the blade's surface.
+
+###76000
+A Prosthetic Tool created by fitting an indestructible Iron-ribbed Umbrella to the Arm.  Costs Spirit Emblems to use.
+
+When spread open, it will protect against attacks from all directions.  Hold it out while moving to protect from light attacks.
+
+But this is an umbrella after all.  It won't protect you from low attacks such as sweep attacks.
+
+###76100###761000
+A Loaded Umbrella upgraded with a magnetic mechanism.
+Costs Spirit Emblems to use.
+
+When spread open, it will protect against attacks from all directions.  Hold it out while moving to protect from light attacks.
+Has a tempered magnetic shaft that makes it nearly unbreakable.  Enemy attacks can be deflected by spinning the open umbrella.
+
+###76200###762000
+A Loaded Umbrella emblazoned with a bright red vermilion bird.
+Costs Spirit Emblems to use.
+
+When spread open, it will protect against attacks from all directions.  Hold it out while moving to protect from light attacks.
+The blessing of the vermilion bird prevents damage from fire-based attacks, and also prevents buildup of "Burn" status.
+
+###76300###763000
+A Loaded Umbrella emblazoned with a purplish-blue phoenix.
+Costs Spirit Emblems to use.
+
+When spread open, it will protect against attacks from all directions.  Hold it out while moving to protect from light attacks.
+
+The blessings of the phoenix fill the umbrella, preventing damage from apparition-type enemies.
+
+###77000
+A Prosthetic Tool loaded with a large fan.
+Costs Spirit Emblems to use.
+Gathers and releases a gust of wind,
+forcing enemies caught by the vortex to turn around.
+It is a mild sort of being spirited away that can be returned from quite quickly.
+However, it's said that one can only return from being spirited away once, and if taken again, there is no coming back.
+
+###77100###771000
+A large fan that creates a vortex of wind.  Costs Spirit Emblems to use.
+Gathers and releases a gust of wind,
+forcing enemies caught by the blast to turn around.  Can be waved twice in succession.
+It is a mild sort of being spirited away that can be returned from quite quickly.
+However, it's said that one can only return from being spirited away once, and if taken again, there is no coming back.
+
+###77200###772000
+A large and withered golden fan.  
+Costs Spirit Emblems to use.
+
+Gather illustrious golden wind and release it to force enemies caught up in the vortex to face the other way.  Can be performed twice in a row.
+Enemies that have been turned around drop items or money, to be considered "donations".
+
+###78000
+A Prosthetic Tool loaded with Gyoubu's
+Broken Horn.  Costs Spirit Emblems to use.
+
+Unleash far-reaching thrust attacks.
+Lighter enemies struck by the spear
+may be dragged towards the wielder.
+Those of large build will at times force
+themselves into poorly-fitting armor.
+Such armor could be torn clean off;
+coined by Gyoubu as Armor Stripping. 
+
+###78100###781000
+A Loaded Spear reinforced with a spring
+mechanism.  Costs Spirit Emblems to use.
+
+Unleash far-reaching thrust attacks.
+Lighter enemies struck by the spear
+may be dragged towards the wielder.
+Can also tear poorly-fitting armor from
+heavier foes.  Store energy in the spring
+mechanism and use its momentum for
+successive and relentless thrust attacks.
+
+###78200###782000
+A Loaded Spear further reinforced with
+an enhanced spring mechanism.
+Costs Spirit Emblems to use.
+
+Unleash far-reaching thrust attacks.
+Lighter enemies struck by the spear
+may be dragged towards the wielder.
+Can also tear poorly-fitting armor from
+heavier foes.  Store energy in the spring
+mechanism for a powerful cleaving attack.
+
+###78300###783000
+A Loaded Spear with a spiral chiseled into the blade.  Costs Spirit Emblems to use.
+
+Sharp thrust attacks from this Prosthetic Tool damage an enemy's Vitality and Posture, even through their guard.
+
+The spear's spiral creates a corkscrew shockwave that gouges and rends as it penetrates.
+
+###78400###784000
+A Loaded Spear with an attached percussion hammer to create flame.  
+Costs Spirit Emblems to use.
+
+Bathe the tip of the Loaded Spear in flames making it a dangerously sharp spear and firearm.  
+A charged strike of the spear will knock enemies down and consume them in a fiery blaze.  
+
+###79000
+A Prosthetic Tool created by fitting a slender finger to the Prosthetic.  
+Costs Spirit Emblems to use.
+Its sound will grab an enemy's attention and draw them to the whistle's location.  By locking on to a target, only the targeted enemy will hear the whistle.
+The sound of the finger whistle enrages beasts, making them unable to distinguish friend from foe.  
+
+###79100###791000
+A finger whistle that can create an echo effect.  Costs Spirit Emblems to use.
+
+Its sound will grab an enemy's attention and draw them to the whistle's location.  By locking on to a target, only the targeted enemy will hear the whistle.
+
+Taking a deep breath before performing a whistle allows for the sound to be delayed.
+
+###79200###792000
+Finger Whistle reinforced
+with the Malcontent's Ring.
+Costs Spirit Emblems to use.
+Can be used to drive beasts mad, and to torment apparition-type enemies.
+
+"Kingfisher" is etched onto the ring.
+The Kingfisher's cry could be heard
+along the waterfront of Sunken Valley.
+Now, she cries no more.
+
+###110000
+-
+
+###200000
+A Shinobi Martial Art that allows one to leverage the momentum of the grappling hook to perform a sword attack.
+
+The Shinobi Prosthetic is the perfect tool for cutting away excess movements by combining momentum and attack into one.
+
+###200100
+A Shinobi Martial Art that allows one to guard against or deflect enemy attacks in mid-air.
+
+Guns and other projectile weapons deal additional damage to airborne targets, and this technique can serve to prevent that damage.
+
+A shinobi is not shot down so easily.
+
+###200200
+A Shinobi Martial Art that enables the use of Prosthetic Tools while in mid-air.
+
+The Shinobi Prosthetic is heavy as it is made from iron machinery.  Despite that, it can be used in the air thanks to the techniques of its creator Dogen, and the training of its owner.  It's a good thing that Prosthetic Tools can be used when one's feet aren't on the ground.
+
+###200300
+A Shinobi Martial Art that counters enemy thrust attacks, dealing a large amount of damage to Posture.
+It is nearly impossible to perceive the speed of a thrust, but not for the sharp eyes of a Shinobi.  Use this to stomp on an enemy's weapon, opening them up for a counter-attack.  Mikiri requires impeccable timing.  A mistake may mean death, but the same can be said for your enemy.
+
+###200400
+A Shinobi Martial Art used for stealth.  Slide into a crouched position while sprinting.
+
+Sprint through an area and slide into cover or otherwise out of view.
+
+This maneuver easily deceives an enemy's eyes.
+
+###200500
+A Shinobi Martial Art that enables the use of Combat Arts while mid-air.
+
+Reduce distance with a jump or avoid a sweep attack, then deliver a Combat Art attack.
+
+The perfect martial arts skill for Shinobi battles where feet will rarely touch the ground.
+
+###200600
+A Shinobi Martial Art that allows one to leap over and behind a Posture-broken enemy.
+
+This Martial Arts technique allows the use of backstab Deathblows in the middle of battle, even without using stealth.
+
+It's only expected that Shinobi have some special tricks for up-close fighting as well.
+
+###210000
+A slashing Combat Art that whirls through its surroundings.
+
+This sharp slash can easily tear through multiple enemies and deal damage through their guard.
+
+When surrounded, use this attack to slice open a path.  
+
+###211000
+A Combat Art devised by the Great Shinobi.  Thrust your blade into an enemy from a long distance, then use the impaled opponent as a platform to leap into the skies.
+
+Taking to the sky after piercing an enemy is the way an owl hunts.
+
+Spirit Emblems are consumed when leaping.
+
+###301000
+A Shinobi Martial Art that allows one to perform a forward-dashing sword slice after using certain Prosthetic Tools.
+
+A long range Prosthetic Tool attack combined with a Chasing Slice allows one to close distance on enemies instantly.
+Applicable Prosthetic Tools:
+<?acquiredWeaponNameId@70000?>, <?acquiredWeaponNameId@71000?>, <?acquiredWeaponNameId@78000?>
+
+###301100
+After using certain Prosthetic Tools, this Shinobi Martial Art allows one to attack with the Tool and sword simultaneously, or it provides a follow-up attack for the Tool.
+
+This move allows one to kill his enemies with the fang and the blade together.
+Applicable Prosthetic Tools:
+<?acquiredWeaponNameId@73000?>, <?acquiredWeaponNameId@78000?>, <?acquiredWeaponNameId@74000?>
+
+###301200
+A Shinobi Martial Art that, after using certain Prosthetic Tools, allows one to draw the power of that Tool into the sword and release it in a forward direction.
+
+Each color of the fang brings a different sort of colorful death.
+
+Applicable Prosthetic Tools:
+<?acquiredWeaponNameId@76000?>, <?acquiredWeaponNameId@79000?>
+
+###301300
+The secret technique of the Prosthetic Combat Style.  Allows one to perform a follow-up attack with certain Tools that imbues the sword with the Tool's effect.  
+The Sculptor retired the Shinobi Prosthetic after developing this technique.  He'd gone too far, killed too many.  The flames of hatred had begun to manifest...
+Applicable Prosthetic Tools:
+<?acquiredWeaponNameId@72000?>, <?acquiredWeaponNameId@77000?>
+
+###310000
+A Combat Art that is a spinning leap attack.  It can quickly close with or create distance from foes.  
+
+This is a technique of the Nightjar Clan, the Shinobi who serve Ashina.
+The Nightjar use the weight of their massive shuriken to add force to the blow.  The Shinobi Prosthetic is made of heavy steel and can be used in a similar capacity.
+
+###310100
+A Combat Art that is a spinning leap attack.  It can quickly close with or create distance from foes.  
+This technique allows one to decide which direction to rotate in when performing Nightjar Slash.  
+
+Swoop in, strike, fly away.
+That brand of fighting gave the Nightjar Clan their name.
+
+###511000
+A Combat Art where repeated attacks begin with a leaping kick.  A combined anti-air counter and sweep attack counter, followed up with a combination of kicks.
+
+A technique refined by the recluses of Senpou.  According to their practices, mastery of the Leaping Kick proves one has attained true enlightenment.  
+First, kick.  Only then can training begin.
+
+###511100
+A Combat Art adding sword slashes and additional kicks to the Senpou Leaping Kick.  The Secret Technique of the Senpou Style.
+Attaining enlightenment causes one to be  the embodiment of Buddha.  The mind is freed, allowing for flowing flurries of attack.
+The technique has no form, and the attacks differ from person to person.  For Wolf, it's only natural that he'd rely on his master's gift when performing the technique.
+
+###620000
+A Latent Skill that reduces an enemy's ability to perceive those who are in stealth.
+
+This is another shinobi technique.  Removing one's presence is what defines a shinobi.
+
+###620100
+A Latent Skill that suppresses movement noise inhibiting an enemy's ability to hear.
+
+This is another shinobi technique.  Moving in silence is what defines a shinobi.
+
+###630000
+A Latent Skill that improves the amount of sen obtained from enemies and improves item drop rates.  
+
+In the words of the High Priest of Senpou Temple...
+"One should focus only on deeds of virtue and forego thoughts of attaining wealth."
+    
+
+###630100
+A Latent Skill that increases the amount of sen obtained from enemies and improves item drop rates.
+
+In the words of the High Priest of Senpou Temple...
+"One should focus only on continued deeds of virtue and forego any thoughts of attaining wealth."
+
+###640000
+A Latent Skill that increases the healing effects of recovery items.
+
+Emma taught this technique to the Sculptor long ago.
+
+Memorizing the flavor will enhance its effects.  However, knowing this technique doesn't make the medicine taste any better.
+
+###640100
+A Latent Skill that increases the healing effects of recovery items.
+
+Emma taught this technique to the Sculptor long ago.
+
+Savoring and memorizing the aroma will enhance its effects.  Be warned that the medicine still smells just as bad.
+
+###640200
+A Latent Skill that increases the healing effect of recovery items.
+
+Medicinal knowledge is vital for a shinobi's survival.  Receiving wounds in battle is inevitable.  
+
+The only way to learn such techniques is to be gravely injured time and time again by worthy opponents.
+
+###640300
+A Latent Skill that increases the healing effect of recovery items.
+
+Sometimes a Shinobi can survive what is certain death for a lesser warrior.  As such, medicinal knowledge is vital.
+
+The only way to learn such techniques is to be gravely injured time and time again by worthy opponents.
+
+###640400
+A Latent Skill that increases the healing effect of recovery items.
+
+A Shinobi fights as a lone wolf, without the help of others.  As such, medicinal knowledge is vital.
+
+The only way to learn such techniques is to be gravely injured time and time again by worthy opponents.
+
+###650000
+A Latent Skill that increases the maximum number of Spirit Emblems that can be held.
+
+Spirit Emblems are manifestations of regret.  Those regretful of their vile actions are haunted by many Spirit Emblems.
+
+Shinobi who have killed many must bear the physical toll of those sins.
+
+###650100
+A Latent Skill that increases the maximum number of Spirit Emblems that can be held.
+
+Spirit Emblems are manifestations of regret.  Those regretful of their vile actions are haunted by many Spirit Emblems.
+
+Shinobi who have killed many must go through life carrying the burden of their sins in their hearts.
+
+###650200
+A Latent Skill that increases the maximum number of Spirit Emblems that can be held.
+
+Spirit Emblems are manifestations of regret.  Those regretful of their vile actions are haunted by many Spirit Emblems.
+
+The Shinobi Prosthetic is a device mired in sin.  Blood spattered upon it turns to a permanent rust, proof of the user's burden.
+
+###650300
+A Latent Skill that increases the maximum number of Spirit Emblems that can be held.
+
+Spirit Emblems are manifestations of regret.  Those regretful of their vile actions are haunted by many Spirit Emblems.
+
+The Shinobi Prosthetic is a device mired in sin.  Its many small cuts and scars are proof of the countless deaths it's caused. 
+
+###650400
+A Latent Skill that increases the maximum number of Spirit Emblems that can be held.
+
+Spirit Emblems are manifestations of regret.  Those regretful of their vile actions are haunted by many Spirit Emblems.
+Perhaps this innocent beast was burdened with the karma of man.  Inheriting the karma of those they've killed is also part of being shinobi.
+
+###660000
+A Latent Skill that recovers Vitality upon performing a successful Deathblow.
+
+Deathblows provide shinobi with an opportunity to breathe.
+
+A shinobi can calm the body and mind through measured breathing, even while killing.  Doing so allows one to continue killing unabated.
+
+###660100
+A Latent Skill that recovers Vitality upon performing a successful Deathblow.
+
+Deathblows provide shinobi with an opportunity to breathe.
+
+Experiencing battles with powerful opponents further deepens this moment of respite.
+
+###660200
+A latent skill that recovers Posture
+upon executing a successful Deathblow.
+
+The Ashina Style incorporates measures
+for fighting when grossly outnumbered.
+After a kill, one must maintain a state
+of continued alertness, while exhaling
+deeply from within in order to steady
+the mind and body.
+
+###660300
+A Latent Skill that recovers Posture upon performing a successful Deathblow.
+A Shinobi must be prepared for battles in which he is outnumbered.  After killing an enemy, one must exhale, expelling both regret and reaffirming one's core to regain Posture.
+Experiencing battles with stronger opponents further deepens this moment of exhalation.
+
+###660400
+A Latent Skill that increases the damage inflicted to Posture upon executing a successful Mikiri counter.
+
+A Shinobi's eyes do not follow the blade without anticipating its movements.  Remaining composed even when fearful of its sharp edge is the key to victory.  
+
+###660500
+A Latent Skill that increases the amount
+of time a Spiritfall candy's effects last.
+
+The deeply devoted enjoy the gods' extended blessings.
+
+###660600
+A Latent Skill that increases the damage inflicted to Posture upon performing a successful Deflection.
+
+The Ashina Style is deeply rooted in the flow of the Fountainhead waters.  They believe the act of successfully deflecting a blade is akin to a carp ascending a waterfall.
+
+###660700
+A Latent Skill that, for a few seconds after Deflection, increases damage to enemy posture from all sources.
+
+The Ashina Style is deeply rooted in the flow of the Fountainhead waters.  They believe the act of successfully deflecting a blade is akin to a carp descending a waterfall.
+
+###660800
+A Latent Skill that reduces the amount of damage to Posture when attacked by an enemy with a sword.
+
+Much like the flowing waters known by the Ashina Clan, strength should not be met with more force
+but instead redirected like the flowing of water.
+
+###680000
+A secret method of breathing known as the Mibu Breathing Technique.
+This Latent Skill allows one to dive under water, as well as breathe underwater indefinitely.
+Developed by the founder of Mibu Village.
+"Those who seek to join the procession must master the Mibu Breathing Technique.  Without it, the Divine Dragon cannot be met."
+
+###681000
+A Shinobi Martial Art designed to stop cold any enemies that leap high in the air.
+
+Allows one to exploit an enemy's vulnerability in the air by jumping toward them and performing a sudden Deathblow.
+
+The perfect skill for Shinobi looking to turn the tables on airborne enemies.  
+
+###690000
+Unknown Combat Art
+
+###690100
+Unknown Combat Art Upgrade
+
+###690200
+Unknown Shinobi Martial Art
+
+###690300
+Unknown Latent Skill
+
+###690400###699000
+Unknown Secret Combat Art
+
+###1700000###1710000###1720000###1730000###1740000###1750000###1760000###1770000###1780000###1790000
+Information Locked
+
+###2700000
+This information is currently locked.

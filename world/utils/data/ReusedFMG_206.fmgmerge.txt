@@ -1,0 +1,259 @@
+###ID 206
+
+###50
+Lock On to target
+
+###51
+Thrust Attack
+
+###52
+Step Dodge
+
+###53
+Mikiri Counter
+
+###54
+Quick Items
+
+###55
+Sprint Jump
+
+###56
+Jump-Kick Counter
+
+###57
+Vault Over
+
+###58
+Eavesdrop
+
+###59
+Sprint attack
+
+###60
+Safety Roll
+
+###61
+Lightning Reversal
+
+###70
+Acquiring Enemy Loot
+
+###100
+<?gdsparam@4400?>
+
+###101
+Enhancing Physical Attributes
+
+###102
+Enhancing Attack Power
+
+###103
+Stealth Effect
+
+###104
+Vitality and Posture
+
+###105
+Burn
+
+###106
+Alert Indicators
+
+###107
+Sculptor's Idol
+
+###108
+<?gdsparam@2390?>
+
+###109
+Resurrective Power
+
+###110
+Poison
+
+###111
+Terror
+
+###112
+Shock
+
+###113
+Acquiring Skills
+
+###114
+Shinobi Style
+
+###115
+Prosthetic Style
+
+###116
+Ashina Style
+
+###117
+Senpou Temple Combat Style
+
+###118
+Creating Upgraded Prosthetic Tools
+
+###119
+Sculptor's Idol Storage
+
+###120
+Twilight
+
+###121
+<?gdsparam@1000?>
+
+###122
+Crawling Gecko
+
+###123
+Finisher Deathblow
+
+###124
+Repeated Resurrection
+
+###125
+Unseen Aid Chance
+
+###126
+Rot Essence
+
+###127
+Dragon's Blood Droplet
+
+###128
+Dragonrot
+
+###129
+Combat Arts that cost Spirit Emblems 
+
+###130
+Enemy Thrust Attacks
+
+###131
+Enemy Sweep Attacks
+
+###132
+Enemy Grab Attacks
+
+###133
+Consecutive Deflections
+
+###134
+Training
+
+###135
+Free Combat
+
+###136
+Upgraded Prosthetic Tools
+
+###150
+Posture and Deathblows
+
+###151
+Deflect
+
+###152
+Counter-slash Attack
+
+###153
+Healing Gourd
+
+###154
+Ledge Hang Deathblow
+
+###155
+Wall Hug Deathblow
+
+###156
+Using Prosthetic Tools
+
+###157
+Red Eyes
+
+###158
+Distant Grappling Hook Targets
+
+###159
+Beasts
+
+###160
+Breaking Wooden Shields
+
+###161
+Stripping Armor
+
+###162
+Posture Recovery Speed when Guarding
+
+###163
+Blue Rust Poison
+
+###164
+Shuriken
+
+###165
+Spiritfall Candy
+
+###166
+Combat Arts
+
+###167
+Skill Types
+
+###168
+Deflect Timing
+
+###169
+Those who live in Poisonous Areas
+
+###170
+Countering Enemy Projectiles
+
+###171
+Enemy Posture Recovery
+
+###172
+Prosthetic Follow-up Attacks
+
+###173
+Prosthetic Follow-up Attack - Chasing Slice
+
+###300
+Memorial Mob
+
+###301
+<?npcName@931012?>
+
+###302
+Treasure Carp
+
+###303
+Sculptor
+
+###304
+Esoteric Texts
+
+###306
+Piercing Attack
+
+###307
+Assigning Quick items to first item slot
+
+###311
+Remnant
+
+###312
+Reflection of Strength
+
+###313
+Gauntlet of Strength
+
+###315
+Memories of Another
+
+###316
+Mid-air Ledge Grab

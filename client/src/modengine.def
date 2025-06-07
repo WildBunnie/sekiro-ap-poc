@@ -1,0 +1,4 @@
+LIBRARY archipelago.dll
+
+EXPORTS
+	modengine_ext_init @1

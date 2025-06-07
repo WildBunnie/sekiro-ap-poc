@@ -1,0 +1,322 @@
+###ID 201
+
+###40331
+Confirm settings and proceed to the next screen.
+
+###40500
+Restore default settings.
+
+###101000
+Replace and confirm equipped items.
+
+###101500
+Choose item to equip.
+
+###102000
+Use and confirm items in possession.
+
+###102001
+Check and use items in your possession.
+
+###103000###110600###110601###110602###110603###110604###111000###111100
+Check and make changes to various settings.
+
+###104000
+Displays current location.
+
+###105000
+View unlocked Skills
+
+###110001
+Change up/down camera movement.
+
+###110002
+Change left/right camera movement.
+
+###110003
+Camera reset also resets the camera y-axis.
+
+###110004
+Set camera movement speed.
+
+###110005
+Set auto lock-on to new target when former target dies.
+
+###110006
+Set automated targeting assistance when not locked on.
+
+###110007
+Set whether the camera automatically avoids walls.
+
+###110101
+Switch depiction of blood on or off, or set to mild.
+
+###110102
+Switch in-game subtitles on or off.
+
+###110103
+Configure how in-game HUD is displayed.
+
+###110105
+Adjust music and cut scene volume.
+
+###110106
+Adjust sound effect volume.
+
+###110107
+Adjust voice volume.
+
+###110201
+Adjust screen brightness.
+
+###110202
+Adjust picture quality when HDR is enabled.
+
+###110209
+HDR On/Off.
+
+###110401
+Change text language.
+
+###110402
+Change spoken dialogue language.
+
+###110500
+Save the game and return to the Title Menu.
+
+###110501
+Quit game and return to title menu.
+
+###110605
+View and change settings
+
+###110701
+Set game to online/offline mode at boot
+
+###111010
+Set the device to display buttons for the Controls Guide.
+
+###111020
+Set sensitivity for camera movement with the mouse.
+
+###111022
+Set the camera's left and right movements with the mouse.
+
+###111023
+Set the camera's up and down movements with the mouse.
+
+###111024
+Set key bindings for actions.
+
+###111030
+Set button bindings for actions.
+
+###111110
+Set whether the game launches in Fullscreen or Windowed mode.
+
+###111111
+Select screen resolution.
+
+###111112
+Set whether rendering is simplified when performance drops.
+
+###111113
+Set graphics quality.
+
+###111114
+Set specific graphics quality options.
+
+###111210
+Select texture quality.
+
+###111211
+Select whether antialiasing is applied.
+
+###111212
+Select SSAO quality.
+
+###111213
+Select depth of field quality.
+
+###111214
+Select motion blur quality.
+
+###111215
+Select shadow quality.
+
+###111216
+Select light quality.
+
+###111217
+Select effects quality.
+
+###111218
+Select volumetric quality.
+
+###111219
+Select reflections quality.
+
+###111220
+Select water surface quality.
+
+###111221
+Select shader quality.
+
+###119000
+Save settings and finish setup.
+
+###211000
+Select Sculptor's Idol destination.
+
+###220000
+Choose which extraordinary foe to face
+
+###220001###220002###220003###220004###220005
+Select extraordinary foe 
+
+###225000
+Select Wolf's appearance
+
+###230000
+Select an item to purchase.
+
+###232000
+Select an item to sell.
+
+###240000
+Select items to sell.
+
+###250000
+Select a Prosthetic Tool to Craft.
+
+###260000
+Select a Prosthetic Tool to Upgrade.
+
+###270000
+Review and Acquire Skills.
+
+###280005
+Choose an Action to assign.
+
+###280010
+Press the button you want to assign.
+
+###280011
+Enter the key you want to assign.
+
+###280100
+Slow to a walk when already in motion.
+
+###280101
+Move forward.
+
+###280102
+Move backward.
+
+###280103
+Move left.
+
+###280104
+Move right.
+
+###280105
+Perform Step Dodge.  Sprint by holding while moving.
+
+###280106
+Jump.
+
+###280107
+Toggle between standing and crouching position.
+
+###280200
+Move camera up.  Switch target upwards during lock on.
+
+###280201
+Move camera down.  Switch target downwards during lock on.
+
+###280202
+Move camera left.  Switch target to the left during lock on.
+
+###280203
+Move camera right.  Switch target to the right during lock on.
+
+###280204
+Reset camera position.  Lock on/off if there is a locked on target.
+
+###280300
+Toggle active consumable.
+
+###280301
+Toggle active consumable (reverse direction).
+
+###280302
+Cycle between Prosthetic Tools.
+
+###280400
+Perform regular attack.
+
+###280401
+Use Prosthetic Tool.
+
+###280402
+Deflect, (Hold) Guard.
+
+###280403
+Use Grappling Hook.
+
+###280404
+Contextual action, (Hold) Collect Loot.
+
+###280405
+Use item.
+
+###280406
+Eavesdrop, Confirm Remnant
+
+###280500
+Open Pause Menu.
+
+###280700
+Open Remnant menu, Stop recording
+
+###291000
+Edit message
+
+###291001
+Select the timer for attached remnant
+
+###291002
+Remnant recording will begin
+
+###291003
+Update message
+
+###291004
+Choose message composition
+
+###291005
+Select word category
+
+###291006
+Select templates
+
+###291007
+Select words
+
+###291008
+Select conjunctions
+
+###292000
+Record Remnant
+
+###292001
+Overwrite
+
+###294000
+View recent Remnants you've touched
+
+###406000
+Select a Profile to load.
+
+###406001
+Select a Profile to delete.
